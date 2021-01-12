@@ -1,0 +1,7 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,30,Gard,2018-12-31,76277.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,30,Gard,2019-12-31,77626.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,30,Gard,2020-12-31,277115.0,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,30,Gard,2017-12-31,3011.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,30,Gard,2018-12-31,2725.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,30,Gard,2019-12-31,4196.0,contrats

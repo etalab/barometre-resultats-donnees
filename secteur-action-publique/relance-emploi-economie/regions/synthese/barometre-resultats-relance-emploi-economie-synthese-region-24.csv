@@ -1,0 +1,4 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,24,Centre-Val de Loire,15633.0,2019-12-31,13490.0,2017-12-31,2143.0,16.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,24,Centre-Val de Loire,34475.0,2020-11-30,32934.0,2018-11-30,1541.0,5.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,24,Centre-Val de Loire,934294.0,2020-12-31,0.0,2017-01-01,934294.0,,1170480.0,80.0,2023-12-31,bénéficiaires

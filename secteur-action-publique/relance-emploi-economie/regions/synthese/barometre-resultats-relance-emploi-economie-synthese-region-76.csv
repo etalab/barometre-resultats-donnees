@@ -1,0 +1,4 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,76,Occitanie,29942.0,2019-12-31,24257.0,2017-12-31,5685.0,23.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,76,Occitanie,87564.0,2020-11-30,79906.0,2018-11-30,7658.0,10.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,76,Occitanie,2174186.0,2020-12-31,0.0,2017-01-01,2174186.0,,2736144.0,79.0,2023-12-31,bénéficiaires

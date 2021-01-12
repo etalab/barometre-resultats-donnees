@@ -1,0 +1,4 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,86,Vienne,339454.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,86,Vienne,52.0,2020-10-31,,,,,,,,amendes dressées dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,86,Vienne,23.0,2019-12-31,20.0,2017-12-31,3.0,15.0,,,,morts dans l'année

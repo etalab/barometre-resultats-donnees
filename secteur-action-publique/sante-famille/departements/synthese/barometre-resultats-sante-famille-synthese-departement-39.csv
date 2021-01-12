@@ -1,0 +1,6 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,39,Jura,14.0,2020-06-30,14.0,2017-06-30,0.0,0.0,,,,maisons de santé
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,39,Jura,1156.0,2019-12-31,,,,,,,,pères dans l'année
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,39,Jura,10.0,2020-10-31,3.91,2019-01-31,6.0,156.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,39,Jura,64.56,2020-09-30,35.94,2019-04-30,29.0,80.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,39,Jura,7.82,2020-10-31,7.91,2020-01-31,-0.0,-1.0,,,,%

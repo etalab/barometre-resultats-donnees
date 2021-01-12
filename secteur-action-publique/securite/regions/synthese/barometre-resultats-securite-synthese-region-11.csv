@@ -1,0 +1,6 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,11,Île-de-France,1203.0,2019-12-31,1072.0,2017-12-31,131.0,12.0,,,,ordonnances dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,11,Île-de-France,8590324.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,11,Île-de-France,4609.0,2020-10-31,,,,,,,,amendes dressées dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,11,Île-de-France,2457.0,2019-12-31,2651.0,2018-12-31,-194.0,-7.0,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,11,Île-de-France,267.0,2019-12-31,319.0,2017-12-31,-52.0,-16.0,,,,morts dans l'année

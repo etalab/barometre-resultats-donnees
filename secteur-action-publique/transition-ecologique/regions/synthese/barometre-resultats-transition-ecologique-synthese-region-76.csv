@@ -1,0 +1,4 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,76,Occitanie,4814.0,2020-09-30,3826.0,2017-12-31,988.0,26.0,5280.0,68.0,2022-03-31,kilomètres
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,76,Occitanie,2620000.0,2020-06-30,1560000.0,2017-06-30,1060000.0,68.0,5790000.0,25.0,2022-12-31,habitants
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,100245.0,2020-09-30,0.0,2018-03-31,100245.0,,,,,primes et bonus

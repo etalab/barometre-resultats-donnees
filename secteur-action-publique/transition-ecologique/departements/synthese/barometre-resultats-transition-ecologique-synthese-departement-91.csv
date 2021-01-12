@@ -1,0 +1,4 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,91,Essonne,812.0,2020-09-30,679.0,2017-12-31,133.0,20.0,940.0,51.0,2022-03-31,kilomètres
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,91,Essonne,1260000.0,2020-06-30,1200000.0,2017-06-30,60000.0,5.0,1280000.0,75.0,2022-12-31,habitants
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,91,Essonne,9142.0,2020-09-30,0.0,2018-03-31,9142.0,,,,,primes et bonus

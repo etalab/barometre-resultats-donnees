@@ -1,0 +1,4 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,83,Var,463.0,2020-09-30,384.0,2017-12-31,79.0,21.0,531.0,54.0,2022-03-31,kilomètres
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,83,Var,520000.0,2020-06-30,500000.0,2017-06-30,20000.0,4.0,1050000.0,4.0,2022-12-31,habitants
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,83,Var,14543.0,2020-09-30,0.0,2018-03-31,14543.0,,,,,primes et bonus

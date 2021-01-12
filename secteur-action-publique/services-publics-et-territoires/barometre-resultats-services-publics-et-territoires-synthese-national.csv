@@ -1,0 +1,5 @@
+mesure,indicateur,id_indicateur,maille_geographique,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,national,51.0,2020-06-30,22.0,2017-03-31,29.0,132.0,80.0,50.0,2022-12-31,% de déploiement
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,national,856.0,2020-11-30,0.0,2017-01-01,856.0,,2544.0,34.0,2022-12-31,labellisations
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,national,63.0,2020-09-30,,,,,,,,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Taux de satisfaction des usagers à l’égard des services publics,tx-satisfaction-usagers-services-publics,national,76.0,2020-12-31,72.0,2017-12-31,4.0,6.0,77.0,80.0,2022-12-31,% de satisfaction

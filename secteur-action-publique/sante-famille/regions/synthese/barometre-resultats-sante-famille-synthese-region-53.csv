@@ -1,0 +1,6 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,53,Bretagne,117.0,2020-06-30,86.0,2017-06-30,31.0,36.0,,,,maisons de santé
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,53,Bretagne,17681.0,2019-12-31,,,,,,,,pères dans l'année
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,53,Bretagne,8.04,2020-10-31,8.96,2019-01-31,-1.0,-10.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,53,Bretagne,59.63,2020-09-30,32.3,2019-04-30,27.0,85.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,53,Bretagne,6.42,2020-10-31,7.04,2020-01-31,-1.0,-9.0,,,,%

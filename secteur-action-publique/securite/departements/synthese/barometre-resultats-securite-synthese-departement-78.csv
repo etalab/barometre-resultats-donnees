@@ -1,0 +1,5 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,78,Yvelines,599082.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,78,Yvelines,250.0,2020-10-31,,,,,,,,amendes dressées dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,78,Yvelines,1552.0,2019-12-31,1734.0,2018-12-31,-182.0,-10.0,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,78,Yvelines,28.0,2019-12-31,49.0,2017-12-31,-21.0,-43.0,,,,morts dans l'année

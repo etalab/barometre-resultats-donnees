@@ -1,0 +1,5 @@
+mesure,indicateur,id_indicateur,maille_geographique,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,national,49922.0,2020-09-30,40201.0,2017-12-31,9721.0,24.0,55477.0,64.0,2022-03-31,kilomètres
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,national,31810000.0,2020-06-30,15540000.0,2017-06-30,16270000.0,105.0,66170000.0,32.0,2022-12-31,habitants
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,national,879771.0,2020-09-30,0.0,2018-03-31,879771.0,,1500000.0,59.0,2022-05-31,primes et bonus
+Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,national,5102636.0,2020-12-31,2220445.0,2017-12-31,2882191.0,130.0,9000000.0,43.0,2022-05-31,habitants

@@ -1,0 +1,6 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,76,Occitanie,181.0,2020-06-30,99.0,2017-06-30,82.0,83.0,,,,maisons de santé
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,76,Occitanie,26629.0,2019-12-31,,,,,,,,pères dans l'année
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,76,Occitanie,12.22,2020-10-31,9.76,2019-01-31,2.0,25.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,76,Occitanie,58.54,2020-09-30,30.94,2019-04-30,28.0,89.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,76,Occitanie,12.45,2020-10-31,13.38,2020-01-31,-1.0,-7.0,,,,%

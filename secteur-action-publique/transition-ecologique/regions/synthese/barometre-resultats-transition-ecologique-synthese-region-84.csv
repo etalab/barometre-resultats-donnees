@@ -1,0 +1,5 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,84,Auvergne-Rhône-Alpes,4654.0,2020-09-30,3809.0,2017-12-31,845.0,22.0,5256.0,58.0,2022-03-31,kilomètres
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,84,Auvergne-Rhône-Alpes,2890000.0,2020-06-30,790000.0,2017-06-30,2100000.0,266.0,7870000.0,30.0,2022-12-31,habitants
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,84,Auvergne-Rhône-Alpes,108782.0,2020-09-30,0.0,2018-03-31,108782.0,,,,,primes et bonus
+Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,84,Auvergne-Rhône-Alpes,1197526.0,2020-12-31,,,,,,,,habitants

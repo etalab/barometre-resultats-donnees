@@ -1,0 +1,4 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,13,Bouches-du-Rhône,59.0,2020-06-30,34.0,2017-12-31,25.0,74.0,,,,% de déploiement
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,13,Bouches-du-Rhône,10.0,2020-11-30,0.0,2017-01-01,10.0,,29.0,34.0,2022-12-31,labellisations
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,13,Bouches-du-Rhône,75.0,2019-12-31,10.0,2017-12-31,65.0,650.0,,,,% de réseaux

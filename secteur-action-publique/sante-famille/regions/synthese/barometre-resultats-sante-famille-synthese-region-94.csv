@@ -1,0 +1,6 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,94,Corse,6.0,2020-06-30,4.0,2017-06-30,2.0,50.0,,,,maisons de santé
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,94,Corse,1090.0,2019-12-31,,,,,,,,pères dans l'année
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,94,Corse,35.9,2020-10-31,6.06,2019-01-31,30.0,492.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,94,Corse,60.3,2020-09-30,19.79,2019-04-30,41.0,205.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,94,Corse,12.04,2020-10-31,10.65,2020-01-31,1.0,13.0,,,,%

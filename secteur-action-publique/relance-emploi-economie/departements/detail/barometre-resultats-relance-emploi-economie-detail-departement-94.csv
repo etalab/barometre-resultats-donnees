@@ -1,0 +1,7 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,94,Val-de-Marne,2018-12-31,71900.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,94,Val-de-Marne,2019-12-31,73386.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,94,Val-de-Marne,2020-12-31,385127.0,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,94,Val-de-Marne,2017-12-31,4749.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,94,Val-de-Marne,2018-12-31,5885.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,94,Val-de-Marne,2019-12-31,6808.0,contrats

@@ -1,0 +1,6 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,18,Cher,10.0,2020-06-30,7.0,2017-06-30,3.0,43.0,,,,maisons de santé
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,18,Cher,1241.0,2019-12-31,,,,,,,,pères dans l'année
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,18,Cher,10.98,2020-10-31,6.8,2019-01-31,4.0,61.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,18,Cher,56.16,2020-09-30,30.21,2019-04-30,26.0,86.0,,,,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,18,Cher,9.18,2020-10-31,7.69,2020-01-31,1.0,19.0,,,,%
