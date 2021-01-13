@@ -1,4 +1,0 @@
-mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,02,Martinique,1075.0,2019-12-31,863.0,2017-12-31,212.0,25.0,,,,contrats
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,02,Martinique,2701.0,2020-11-30,2991.0,2018-11-30,-290.0,-10.0,,,,recrutements dans l'année
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,02,Martinique,127303.0,2020-12-31,0.0,2017-01-01,127303.0,,159023.0,80.0,2023-12-31,bénéficiaires

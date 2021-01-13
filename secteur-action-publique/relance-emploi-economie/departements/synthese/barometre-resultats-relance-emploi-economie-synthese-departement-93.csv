@@ -1,3 +1,0 @@
-mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,93,Seine-Saint-Denis,7319.0,2019-12-31,5339.0,2017-12-31,1980.0,37.0,,,,contrats
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,93,Seine-Saint-Denis,488809.0,2020-12-31,0.0,2017-01-01,488809.0,,624113.0,78.0,2023-12-31,bénéficiaires
