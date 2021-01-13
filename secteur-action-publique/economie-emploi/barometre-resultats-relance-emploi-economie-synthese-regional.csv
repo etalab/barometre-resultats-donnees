@@ -1,0 +1,54 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,84,Auvergne-Rhône-Alpes,44448.0,2019-12-31,34314.0,2017-12-31,10134.0,30.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,84,Auvergne-Rhône-Alpes,137045.0,2020-11-30,131873.0,2018-11-30,5172.0,4.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,84,Auvergne-Rhône-Alpes,2667824.0,2020-12-31,0.0,2017-01-01,2667824.0,,3582395.0,74.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,32,Hauts-de-France,28090.0,2019-12-31,24620.0,2017-12-31,3470.0,14.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,32,Hauts-de-France,77634.0,2020-11-30,71914.0,2018-11-30,5720.0,8.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,32,Hauts-de-France,2073273.0,2020-12-31,0.0,2017-01-01,2073273.0,,2545021.0,81.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,93,Provence-Alpes-Côte d'Azur,25086.0,2019-12-31,20713.0,2017-12-31,4373.0,21.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,93,Provence-Alpes-Côte d'Azur,75413.0,2020-11-30,72616.0,2018-11-30,2797.0,4.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,93,Provence-Alpes-Côte d'Azur,1791667.0,2020-12-31,0.0,2017-01-01,1791667.0,,2364756.0,76.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,44,Grand Est,30827.0,2019-12-31,24621.0,2017-12-31,6206.0,25.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,44,Grand Est,75692.0,2020-11-30,72177.0,2018-11-30,3515.0,5.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,44,Grand Est,1900968.0,2020-12-31,0.0,2017-01-01,1900968.0,,2465391.0,77.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,76,Occitanie,29942.0,2019-12-31,24257.0,2017-12-31,5685.0,23.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,76,Occitanie,87564.0,2020-11-30,79906.0,2018-11-30,7658.0,10.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,76,Occitanie,2174186.0,2020-12-31,0.0,2017-01-01,2174186.0,,2736144.0,79.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,28,Normandie,19509.0,2019-12-31,15923.0,2017-12-31,3586.0,23.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,28,Normandie,45062.0,2020-11-30,41972.0,2018-11-30,3090.0,7.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,28,Normandie,1200171.0,2020-12-31,0.0,2017-01-01,1200171.0,,1488482.0,81.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,75,Nouvelle-Aquitaine,31185.0,2019-12-31,26298.0,2017-12-31,4887.0,19.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,75,Nouvelle-Aquitaine,85893.0,2020-11-30,77781.0,2018-11-30,8112.0,10.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,75,Nouvelle-Aquitaine,2242862.0,2020-12-31,0.0,2017-01-01,2242862.0,,2811803.0,80.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,24,Centre-Val de Loire,15633.0,2019-12-31,13490.0,2017-12-31,2143.0,16.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,24,Centre-Val de Loire,34475.0,2020-11-30,32934.0,2018-11-30,1541.0,5.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,24,Centre-Val de Loire,934294.0,2020-12-31,0.0,2017-01-01,934294.0,,1170480.0,80.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,27,Bourgogne-Franche-Comté,16309.0,2019-12-31,13744.0,2017-12-31,2565.0,19.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Bourgogne-Franche-Comté,36954.0,2020-11-30,35566.0,2018-11-30,1388.0,4.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,27,Bourgogne-Franche-Comté,1026244.0,2020-12-31,0.0,2017-01-01,1026244.0,,1288820.0,80.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,53,Bretagne,17323.0,2019-12-31,14319.0,2017-12-31,3004.0,21.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,53,Bretagne,50815.0,2020-11-30,44936.0,2018-11-30,5879.0,13.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,53,Bretagne,1235059.0,2020-12-31,0.0,2017-01-01,1235059.0,,1546557.0,80.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,94,Corse,1695.0,2019-12-31,1440.0,2017-12-31,255.0,18.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,94,Corse,3406.0,2020-11-30,3072.0,2018-11-30,334.0,11.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,94,Corse,101810.0,2020-12-31,0.0,2017-01-01,101810.0,,132143.0,77.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,52,Pays de la Loire,24232.0,2019-12-31,20120.0,2017-12-31,4112.0,20.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,52,Pays de la Loire,65073.0,2020-11-30,59996.0,2018-11-30,5077.0,8.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,52,Pays de la Loire,1360883.0,2020-12-31,0.0,2017-01-01,1360883.0,,1698756.0,80.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,11,Île-de-France,77454.0,2019-12-31,55628.0,2017-12-31,21826.0,39.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,11,Île-de-France,257258.0,2020-11-30,288298.0,2018-11-30,-31040.0,-11.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,11,Île-de-France,3253287.0,2020-12-31,0.0,2017-01-01,3253287.0,,5194423.0,63.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,01,Guadeloupe,1114.0,2019-12-31,950.0,2017-12-31,164.0,17.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,01,Guadeloupe,2812.0,2020-11-30,2620.0,2018-11-30,192.0,7.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,01,Guadeloupe,122819.0,2020-12-31,0.0,2017-01-01,122819.0,,152451.0,81.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,02,Martinique,1075.0,2019-12-31,863.0,2017-12-31,212.0,25.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,02,Martinique,2701.0,2020-11-30,2991.0,2018-11-30,-290.0,-10.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,02,Martinique,127303.0,2020-12-31,0.0,2017-01-01,127303.0,,159023.0,80.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,03,Guyane,658.0,2019-12-31,346.0,2017-12-31,312.0,90.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,03,Guyane,1852.0,2020-11-30,2116.0,2018-11-30,-264.0,-12.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,03,Guyane,39525.0,2020-12-31,0.0,2017-01-01,39525.0,,54454.0,73.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,04,La Réunion,3555.0,2019-12-31,3312.0,2017-12-31,243.0,7.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,04,La Réunion,12728.0,2020-11-30,9663.0,2018-11-30,3065.0,32.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,04,La Réunion,271488.0,2020-12-31,0.0,2017-01-01,271488.0,,331029.0,82.0,2023-12-31,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,06,Mayotte,64.0,2019-12-31,0.0,2017-12-31,64.0,,,,,contrats
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,06,Mayotte,9475.0,2020-12-31,0.0,2017-01-01,9475.0,,15588.0,61.0,2023-12-31,bénéficiaires

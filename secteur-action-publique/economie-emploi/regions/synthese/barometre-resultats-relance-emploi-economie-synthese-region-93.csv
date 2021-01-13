@@ -1,0 +1,4 @@
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,93,Provence-Alpes-Côte d'Azur,25086.0,2019-12-31,20713.0,2017-12-31,4373.0,21.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,93,Provence-Alpes-Côte d'Azur,75413.0,2020-11-30,72616.0,2018-11-30,2797.0,4.0,,,,recrutements dans l'année
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,93,Provence-Alpes-Côte d'Azur,1791667.0,2020-12-31,0.0,2017-01-01,1791667.0,,2364756.0,76.0,2023-12-31,bénéficiaires

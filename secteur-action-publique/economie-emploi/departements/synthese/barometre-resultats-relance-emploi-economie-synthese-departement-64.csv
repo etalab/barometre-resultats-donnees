@@ -1,0 +1,3 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,64,Pyrénées-Atlantiques,3454.0,2019-12-31,2646.0,2017-12-31,808.0,31.0,,,,contrats
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,64,Pyrénées-Atlantiques,250848.0,2020-12-31,0.0,2017-01-01,250848.0,,322756.0,78.0,2023-12-31,bénéficiaires

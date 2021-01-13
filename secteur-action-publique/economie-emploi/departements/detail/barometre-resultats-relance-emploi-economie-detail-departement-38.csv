@@ -1,0 +1,7 @@
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,38,Isère,2018-12-31,74821.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,38,Isère,2019-12-31,76274.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,38,Isère,2020-12-31,410517.0,bénéficiaires
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,38,Isère,2017-12-31,5614.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,38,Isère,2018-12-31,5679.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,38,Isère,2019-12-31,7532.0,contrats
