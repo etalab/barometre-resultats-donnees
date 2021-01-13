@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,24,Dordogne,10.0,2020-06-30,2.0,2017-12-31,8.0,400.0,,,,% de déploiement
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,24,Dordogne,9.0,2020-11-30,0.0,2017-01-01,9.0,,33.0,27.0,2022-12-31,labellisations
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,24,Dordogne,67.0,2019-12-31,13.0,2017-12-31,54.0,415.0,,,,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,24,Dordogne,67.0,2019-12-31,13.0,2017-12-31,54.0,415.0,100.0,62.0,2022-12-31,% de réseaux
