@@ -1,4 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,73,Savoie,422439.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,73,Savoie,45.0,2020-10-31,,,,,,,,amendes dressées dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,73,Savoie,31.0,2019-12-31,35.0,2017-12-31,-4.0,-11.0,,,,morts dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,73,Savoie,100293.0,2021-02-28,161143.0,2017-03-31,-60850.0,-38.0,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,73,Savoie,69.0,2021-03-31,0.0,,69.0,,,,,amendes dressées dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,73,Savoie,3.0,2020-12-31,,,,,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,73,Savoie,23.0,2020-12-31,35.0,2017-12-31,-12.0,-34.0,,,,morts dans l'année

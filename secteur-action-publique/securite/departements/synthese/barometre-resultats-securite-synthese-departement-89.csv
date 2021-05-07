@@ -1,4 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,89,Yonne,329248.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,89,Yonne,83.0,2020-10-31,,,,,,,,amendes dressées dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,89,Yonne,41.0,2019-12-31,32.0,2017-12-31,9.0,28.0,,,,morts dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,89,Yonne,69651.0,2021-02-28,107710.0,2017-03-31,-38059.0,-35.0,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,89,Yonne,222.0,2021-03-31,0.0,,222.0,,,,,amendes dressées dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,89,Yonne,3.0,2020-12-31,,,,,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,89,Yonne,29.0,2020-12-31,32.0,2017-12-31,-3.0,-9.0,,,,morts dans l'année

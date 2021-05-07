@@ -1,4 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2B,Haute-Corse,215586.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,2B,Haute-Corse,27.0,2020-10-31,,,,,,,,amendes dressées dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2B,Haute-Corse,21.0,2019-12-31,20.0,2017-12-31,1.0,5.0,,,,morts dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2B,Haute-Corse,43894.0,2021-02-28,77028.0,2017-03-31,-33134.0,-43.0,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,2B,Haute-Corse,20.0,2021-03-31,0.0,,20.0,,,,,amendes dressées dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,2B,Haute-Corse,0.0,2020-12-31,,,,,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2B,Haute-Corse,9.0,2020-12-31,20.0,2017-12-31,-11.0,-55.0,,,,morts dans l'année

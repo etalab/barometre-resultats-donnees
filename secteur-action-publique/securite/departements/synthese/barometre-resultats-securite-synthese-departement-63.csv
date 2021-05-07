@@ -1,4 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,63,Puy-de-Dôme,483468.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,63,Puy-de-Dôme,43.0,2020-10-31,,,,,,,,amendes dressées dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,63,Puy-de-Dôme,45.0,2019-12-31,37.0,2017-12-31,8.0,22.0,,,,morts dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,63,Puy-de-Dôme,122612.0,2021-02-28,164601.0,2017-03-31,-41989.0,-26.0,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,63,Puy-de-Dôme,89.0,2021-03-31,0.0,,89.0,,,,,amendes dressées dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,63,Puy-de-Dôme,4.0,2020-12-31,,,,,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,63,Puy-de-Dôme,25.0,2020-12-31,37.0,2017-12-31,-12.0,-32.0,,,,morts dans l'année

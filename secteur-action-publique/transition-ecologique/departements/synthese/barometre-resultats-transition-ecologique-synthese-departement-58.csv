@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,58,Nièvre,342.0,2020-09-30,338.0,2017-12-31,4.0,1.0,468.0,3.0,2022-03-31,kilomètres
-Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,58,Nièvre,10000.0,2020-06-30,0.0,2017-06-30,10000.0,,210000.0,5.0,2022-12-31,habitants
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,58,Nièvre,2949.0,2020-09-30,0.0,2018-03-31,2949.0,,,,,primes et bonus
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,58,Nièvre,351.0,2021-03-31,338.0,2017-12-31,13.0,4.0,379.0,32.0,2022-03-31,kilomètres
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,58,Nièvre,3394.0,2021-03-31,0.0,2018-03-31,3394.0,,4442.0,76.0,2022-06-30,primes et bonus
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,58,Nièvre,10000.0,2020-12-31,0.0,2017-06-30,10000.0,,210000.0,5.0,2022-12-31,habitants

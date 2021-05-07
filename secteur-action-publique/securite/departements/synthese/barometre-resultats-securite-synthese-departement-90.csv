@@ -1,4 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,90,Territoire de Belfort,106993.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,90,Territoire de Belfort,19.0,2020-10-31,,,,,,,,amendes dressées dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,90,Territoire de Belfort,9.0,2019-12-31,8.0,2017-12-31,1.0,12.0,,,,morts dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,90,Territoire de Belfort,24209.0,2021-02-28,40740.0,2017-03-31,-16531.0,-41.0,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,90,Territoire de Belfort,78.0,2021-03-31,0.0,,78.0,,,,,amendes dressées dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,90,Territoire de Belfort,2.0,2020-12-31,,,,,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,90,Territoire de Belfort,6.0,2020-12-31,8.0,2017-12-31,-2.0,-25.0,,,,morts dans l'année

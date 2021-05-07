@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,60,Oise,666.0,2020-09-30,607.0,2017-12-31,59.0,10.0,840.0,25.0,2022-03-31,kilomètres
-Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,60,Oise,820000.0,2020-06-30,510000.0,2017-06-30,310000.0,61.0,820000.0,100.0,2022-12-31,habitants
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,60,Oise,10503.0,2020-09-30,0.0,2018-03-31,10503.0,,,,,primes et bonus
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,60,Oise,692.0,2021-03-31,607.0,2017-12-31,85.0,14.0,745.0,62.0,2022-03-31,kilomètres
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,60,Oise,12314.0,2021-03-31,0.0,2018-03-31,12314.0,,18466.0,67.0,2022-06-30,primes et bonus
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,60,Oise,820000.0,2020-12-31,510000.0,2017-06-30,310000.0,61.0,820000.0,100.0,2022-12-31,habitants

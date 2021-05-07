@@ -1,5 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,95,Val-d'Oise,604322.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,95,Val-d'Oise,438.0,2020-10-31,,,,,,,,amendes dressées dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,95,Val-d'Oise,307.0,2019-12-31,422.0,2018-12-31,-115.0,-27.0,,,,contrôles dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,95,Val-d'Oise,22.0,2019-12-31,39.0,2017-12-31,-17.0,-44.0,,,,morts dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,95,Val-d'Oise,83612.0,2021-02-28,118782.0,2017-03-31,-35170.0,-30.0,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,95,Val-d'Oise,1066.0,2021-03-31,0.0,,1066.0,,,,,amendes dressées dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,95,Val-d'Oise,293.0,2020-12-31,422.0,2018-12-31,-129.0,-31.0,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,95,Val-d'Oise,24.0,2020-12-31,39.0,2017-12-31,-15.0,-38.0,,,,morts dans l'année

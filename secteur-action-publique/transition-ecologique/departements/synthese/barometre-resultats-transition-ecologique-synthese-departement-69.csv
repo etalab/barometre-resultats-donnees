@@ -1,5 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,69,Rhône,896.0,2020-09-30,769.0,2017-12-31,127.0,17.0,1063.0,43.0,2022-03-31,kilomètres
-Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,69,Rhône,1450000.0,2020-06-30,80000.0,2017-06-30,1370000.0,1712.0,1820000.0,79.0,2022-12-31,habitants
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,69,Rhône,17968.0,2020-09-30,0.0,2018-03-31,17968.0,,,,,primes et bonus
-Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,69,Rhône,799510.0,2020-12-31,,,,,,,,habitants
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,69,Rhône,901.0,2021-03-31,769.0,2017-12-31,132.0,17.0,960.0,69.0,2022-03-31,kilomètres
+Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,69,Rhône,799510.0,2020-12-31,0.0,2017-12-31,799510.0,,809664.0,99.0,2022-12-31,habitants
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,69,Rhône,24415.0,2021-03-31,0.0,2018-03-31,24415.0,,42118.0,58.0,2022-06-30,primes et bonus
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,69,Rhône,1450000.0,2020-12-31,80000.0,2017-06-30,1370000.0,1712.0,1820000.0,79.0,2022-12-31,habitants

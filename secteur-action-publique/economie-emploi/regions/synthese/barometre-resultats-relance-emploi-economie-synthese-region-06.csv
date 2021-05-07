@@ -1,3 +1,8 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,06,Mayotte,64.0,2019-12-31,0.0,2017-12-31,64.0,,,,,contrats
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,06,Mayotte,9475.0,2020-12-31,0.0,2017-01-01,9475.0,,15588.0,61.0,2023-12-31,bénéficiaires
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,06,Mayotte,0.0,2021-03-31,0.0,,0.0,,,,,entreprises industrielles et agricoles
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,06,Mayotte,0.0,2021-04-30,0.0,2021-02-28,0.0,,17.0,0.0,2022-12-31,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,06,Mayotte,30.0,2021-04-30,0.0,2021-01-31,30.0,,54.0,56.0,2022-12-31,entreprises
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,06,Mayotte,260.0,2020-12-31,0.0,2017-12-31,260.0,,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,06,Mayotte,0.0,2021-02-28,0.0,2019-02-28,0.0,,,,,Recrutements de jeunes
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,06,Mayotte,625.0,2020-12-31,0.0,2017-01-31,625.0,,,,,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,06,Mayotte,6591.0,2020-12-31,0.0,2017-01-01,6591.0,,11644.0,57.0,2023-12-31,bénéficiaires

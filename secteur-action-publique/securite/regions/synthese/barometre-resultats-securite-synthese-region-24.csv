@@ -1,5 +1,6 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,24,Centre-Val de Loire,78.0,2019-12-31,72.0,2017-12-31,6.0,8.0,,,,ordonnances dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,24,Centre-Val de Loire,1796373.0,2020-10-31,,,,,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,24,Centre-Val de Loire,406.0,2020-10-31,,,,,,,,amendes dressées dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,24,Centre-Val de Loire,163.0,2019-12-31,192.0,2017-12-31,-29.0,-15.0,,,,morts dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,24,Centre-Val de Loire,419666.0,2021-02-28,670207.0,2017-03-31,-250541.0,-37.0,,,,heures de patrouille dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,24,Centre-Val de Loire,750.0,2021-03-31,0.0,,750.0,,,,,amendes dressées dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,24,Centre-Val de Loire,90.0,2020-12-31,38.0,2017-12-31,52.0,137.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,24,Centre-Val de Loire,36.0,2020-12-31,,,,,,,,contrôles dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,24,Centre-Val de Loire,110.0,2020-12-31,192.0,2017-12-31,-82.0,-43.0,,,,morts dans l'année

@@ -1,3 +1,4 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,76,Occitanie,40.0,2020-06-30,19.0,2017-12-31,21.0,111.0,,,,% de déploiement
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,76,Occitanie,129.0,2020-11-30,0.0,2017-01-01,129.0,,312.0,41.0,2022-12-31,labellisations
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,76,Occitanie,51.0,2020-12-31,19.0,2017-12-31,32.0,168.0,,,,% de déploiement
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,76,Occitanie,176.0,2021-04-30,0.0,2017-01-01,176.0,,312.0,56.0,2022-12-31,labellisations
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,76,Occitanie,6451.0,2021-03-31,0.0,,6451.0,,,,,logements

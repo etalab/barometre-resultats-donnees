@@ -1,3 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,1004.0,2019-12-31,762.0,2017-12-31,242.0,32.0,,,,contrats
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,46,Lot,67749.0,2020-12-31,0.0,2017-01-01,67749.0,,82466.0,82.0,2023-12-31,bénéficiaires
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,7.0,2021-03-31,0.0,,7.0,,,,,entreprises industrielles et agricoles
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,46,Lot,119.0,2021-04-30,21.0,2021-02-28,98.0,467.0,296.0,36.0,2022-12-31,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,114.0,2021-04-30,23.0,2021-01-31,91.0,396.0,105.0,111.0,2022-12-31,entreprises
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,1012.0,2020-12-31,762.0,2017-12-31,250.0,33.0,,,,contrats
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,46,Lot,1984.0,2020-12-31,1860.0,2018-12-31,124.0,7.0,,,,Recrutements de jeunes
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,331.0,2020-12-31,377.0,2017-01-31,-46.0,-12.0,,,,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,46,Lot,68179.0,2020-12-31,0.0,2017-01-01,68179.0,,82975.0,82.0,2023-12-31,bénéficiaires

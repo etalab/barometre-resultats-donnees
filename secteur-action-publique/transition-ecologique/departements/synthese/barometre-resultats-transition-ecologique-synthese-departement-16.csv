@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,16,Charente,151.0,2020-09-30,109.0,2017-12-31,42.0,39.0,150.0,102.0,2022-03-31,kilomètres
-Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,16,Charente,350000.0,2020-06-30,350000.0,2017-06-30,0.0,0.0,350000.0,,2022-12-31,habitants
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,16,Charente,5903.0,2020-09-30,0.0,2018-03-31,5903.0,,,,,primes et bonus
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,16,Charente,164.0,2021-03-31,109.0,2017-12-31,55.0,50.0,164.0,100.0,2022-03-31,kilomètres
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,16,Charente,6842.0,2021-03-31,0.0,2018-03-31,6842.0,,7768.0,88.0,2022-06-30,primes et bonus
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,16,Charente,350000.0,2020-12-31,350000.0,2017-06-30,0.0,0.0,350000.0,,2022-12-31,habitants
