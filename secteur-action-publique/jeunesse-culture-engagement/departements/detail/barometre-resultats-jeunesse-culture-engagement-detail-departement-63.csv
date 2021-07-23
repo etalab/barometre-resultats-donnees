@@ -1,1 +1,15 @@
-
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,63,Puy-de-Dôme,2021-04-30,0.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,63,Puy-de-Dôme,2021-05-31,3133.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,63,Puy-de-Dôme,2021-06-30,4073.0,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2019-04-30,96.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2020-11-30,97.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2020-12-31,97.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2021-01-31,97.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2021-02-28,97.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2021-03-31,100.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,63,Puy-de-Dôme,2021-06-30,290.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,63,Puy-de-Dôme,2020-12-31,128.0,enfants

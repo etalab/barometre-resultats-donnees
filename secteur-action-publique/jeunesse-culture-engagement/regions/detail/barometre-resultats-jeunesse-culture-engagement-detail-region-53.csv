@@ -1,25 +1,13 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,date,valeur,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-02-28,1237.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-03-31,1581.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-04-30,1644.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-05-31,1670.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-06-30,1704.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-07-31,4647.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-08-31,5726.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-09-30,8924.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-10-31,12818.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-11-30,16380.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-12-31,19459.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-01-31,20900.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-02-29,24104.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-03-31,25747.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-04-30,27086.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-05-31,28395.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-06-30,30495.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-07-31,32900.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-08-31,35228.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-09-30,45462.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-10-31,48672.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-12-31,54230.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2021-02-28,57903.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2021-03-31,61915.0,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2019-04-30,205.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2020-11-30,469.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2020-12-31,469.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2021-01-31,494.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2021-02-28,494.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2021-03-31,544.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2021-06-30,2715.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,53,Bretagne,2020-12-31,40.0,enfants
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2021-02-28,17320.0,utilisateurs

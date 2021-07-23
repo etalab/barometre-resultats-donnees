@@ -1,136 +1,499 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,date,valeur,unite
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2019-04-30,1156.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2020-11-30,1702.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2020-12-31,1727.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2021-01-31,1727.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2021-02-28,1732.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2021-03-31,2040.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,2021-06-30,9244.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,84,Auvergne-Rhône-Alpes,2020-12-31,1488.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2019-04-30,192.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2020-11-30,1132.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2020-12-31,1162.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2021-01-31,1173.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2021-02-28,1204.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2021-03-31,1794.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,32,Hauts-de-France,2021-06-30,3045.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,32,Hauts-de-France,2020-12-31,64.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2019-04-30,231.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2020-11-30,378.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2020-12-31,395.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2021-01-31,395.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2021-02-28,425.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2021-03-31,552.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,93,Provence-Alpes-Côte d'Azur,2021-06-30,1622.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,93,Provence-Alpes-Côte d'Azur,2020-12-31,312.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2019-04-30,63.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2020-11-30,1337.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2020-12-31,1361.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2021-01-31,1361.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2021-02-28,1361.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2021-03-31,1456.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,2021-06-30,3658.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,44,Grand Est,2020-12-31,886.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2019-04-30,395.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2020-11-30,760.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2020-12-31,835.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2021-01-31,947.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2021-02-28,957.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2021-03-31,1655.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,2021-06-30,3602.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,76,Occitanie,2020-12-31,1159.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2019-04-30,24.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2020-11-30,430.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2020-12-31,444.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2021-01-31,444.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2021-02-28,466.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2021-03-31,538.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,2021-06-30,1572.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,28,Normandie,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2019-04-30,286.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2020-11-30,1544.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2020-12-31,1609.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2021-01-31,1618.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2021-02-28,1707.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2021-03-31,1960.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,2021-06-30,8409.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,75,Nouvelle-Aquitaine,2020-12-31,449.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2019-04-30,161.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2020-11-30,427.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2020-12-31,485.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2021-01-31,485.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2021-02-28,526.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2021-03-31,593.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,24,Centre-Val de Loire,2021-06-30,3592.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,24,Centre-Val de Loire,2020-12-31,85.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2019-04-30,328.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2020-11-30,438.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2020-12-31,464.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2021-01-31,464.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2021-02-28,467.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2021-03-31,560.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,27,Bourgogne-Franche-Comté,2021-06-30,2601.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,27,Bourgogne-Franche-Comté,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2019-04-30,205.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2020-11-30,469.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2020-12-31,469.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2021-01-31,494.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2021-02-28,494.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2021-03-31,544.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,53,Bretagne,2021-06-30,2715.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,53,Bretagne,2020-12-31,40.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2019-04-30,95.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2020-11-30,95.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2020-12-31,95.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2021-01-31,95.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2021-02-28,95.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2021-03-31,148.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,94,Corse,2021-06-30,148.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,94,Corse,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2019-04-30,328.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2020-11-30,482.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2020-12-31,482.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2021-01-31,482.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2021-02-28,553.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2021-03-31,607.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,52,Pays de la Loire,2021-06-30,1950.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,52,Pays de la Loire,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2019-04-30,1381.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2020-11-30,2023.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2020-12-31,2217.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2021-01-31,2230.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2021-02-28,2248.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2021-03-31,2586.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,2021-06-30,5837.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,11,Île-de-France,2020-12-31,1802.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2019-04-30,20.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2020-11-30,278.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2020-12-31,304.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2021-01-31,304.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2021-02-28,304.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2021-03-31,304.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,01,Guadeloupe,2021-06-30,466.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,01,Guadeloupe,2020-12-31,165.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2019-04-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2020-11-30,112.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2020-12-31,112.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2021-01-31,112.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2021-02-28,112.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2021-03-31,158.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,02,Martinique,2021-06-30,90.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,02,Martinique,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2019-04-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2020-11-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2020-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2021-01-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2021-02-28,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2021-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,03,Guyane,2021-06-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,03,Guyane,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2019-04-30,2794.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2020-11-30,2800.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2020-12-31,2800.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2021-01-31,2800.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2021-02-28,2800.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2021-03-31,2840.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,04,La Réunion,2021-06-30,3108.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,04,La Réunion,2020-12-31,38.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2019-04-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2020-11-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2020-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2021-01-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2021-02-28,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2021-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,06,Mayotte,2021-06-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,06,Mayotte,2020-12-31,0.0,enfants
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2017-02-28,2354.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2019-09-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2019-10-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2019-11-30,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2019-12-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-01-31,4.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-02-29,6.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-03-31,6.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-04-30,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-05-31,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-06-30,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-07-31,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-08-31,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-09-30,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-10-31,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-11-30,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2020-12-31,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2021-01-31,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2021-02-28,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2021-03-31,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2021-04-30,7.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2021-05-31,37993.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,2021-06-30,50519.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2017-02-28,4846.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2019-10-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2019-11-30,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2019-12-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-01-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-02-29,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-03-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-04-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-05-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-06-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-07-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-08-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-09-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-10-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-11-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2020-12-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2021-01-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2021-02-28,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2021-03-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2021-04-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2021-05-31,39677.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,32,Hauts-de-France,2021-06-30,47619.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2017-02-28,2188.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-06-30,4.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-07-31,245.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-08-31,310.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-09-30,493.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-10-31,614.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-11-30,740.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-12-31,827.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-01-31,900.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-02-29,1119.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-03-31,1230.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-04-30,1306.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-05-31,1377.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-06-30,1561.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-07-31,1835.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-08-31,2100.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-09-30,2413.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-10-31,2721.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-12-31,3084.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2021-03-31,3936.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-09-30,494.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-10-31,616.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-11-30,743.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2019-12-31,831.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-01-31,905.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-02-29,1126.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-03-31,1237.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-04-30,1315.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-05-31,1386.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-06-30,1571.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-07-31,1847.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-08-31,2116.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-09-30,2431.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-10-31,2739.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-11-30,2897.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2020-12-31,3101.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2021-01-31,3427.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2021-02-28,3666.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2021-03-31,3954.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2021-04-30,4305.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2021-05-31,27112.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,93,Provence-Alpes-Côte d'Azur,2021-06-30,34161.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-02-28,1116.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-03-31,1530.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-04-30,1586.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-05-31,1636.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-06-30,1647.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-07-31,2239.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-08-31,2367.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-09-30,3081.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-10-31,4022.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-11-30,4891.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-12-31,5537.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-01-31,5946.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-02-29,6865.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-03-31,7399.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-04-30,7712.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-05-31,7983.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-06-30,8605.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-07-31,9465.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-08-31,10356.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-09-30,12276.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-10-31,13828.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-12-31,15461.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2021-03-31,18364.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-07-31,2241.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-08-31,2369.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-09-30,3086.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-10-31,4030.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-11-30,4902.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2019-12-31,5552.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-01-31,5962.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-02-29,6891.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-03-31,7429.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-04-30,7742.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-05-31,8013.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-06-30,8636.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-07-31,9499.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-08-31,10393.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-09-30,12310.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-10-31,13865.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-11-30,14598.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2020-12-31,15494.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2021-01-31,16522.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2021-02-28,17410.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2021-03-31,18398.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2021-04-30,19442.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2021-05-31,42829.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,2021-06-30,48674.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-02-28,949.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-03-31,1260.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-04-30,1328.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-05-31,1351.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-06-30,1372.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-07-31,1873.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-08-31,1999.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-09-30,2532.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-10-31,3070.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-11-30,3697.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-12-31,4321.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-01-31,4732.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-02-29,5666.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-03-31,6106.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-04-30,6344.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-05-31,6629.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-06-30,7215.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-07-31,8086.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-08-31,9113.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-09-30,10871.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-10-31,12416.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-12-31,13767.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2021-03-31,16202.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-07-31,1872.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-08-31,1998.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-09-30,2534.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-10-31,3073.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-11-30,3699.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2019-12-31,4323.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-01-31,4733.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-02-29,5673.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-03-31,6113.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-04-30,6358.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-05-31,6643.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-06-30,7230.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-07-31,8101.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-08-31,9133.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-09-30,10891.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-10-31,12438.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-11-30,13070.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2020-12-31,13786.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2021-01-31,14777.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2021-02-28,15453.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2021-03-31,16221.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2021-04-30,16954.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2021-05-31,41199.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,2021-06-30,48809.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2019-08-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2019-09-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2019-10-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2019-11-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2019-12-31,4.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-01-31,4.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-02-29,4.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-03-31,4.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-04-30,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-05-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-06-30,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-07-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-08-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-09-30,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-10-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-11-30,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2020-12-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2021-01-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2021-02-28,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2021-03-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2021-04-30,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2021-05-31,16975.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,2021-06-30,21603.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2019-07-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2019-08-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2019-09-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2019-10-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2019-11-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2019-12-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-01-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-02-29,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-03-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-04-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-05-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-06-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-07-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-08-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-09-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-10-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-11-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2020-12-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2021-01-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2021-02-28,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2021-03-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2021-04-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2021-05-31,28917.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,2021-06-30,37187.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2019-12-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-01-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-02-29,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-03-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-04-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-05-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-06-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-07-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-08-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-09-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-10-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-11-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2020-12-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2021-01-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2021-02-28,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2021-03-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2021-04-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2021-05-31,13372.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,24,Centre-Val de Loire,2021-06-30,17120.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2019-06-30,16.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2019-07-31,567.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2019-08-31,683.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2019-09-30,1119.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2019-10-31,1504.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2019-11-30,1960.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2019-12-31,2499.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-01-31,2864.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-02-29,3511.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-03-31,3904.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-04-30,4187.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-05-31,4496.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-06-30,5035.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-07-31,5772.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-08-31,6430.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-09-30,7429.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-10-31,8421.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-12-31,9706.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2021-02-28,11202.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2021-03-31,11968.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-02-28,1237.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-03-31,1581.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-04-30,1644.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-05-31,1670.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-06-30,1704.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-07-31,4647.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-08-31,5726.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-09-30,8924.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-10-31,12818.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-11-30,16380.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2019-12-31,19459.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-01-31,20900.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-02-29,24104.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-03-31,25747.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-04-30,27086.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-05-31,28395.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-06-30,30495.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-07-31,32900.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-08-31,35228.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-09-30,45462.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-10-31,48672.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2020-12-31,54230.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2021-02-28,57903.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2021-03-31,61915.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-02-28,939.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-03-31,1427.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-04-30,1491.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-05-31,1512.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-06-30,1521.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-07-31,2205.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-08-31,2365.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-09-30,3064.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-10-31,4090.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-11-30,5700.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-12-31,6754.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-01-31,7370.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-02-29,8909.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-03-31,9885.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-04-30,10537.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-05-31,11317.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-06-30,13080.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-07-31,16078.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-08-31,18844.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-09-30,22314.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-10-31,26238.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-12-31,30340.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2021-03-31,37245.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2019-12-31,2502.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-01-31,2868.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-02-29,3518.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-03-31,3912.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-04-30,4197.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-05-31,4506.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-06-30,5048.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-07-31,5785.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-08-31,6445.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-09-30,7443.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-10-31,8435.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-11-30,8960.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2020-12-31,9721.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2021-01-31,10529.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2021-02-28,11215.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2021-03-31,11982.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2021-04-30,12756.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2021-05-31,22916.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,27,Bourgogne-Franche-Comté,2021-06-30,26132.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,53,Bretagne,2021-02-28,17320.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,94,Corse,2021-04-30,0.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,94,Corse,2021-05-31,577.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,94,Corse,2021-06-30,730.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2019-07-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2019-08-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2019-09-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2019-10-31,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2019-11-30,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2019-12-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-01-31,5.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-02-29,12.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-03-31,13.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-04-30,13.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-05-31,13.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-06-30,13.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-07-31,13.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-08-31,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-09-30,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-10-31,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-11-30,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2020-12-31,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2021-01-31,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2021-02-28,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2021-03-31,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2021-04-30,14.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2021-05-31,17999.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,52,Pays de la Loire,2021-06-30,24267.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-02-28,937.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-03-31,1425.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-04-30,1489.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-05-31,1510.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-06-30,1519.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-07-31,2204.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-08-31,2364.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-09-30,3062.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-10-31,4100.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-11-30,5719.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2019-12-31,6780.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-01-31,7397.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-02-29,8952.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-03-31,9931.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-04-30,10592.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-05-31,11372.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-06-30,13135.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-07-31,16135.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-08-31,18915.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-09-30,22374.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-10-31,26312.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-11-30,28163.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2020-12-31,30405.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2021-01-31,33235.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2021-02-28,35211.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2021-03-31,37307.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2021-04-30,39599.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2021-05-31,109065.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,2021-06-30,126838.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-02-29,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-03-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-04-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-05-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-06-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-07-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-08-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-09-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-10-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-11-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2020-12-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2021-01-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2021-02-28,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2021-03-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2021-04-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2021-05-31,923.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,01,Guadeloupe,2021-06-30,1233.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,02,Martinique,2021-04-30,0.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,02,Martinique,2021-05-31,620.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,02,Martinique,2021-06-30,948.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2019-02-28,149.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2019-03-31,236.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2019-04-30,279.0,utilisateurs
@@ -152,5 +515,33 @@ Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateur
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2020-08-31,1059.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2020-09-30,1112.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2020-10-31,1164.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2020-11-30,1203.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2020-12-31,1235.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2021-01-31,1273.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2021-02-28,1302.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2021-03-31,1347.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2021-04-30,1391.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2021-05-31,1541.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,03,Guyane,2021-06-30,1618.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2019-09-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2019-10-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2019-11-30,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2019-12-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-01-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-02-29,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-03-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-04-30,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-05-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-06-30,3.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-07-31,8.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-08-31,8.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-09-30,9.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-10-31,9.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-11-30,9.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2020-12-31,9.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2021-01-31,9.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2021-02-28,9.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2021-03-31,9.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2021-04-30,9.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2021-05-31,2931.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,04,La Réunion,2021-06-30,3858.0,utilisateurs

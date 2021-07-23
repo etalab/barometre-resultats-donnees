@@ -1,8 +1,23 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,date,valeur,unite
+Plan de soutien aux petites lignes ferroviaires,Nombre de kilomètres de lignes rénovées,nb-km-lignes-regenerees,76,Occitanie,2017-12-31,5.0,kilomètres
+Plan de soutien aux petites lignes ferroviaires,Nombre de kilomètres de lignes rénovées,nb-km-lignes-regenerees,76,Occitanie,2018-12-31,11.0,kilomètres
+Plan de soutien aux petites lignes ferroviaires,Nombre de kilomètres de lignes rénovées,nb-km-lignes-regenerees,76,Occitanie,2019-12-31,24.0,kilomètres
+Plan de soutien aux petites lignes ferroviaires,Nombre de kilomètres de lignes rénovées,nb-km-lignes-regenerees,76,Occitanie,2020-12-31,42.0,kilomètres
+Plan de soutien aux petites lignes ferroviaires,Nombre de kilomètres de lignes rénovées,nb-km-lignes-regenerees,76,Occitanie,2021-05-31,63.0,kilomètres
 Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,76,Occitanie,2017-12-31,0.0,habitants
 Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,76,Occitanie,2018-12-31,0.0,habitants
 Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,76,Occitanie,2019-12-31,0.0,habitants
 Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,76,Occitanie,2020-12-31,0.0,habitants
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2019-09-30,3374.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2019-12-31,3431.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2020-03-31,3458.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2020-06-30,3522.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2020-09-30,3604.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2020-11-30,3685.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2020-12-31,3738.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2021-03-31,4009.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2021-06-30,5652.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,2021-07-31,5948.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,2018-03-31,1931.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,2018-06-30,10194.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,2018-09-30,19914.0,primes et bonus
@@ -16,6 +31,8 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,2020-09-30,100318.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,2020-12-31,111924.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,2021-03-31,121257.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,2021-04-30,124220.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,2021-05-31,127142.0,primes et bonus
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,76,Occitanie,2017-06-30,1560000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,76,Occitanie,2017-12-31,1560000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,76,Occitanie,2018-06-30,1560000.0,habitants

@@ -2,70 +2,138 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,51,Marne,2018-12-31,37851.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,51,Marne,2019-12-31,38591.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,51,Marne,2020-12-31,200059.0,bénéficiaires
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,51,Marne,2018-12-31,8795.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,51,Marne,2019-12-31,9487.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,51,Marne,2020-12-31,9186.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,51,Marne,2019-02-28,10718.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,51,Marne,2020-02-29,11782.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,51,Marne,2021-02-28,11054.0,Recrutements de jeunes
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-01-31,41.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-02-28,50.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-03-31,66.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-04-30,69.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-05-31,107.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-06-30,159.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,51,Marne,2021-02-28,33.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,51,Marne,2021-03-31,123.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,51,Marne,2021-04-30,184.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-01-31,41.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-02-28,50.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-03-31,66.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,51,Marne,2021-04-30,69.0,entreprises
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-12-31,2422.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-12-31,2534.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-12-31,2746.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-12-31,3910.0,contrats
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-01-31,810.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-02-28,789.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-03-31,798.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-04-30,819.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-05-31,830.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-06-30,845.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-07-31,854.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-08-31,829.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-09-30,861.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-10-31,906.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-11-30,883.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-12-31,888.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-01-31,840.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-02-28,827.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-03-31,817.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-04-30,834.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-05-31,815.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-06-30,831.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-07-31,799.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-08-31,765.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-09-30,808.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-10-31,832.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-11-30,836.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-12-31,814.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-01-31,806.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-02-28,794.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-03-31,815.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-04-30,838.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-05-31,846.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-06-30,847.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-07-31,870.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-08-31,815.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-09-30,838.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-10-31,873.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-11-30,887.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-12-31,866.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-01-31,851.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-02-29,847.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-03-31,815.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-04-30,643.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-05-31,720.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-06-30,810.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-07-31,867.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-08-31,817.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-09-30,859.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-10-31,850.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-11-30,830.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-12-31,845.0,bénéficiaires
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,51,Marne,2021-05-31,277.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,51,Marne,2021-06-30,421.0,entreprises
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-01-31,27.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-02-28,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-03-31,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-04-30,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-05-31,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-06-30,25.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-07-31,274.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-08-31,489.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-09-30,1141.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-10-31,231.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-11-30,164.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2017-12-31,105.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-01-31,21.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-02-28,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-03-31,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-04-30,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-05-31,4.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-06-30,37.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-07-31,309.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-08-31,516.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-09-30,1186.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-10-31,251.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-11-30,140.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2018-12-31,100.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-01-31,25.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-02-28,20.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-03-31,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-04-30,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-05-31,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-06-30,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-07-31,292.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-08-31,425.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-09-30,1540.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-10-31,256.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-11-30,134.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2019-12-31,77.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-01-31,52.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-02-29,42.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-03-31,27.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-04-30,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-05-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-06-30,17.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-07-31,268.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-08-31,757.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-09-30,1936.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-10-31,554.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-11-30,239.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2020-12-31,98.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2021-01-31,129.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2021-02-28,105.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2021-03-31,52.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,51,Marne,2021-04-30,47.0,contrats
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-01-31,810.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-02-28,789.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-03-31,798.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-04-30,819.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-05-31,830.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-06-30,845.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-07-31,854.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-08-31,829.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-09-30,861.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-10-31,906.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-11-30,883.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2017-12-31,888.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-01-31,840.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-02-28,827.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-03-31,817.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-04-30,834.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-05-31,815.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-06-30,831.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-07-31,799.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-08-31,765.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-09-30,808.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-10-31,832.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-11-30,836.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2018-12-31,814.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-01-31,806.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-02-28,794.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-03-31,815.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-04-30,838.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-05-31,846.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-06-30,847.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-07-31,870.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-08-31,815.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-09-30,838.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-10-31,873.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-11-30,887.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2019-12-31,866.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-01-31,851.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-02-29,847.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-03-31,814.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-04-30,643.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-05-31,720.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-06-30,810.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-07-31,866.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-08-31,816.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-09-30,857.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-10-31,846.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-11-30,825.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2020-12-31,835.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2021-01-31,804.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2021-02-28,827.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,51,Marne,2021-03-31,842.0,bénéficiaires *
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2020-11-30,3.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2020-12-31,7.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-01-31,9.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-02-28,10.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-03-31,13.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2020-12-31,5.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-01-31,2.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-02-28,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-03-31,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-04-30,180.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-05-31,13.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,51,Marne,2021-06-30,6.0,entreprises industrielles et agricoles
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2019-03-31,86.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2019-06-30,86.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2019-09-30,58.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2019-12-31,71.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2020-03-31,48.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2020-06-30,50.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2020-09-30,51.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2020-12-31,52.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2021-03-31,54.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,51,Marne,2021-06-30,57.0,%

@@ -1,10 +1,25 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,66,Pyrénées-Orientales,2017-10-31,33.0,% de réussite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,66,Pyrénées-Orientales,2019-10-31,40.0,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,66,Pyrénées-Orientales,2019-10-31,40.4,% de réussite
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,66,Pyrénées-Orientales,2018-03-31,22.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,66,Pyrénées-Orientales,2019-03-31,23.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,66,Pyrénées-Orientales,2019-09-30,22.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,66,Pyrénées-Orientales,2020-09-30,22.0,% de collégiens
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2017-12-31,930.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2018-03-31,555.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2018-06-30,614.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2018-09-30,705.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2018-12-31,1120.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2019-03-31,621.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2019-06-30,678.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2019-09-30,757.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2019-12-31,980.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2020-03-31,401.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2020-06-30,412.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2020-09-30,495.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2020-12-31,770.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2021-03-31,455.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,66,Pyrénées-Orientales,2021-06-30,542.0,jeunes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,66,Pyrénées-Orientales,2019-09-30,64.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,66,Pyrénées-Orientales,2020-09-30,67.0,% des classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,66,Pyrénées-Orientales,2017-09-30,58.0,unités

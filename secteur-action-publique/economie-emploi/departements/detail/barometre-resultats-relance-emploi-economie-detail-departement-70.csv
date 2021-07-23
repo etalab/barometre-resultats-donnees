@@ -2,70 +2,138 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,70,Haute-Saône,2018-12-31,20852.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,70,Haute-Saône,2019-12-31,20831.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,70,Haute-Saône,2020-12-31,91065.0,bénéficiaires
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,70,Haute-Saône,2018-12-31,2326.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,70,Haute-Saône,2019-12-31,2445.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,70,Haute-Saône,2020-12-31,2584.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,70,Haute-Saône,2019-02-28,2772.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,70,Haute-Saône,2020-02-29,2916.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,70,Haute-Saône,2021-02-28,3093.0,Recrutements de jeunes
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-01-31,19.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-02-28,30.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-03-31,50.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-04-30,54.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-05-31,56.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-06-30,146.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,70,Haute-Saône,2021-02-28,14.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,70,Haute-Saône,2021-03-31,50.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,70,Haute-Saône,2021-04-30,71.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-01-31,19.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-02-28,30.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-03-31,50.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,70,Haute-Saône,2021-04-30,54.0,entreprises
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-12-31,1064.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-12-31,1180.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-12-31,1365.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-12-31,1572.0,contrats
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-01-31,428.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-02-28,419.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-03-31,451.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-04-30,495.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-05-31,478.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-06-30,479.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-07-31,465.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-08-31,434.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-09-30,457.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-10-31,446.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-11-30,429.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-12-31,441.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-01-31,436.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-02-28,447.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-03-31,450.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-04-30,494.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-05-31,499.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-06-30,502.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-07-31,523.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-08-31,492.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-09-30,498.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-10-31,488.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-11-30,501.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-12-31,488.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-01-31,470.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-02-28,477.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-03-31,492.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-04-30,510.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-05-31,555.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-06-30,546.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-07-31,551.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-08-31,527.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-09-30,525.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-10-31,509.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-11-30,500.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-12-31,500.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-01-31,491.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-02-29,485.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-03-31,485.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-04-30,285.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-05-31,393.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-06-30,422.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-07-31,444.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-08-31,473.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-09-30,501.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-10-31,493.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-11-30,467.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-12-31,477.0,bénéficiaires
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,70,Haute-Saône,2021-05-31,91.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,70,Haute-Saône,2021-06-30,173.0,entreprises
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-01-31,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-02-28,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-03-31,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-04-30,4.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-05-31,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-06-30,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-07-31,145.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-08-31,194.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-09-30,544.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-10-31,94.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-11-30,56.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2017-12-31,51.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-01-31,14.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-02-28,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-03-31,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-04-30,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-05-31,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-06-30,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-07-31,164.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-08-31,186.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-09-30,602.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-10-31,123.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-11-30,77.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2018-12-31,47.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-01-31,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-02-28,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-03-31,11.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-04-30,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-05-31,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-06-30,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-07-31,169.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-08-31,190.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-09-30,732.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-10-31,131.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-11-30,50.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2019-12-31,27.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-01-31,20.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-02-29,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-03-31,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-04-30,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-05-31,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-06-30,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-07-31,121.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-08-31,279.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-09-30,869.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-10-31,154.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-11-30,96.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2020-12-31,50.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2021-01-31,33.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2021-02-28,30.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2021-03-31,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,70,Haute-Saône,2021-04-30,13.0,contrats
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-01-31,428.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-02-28,419.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-03-31,451.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-04-30,495.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-05-31,478.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-06-30,479.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-07-31,465.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-08-31,434.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-09-30,457.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-10-31,446.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-11-30,429.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2017-12-31,441.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-01-31,436.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-02-28,447.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-03-31,450.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-04-30,494.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-05-31,499.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-06-30,502.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-07-31,523.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-08-31,492.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-09-30,498.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-10-31,488.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-11-30,501.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2018-12-31,488.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-01-31,470.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-02-28,477.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-03-31,492.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-04-30,510.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-05-31,555.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-06-30,546.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-07-31,551.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-08-31,527.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-09-30,525.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-10-31,509.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-11-30,500.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2019-12-31,500.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-01-31,491.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-02-29,485.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-03-31,485.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-04-30,285.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-05-31,393.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-06-30,422.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-07-31,443.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-08-31,472.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-09-30,500.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-10-31,490.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-11-30,463.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2020-12-31,470.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2021-01-31,469.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2021-02-28,476.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,70,Haute-Saône,2021-03-31,433.0,bénéficiaires *
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2020-11-30,2.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2020-12-31,3.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-01-31,6.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-02-28,7.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-03-31,7.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2020-12-31,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-01-31,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-02-28,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-03-31,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-04-30,51.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-05-31,17.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,70,Haute-Saône,2021-06-30,5.0,entreprises industrielles et agricoles
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2019-03-31,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2019-06-30,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2019-09-30,80.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2019-12-31,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2020-03-31,72.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2020-06-30,80.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2020-09-30,90.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2020-12-31,97.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2021-03-31,90.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,70,Haute-Saône,2021-06-30,92.0,%

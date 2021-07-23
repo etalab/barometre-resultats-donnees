@@ -2,70 +2,138 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,54,Meurthe-et-Moselle,2018-12-31,52340.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,54,Meurthe-et-Moselle,2019-12-31,53713.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,54,Meurthe-et-Moselle,2020-12-31,259170.0,bénéficiaires
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,54,Meurthe-et-Moselle,2018-12-31,10273.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,54,Meurthe-et-Moselle,2019-12-31,10829.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,54,Meurthe-et-Moselle,2020-12-31,10907.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,54,Meurthe-et-Moselle,2019-02-28,12539.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,54,Meurthe-et-Moselle,2020-02-29,13269.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,54,Meurthe-et-Moselle,2021-02-28,13180.0,Recrutements de jeunes
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-01-31,27.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-02-28,48.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-03-31,68.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-04-30,103.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-05-31,105.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-06-30,123.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,54,Meurthe-et-Moselle,2021-02-28,40.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,54,Meurthe-et-Moselle,2021-03-31,109.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,54,Meurthe-et-Moselle,2021-04-30,160.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-01-31,27.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-02-28,48.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-03-31,68.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,54,Meurthe-et-Moselle,2021-04-30,103.0,entreprises
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-12-31,3073.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-12-31,3548.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-12-31,3633.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-12-31,4891.0,contrats
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-01-31,1742.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-02-28,1775.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-03-31,1806.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-04-30,1833.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-05-31,1820.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-06-30,1859.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-07-31,1812.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-08-31,1773.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-09-30,1821.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-10-31,1821.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-11-30,1862.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-12-31,1849.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-01-31,1779.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-02-28,1795.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-03-31,1794.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-04-30,1817.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-05-31,1836.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-06-30,1883.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-07-31,1865.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-08-31,1782.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-09-30,1809.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-10-31,1838.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-11-30,1839.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-12-31,1783.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-01-31,1741.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-02-28,1769.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-03-31,1798.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-04-30,1835.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-05-31,1849.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-06-30,1880.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-07-31,1886.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-08-31,1807.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-09-30,1874.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-10-31,1877.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-11-30,1896.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-12-31,1852.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-01-31,1795.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-02-29,1819.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-03-31,1783.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-04-30,1413.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-05-31,1686.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-06-30,1782.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-07-31,1840.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-08-31,1743.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-09-30,1831.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-10-31,1868.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-11-30,1847.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-12-31,1802.0,bénéficiaires
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,54,Meurthe-et-Moselle,2021-05-31,240.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,54,Meurthe-et-Moselle,2021-06-30,461.0,entreprises
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-01-31,19.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-02-28,16.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-03-31,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-04-30,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-05-31,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-06-30,37.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-07-31,325.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-08-31,547.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-09-30,1684.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-10-31,384.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-11-30,170.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2017-12-31,86.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-01-31,31.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-02-28,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-03-31,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-04-30,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-05-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-06-30,38.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-07-31,340.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-08-31,508.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-09-30,1771.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-10-31,378.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-11-30,187.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2018-12-31,101.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-01-31,35.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-02-28,17.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-03-31,23.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-04-30,28.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-05-31,25.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-06-30,52.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-07-31,305.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-08-31,519.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-09-30,1994.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-10-31,380.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-11-30,157.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2019-12-31,94.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-01-31,51.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-02-29,35.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-03-31,51.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-04-30,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-05-31,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-06-30,38.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-07-31,379.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-08-31,864.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-09-30,2511.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-10-31,762.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-11-30,252.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2020-12-31,152.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2021-01-31,138.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2021-02-28,143.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2021-03-31,74.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,54,Meurthe-et-Moselle,2021-04-30,35.0,contrats
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-01-31,1742.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-02-28,1775.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-03-31,1806.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-04-30,1833.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-05-31,1820.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-06-30,1859.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-07-31,1812.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-08-31,1773.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-09-30,1821.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-10-31,1821.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-11-30,1862.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2017-12-31,1849.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-01-31,1779.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-02-28,1795.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-03-31,1794.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-04-30,1817.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-05-31,1836.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-06-30,1883.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-07-31,1865.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-08-31,1782.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-09-30,1809.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-10-31,1838.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-11-30,1839.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2018-12-31,1783.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-01-31,1741.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-02-28,1769.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-03-31,1798.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-04-30,1835.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-05-31,1849.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-06-30,1880.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-07-31,1886.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-08-31,1807.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-09-30,1874.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-10-31,1877.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-11-30,1896.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2019-12-31,1852.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-01-31,1795.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-02-29,1819.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-03-31,1783.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-04-30,1413.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-05-31,1686.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-06-30,1782.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-07-31,1838.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-08-31,1742.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-09-30,1828.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-10-31,1861.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-11-30,1837.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2020-12-31,1796.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2021-01-31,1784.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2021-02-28,1857.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,54,Meurthe-et-Moselle,2021-03-31,1923.0,bénéficiaires *
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2020-11-30,0.0,entreprises industrielles et agricoles
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2020-12-31,4.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-01-31,5.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-02-28,5.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-03-31,9.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-01-31,2.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-02-28,2.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-03-31,4.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-04-30,142.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-05-31,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,54,Meurthe-et-Moselle,2021-06-30,2.0,entreprises industrielles et agricoles
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2019-03-31,38.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2019-06-30,62.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2019-09-30,64.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2019-12-31,87.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2020-03-31,82.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2020-06-30,83.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2020-09-30,86.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2020-12-31,92.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2021-03-31,92.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,54,Meurthe-et-Moselle,2021-06-30,96.0,%

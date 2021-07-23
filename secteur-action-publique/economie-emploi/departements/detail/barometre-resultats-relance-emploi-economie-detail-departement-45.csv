@@ -2,70 +2,138 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,45,Loiret,2018-12-31,43077.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,45,Loiret,2019-12-31,44099.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,45,Loiret,2020-12-31,234364.0,bénéficiaires
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,45,Loiret,2018-12-31,10972.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,45,Loiret,2019-12-31,11510.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,45,Loiret,2020-12-31,11203.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,45,Loiret,2019-02-28,13365.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,45,Loiret,2020-02-29,14128.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,45,Loiret,2021-02-28,13408.0,Recrutements de jeunes
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-01-31,22.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-02-28,54.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-03-31,67.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-04-30,68.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-05-31,68.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-06-30,68.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,45,Loiret,2021-02-28,48.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,45,Loiret,2021-03-31,125.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,45,Loiret,2021-04-30,201.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-01-31,22.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-02-28,54.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-03-31,67.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,45,Loiret,2021-04-30,68.0,entreprises
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-12-31,3886.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-12-31,3879.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-12-31,4051.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-12-31,4647.0,contrats
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-01-31,732.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-02-28,740.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-03-31,772.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-04-30,783.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-05-31,784.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-06-30,805.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-07-31,796.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-08-31,757.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-09-30,748.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-10-31,783.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-11-30,779.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-12-31,769.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-01-31,729.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-02-28,742.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-03-31,774.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-04-30,791.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-05-31,787.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-06-30,817.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-07-31,810.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-08-31,751.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-09-30,789.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-10-31,799.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-11-30,786.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-12-31,763.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-01-31,748.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-02-28,752.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-03-31,790.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-04-30,805.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-05-31,811.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-06-30,807.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-07-31,823.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-08-31,783.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-09-30,801.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-10-31,804.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-11-30,849.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-12-31,824.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-01-31,786.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-02-29,798.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-03-31,775.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-04-30,527.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-05-31,684.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-06-30,770.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-07-31,791.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-08-31,803.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-09-30,839.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-10-31,837.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-11-30,833.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-12-31,802.0,bénéficiaires
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,45,Loiret,2021-05-31,276.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,45,Loiret,2021-06-30,479.0,entreprises
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-01-31,36.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-02-28,21.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-03-31,17.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-04-30,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-05-31,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-06-30,23.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-07-31,273.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-08-31,507.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-09-30,2192.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-10-31,359.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-11-30,186.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2017-12-31,117.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-01-31,67.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-02-28,22.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-03-31,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-04-30,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-05-31,15.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-06-30,17.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-07-31,262.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-08-31,513.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-09-30,2354.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-10-31,358.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-11-30,127.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2018-12-31,97.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-01-31,36.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-02-28,24.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-03-31,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-04-30,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-05-31,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-06-30,32.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-07-31,262.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-08-31,539.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-09-30,2552.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-10-31,370.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-11-30,184.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2019-12-31,97.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-01-31,55.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-02-29,28.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-03-31,24.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-04-30,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-05-31,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-06-30,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-07-31,252.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-08-31,771.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-09-30,2935.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-10-31,594.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-11-30,260.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2020-12-31,115.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2021-01-31,107.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2021-02-28,92.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2021-03-31,55.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,45,Loiret,2021-04-30,16.0,contrats
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-01-31,732.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-02-28,740.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-03-31,772.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-04-30,783.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-05-31,784.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-06-30,805.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-07-31,796.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-08-31,757.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-09-30,748.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-10-31,783.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-11-30,779.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2017-12-31,769.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-01-31,729.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-02-28,742.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-03-31,774.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-04-30,791.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-05-31,787.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-06-30,817.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-07-31,810.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-08-31,751.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-09-30,789.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-10-31,799.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-11-30,786.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2018-12-31,763.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-01-31,748.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-02-28,752.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-03-31,790.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-04-30,805.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-05-31,811.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-06-30,807.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-07-31,823.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-08-31,783.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-09-30,801.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-10-31,804.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-11-30,849.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2019-12-31,824.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-01-31,786.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-02-29,798.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-03-31,775.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-04-30,527.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-05-31,684.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-06-30,770.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-07-31,790.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-08-31,802.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-09-30,837.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-10-31,833.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-11-30,828.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2020-12-31,792.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2021-01-31,789.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2021-02-28,845.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,45,Loiret,2021-03-31,899.0,bénéficiaires *
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2020-11-30,4.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2020-12-31,11.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-01-31,17.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-02-28,18.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-03-31,19.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2020-12-31,7.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-01-31,6.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-02-28,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-03-31,9.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-04-30,135.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-05-31,17.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,45,Loiret,2021-06-30,75.0,entreprises industrielles et agricoles
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2019-03-31,40.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2019-06-30,60.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2019-09-30,75.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2019-12-31,95.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2020-03-31,65.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2020-06-30,67.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2020-09-30,68.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2020-12-31,77.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2021-03-31,75.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,45,Loiret,2021-06-30,79.0,%

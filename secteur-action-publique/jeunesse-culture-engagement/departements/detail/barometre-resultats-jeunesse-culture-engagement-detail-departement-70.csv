@@ -1,1 +1,31 @@
-
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2019-12-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-01-31,1.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-02-29,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-03-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-04-30,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-05-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-06-30,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-07-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-08-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-09-30,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-10-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-11-30,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2020-12-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2021-01-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2021-02-28,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2021-03-31,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2021-04-30,2.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2021-05-31,761.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,70,Haute-Saône,2021-06-30,1013.0,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2019-04-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2020-11-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2020-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2021-01-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2021-02-28,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2021-03-31,15.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,70,Haute-Saône,2021-06-30,21.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,70,Haute-Saône,2020-12-31,0.0,enfants

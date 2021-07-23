@@ -2,70 +2,138 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,2B,Haute-Corse,2018-12-31,17195.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,2B,Haute-Corse,2019-12-31,17181.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,2B,Haute-Corse,2020-12-31,56498.0,bénéficiaires
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2B,Haute-Corse,2018-12-31,1596.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2B,Haute-Corse,2019-12-31,1740.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2B,Haute-Corse,2020-12-31,1702.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2B,Haute-Corse,2019-02-28,2031.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2B,Haute-Corse,2020-02-29,2218.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2B,Haute-Corse,2021-02-28,2127.0,Recrutements de jeunes
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-01-31,109.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-02-28,46.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-03-31,44.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-04-30,56.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-05-31,61.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-06-30,67.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,2B,Haute-Corse,2021-02-28,41.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,2B,Haute-Corse,2021-03-31,135.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,2B,Haute-Corse,2021-04-30,184.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-01-31,109.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-02-28,46.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-03-31,44.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,2B,Haute-Corse,2021-04-30,56.0,entreprises
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-12-31,693.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-12-31,653.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-12-31,877.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-12-31,0.0,contrats
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-01-31,226.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-02-28,237.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-03-31,249.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-04-30,239.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-05-31,243.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-06-30,239.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-07-31,245.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-08-31,238.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-09-30,247.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-10-31,231.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-11-30,239.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-12-31,238.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-01-31,237.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-02-28,230.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-03-31,218.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-04-30,225.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-05-31,226.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-06-30,228.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-07-31,233.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-08-31,230.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-09-30,227.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-10-31,226.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-11-30,224.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-12-31,223.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-01-31,228.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-02-28,236.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-03-31,238.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-04-30,245.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-05-31,238.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-06-30,233.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-07-31,226.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-08-31,224.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-09-30,224.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-10-31,231.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-11-30,228.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-12-31,220.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-01-31,226.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-02-29,235.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-03-31,236.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-04-30,193.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-05-31,207.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-06-30,230.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-07-31,235.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-08-31,218.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-09-30,229.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-10-31,257.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-11-30,247.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-12-31,239.0,bénéficiaires
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,2B,Haute-Corse,2021-05-31,218.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,2B,Haute-Corse,2021-06-30,305.0,entreprises
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-01-31,14.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-02-28,14.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-03-31,23.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-04-30,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-05-31,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-06-30,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-07-31,55.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-08-31,52.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-09-30,232.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-10-31,158.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-11-30,62.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2017-12-31,57.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-01-31,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-02-28,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-03-31,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-04-30,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-05-31,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-06-30,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-07-31,53.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-08-31,36.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-09-30,247.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-10-31,148.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-11-30,74.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2018-12-31,70.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-01-31,19.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-02-28,16.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-03-31,17.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-04-30,14.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-05-31,14.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-06-30,14.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-07-31,51.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-08-31,52.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-09-30,299.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-10-31,198.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-11-30,97.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2019-12-31,57.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-01-31,43.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-02-29,32.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-03-31,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-04-30,0.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-05-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-06-30,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-07-31,39.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-08-31,67.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-09-30,335.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-10-31,252.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-11-30,90.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2020-12-31,44.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2021-01-31,61.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2021-02-28,76.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2021-03-31,43.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2B,Haute-Corse,2021-04-30,16.0,contrats
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-01-31,226.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-02-28,237.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-03-31,249.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-04-30,239.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-05-31,243.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-06-30,239.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-07-31,245.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-08-31,238.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-09-30,247.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-10-31,231.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-11-30,239.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2017-12-31,238.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-01-31,237.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-02-28,230.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-03-31,218.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-04-30,225.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-05-31,226.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-06-30,228.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-07-31,233.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-08-31,230.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-09-30,227.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-10-31,226.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-11-30,224.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2018-12-31,223.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-01-31,228.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-02-28,236.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-03-31,238.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-04-30,245.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-05-31,238.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-06-30,233.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-07-31,226.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-08-31,224.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-09-30,224.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-10-31,231.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-11-30,228.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2019-12-31,220.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-01-31,226.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-02-29,235.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-03-31,236.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-04-30,193.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-05-31,207.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-06-30,230.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-07-31,235.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-08-31,218.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-09-30,229.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-10-31,256.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-11-30,246.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2020-12-31,238.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2021-01-31,246.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2021-02-28,253.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,2B,Haute-Corse,2021-03-31,268.0,bénéficiaires *
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2020-11-30,0.0,entreprises industrielles et agricoles
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2020-12-31,2.0,entreprises industrielles et agricoles
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2021-01-31,2.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2021-02-28,5.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2021-03-31,5.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2021-02-28,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2021-03-31,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2021-04-30,0.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2021-05-31,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,2B,Haute-Corse,2021-06-30,2.0,entreprises industrielles et agricoles
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2019-03-31,0.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2019-06-30,0.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2019-09-30,60.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2019-12-31,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2020-03-31,64.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2020-06-30,65.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2020-09-30,70.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2020-12-31,75.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2021-03-31,62.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,2B,Haute-Corse,2021-06-30,69.0,%

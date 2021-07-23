@@ -1,4 +1,14 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,date,valeur,unite
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2019-09-30,48.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2019-12-31,62.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2020-03-31,71.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2020-06-30,70.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2020-09-30,73.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2020-11-30,75.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2020-12-31,75.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2021-03-31,116.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2021-06-30,125.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,2021-07-31,224.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,2018-03-31,89.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,2018-06-30,360.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,2018-09-30,678.0,primes et bonus
@@ -12,6 +22,8 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,2020-09-30,3301.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,2020-12-31,4233.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,2021-03-31,4642.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,2021-04-30,4781.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,2021-05-31,4884.0,primes et bonus
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,94,Corse,2017-06-30,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,94,Corse,2017-12-31,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,94,Corse,2018-06-30,0.0,habitants

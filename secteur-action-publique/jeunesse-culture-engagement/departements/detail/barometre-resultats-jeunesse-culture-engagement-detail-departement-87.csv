@@ -1,1 +1,15 @@
-
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,87,Haute-Vienne,2021-04-30,0.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,87,Haute-Vienne,2021-05-31,1887.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,87,Haute-Vienne,2021-06-30,2417.0,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2019-04-30,104.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2020-11-30,164.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2020-12-31,204.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2021-01-31,204.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2021-02-28,204.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2021-03-31,208.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,87,Haute-Vienne,2021-06-30,996.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,87,Haute-Vienne,2020-12-31,0.0,enfants

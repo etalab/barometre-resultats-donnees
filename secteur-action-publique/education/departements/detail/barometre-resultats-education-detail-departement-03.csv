@@ -1,10 +1,25 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,03,Allier,2017-10-31,48.0,% de réussite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,03,Allier,2019-10-31,53.0,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,03,Allier,2017-10-31,48.1,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,03,Allier,2019-10-31,53.1,% de réussite
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,03,Allier,2018-03-31,26.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,03,Allier,2019-03-31,31.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,03,Allier,2019-09-30,32.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,03,Allier,2020-09-30,32.0,% de collégiens
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2017-12-31,642.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2018-03-31,459.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2018-06-30,511.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2018-09-30,767.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2018-12-31,1003.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2019-03-31,546.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2019-06-30,586.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2019-09-30,779.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2019-12-31,935.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2020-03-31,416.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2020-06-30,427.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2020-09-30,482.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2020-12-31,717.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2021-03-31,362.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,03,Allier,2021-06-30,390.0,jeunes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,03,Allier,2019-09-30,85.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,03,Allier,2020-09-30,90.0,% des classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,03,Allier,2017-09-30,57.0,unités

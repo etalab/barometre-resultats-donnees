@@ -1,10 +1,25 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,93,Seine-Saint-Denis,2017-10-31,38.0,% de réussite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,93,Seine-Saint-Denis,2019-10-31,40.0,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,93,Seine-Saint-Denis,2017-10-31,37.6,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,93,Seine-Saint-Denis,2019-10-31,39.7,% de réussite
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,93,Seine-Saint-Denis,2018-03-31,20.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,93,Seine-Saint-Denis,2019-03-31,27.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,93,Seine-Saint-Denis,2019-09-30,26.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,93,Seine-Saint-Denis,2020-09-30,30.0,% de collégiens
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2017-12-31,1943.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2018-03-31,1158.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2018-06-30,1356.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2018-09-30,1710.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2018-12-31,2368.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2019-03-31,1434.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2019-06-30,1629.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2019-09-30,1956.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2019-12-31,2538.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2020-03-31,1158.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2020-06-30,1227.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2020-09-30,1630.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2020-12-31,2392.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2021-03-31,1583.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,93,Seine-Saint-Denis,2021-06-30,1837.0,jeunes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,93,Seine-Saint-Denis,2019-09-30,80.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,93,Seine-Saint-Denis,2020-09-30,85.0,% des classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,93,Seine-Saint-Denis,2017-09-30,186.0,unités

@@ -1,1 +1,4 @@
-
+mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,84,Auvergne-Rhône-Alpes,50519.0,2021-06-30,0,2017-01-01,50519.0,,182811.0,28.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,84,Auvergne-Rhône-Alpes,1488.0,2020-12-31,0,,1488.0,,10984.0,14.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,84,Auvergne-Rhône-Alpes,9244.0,2021-06-30,0,,9244.0,,23902.0,39.0,2022-12-31,attestations

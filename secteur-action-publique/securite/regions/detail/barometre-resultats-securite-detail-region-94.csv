@@ -1,4 +1,21 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,date,valeur,unite
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2017-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2017-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2017-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2017-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2018-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2018-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2018-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2018-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2019-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2019-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2019-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2019-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2020-03-31,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2020-06-30,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2020-09-30,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2020-12-31,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,2021-03-31,0.0,ordonnances dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2020-08-31,0.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2020-09-30,22.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2020-10-31,30.0,amendes dressées dans l'année
@@ -7,6 +24,9 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2021-01-31,11.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2021-02-28,16.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2021-03-31,17.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2021-04-30,20.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2021-05-31,10.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,2021-06-30,15.0,amendes dressées dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,94,Corse,2017-01-31,1.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,94,Corse,2017-02-28,0.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,94,Corse,2017-03-31,2.0,morts dans l'année
@@ -57,57 +77,159 @@ Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-ro
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,94,Corse,2020-12-31,2.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,94,Corse,2021-01-31,0.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,94,Corse,2021-02-28,3.0,morts dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-01-31,48149.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-02-28,40651.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-03-31,49566.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-04-30,39205.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-05-31,43077.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-06-30,41078.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-07-31,46455.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-08-31,46905.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-09-30,42369.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-10-31,42019.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-11-30,41084.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2017-12-31,45731.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-01-31,44770.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-02-28,40746.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-03-31,44271.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-04-30,41651.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-05-31,41154.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-06-30,42058.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-07-31,48177.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-08-31,47702.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-09-30,42051.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-10-31,43109.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-11-30,44701.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-12-31,40265.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-01-31,43220.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-02-28,37713.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-03-31,42216.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-04-30,41521.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-05-31,40149.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-06-30,37348.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-07-31,44873.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-08-31,40963.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-09-30,42121.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-10-31,41015.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-11-30,40524.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-12-31,42592.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-01-31,43494.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-02-29,36874.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-03-31,46846.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-04-30,48208.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-05-31,43606.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-06-30,36191.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-07-31,41223.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-08-31,40470.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-09-30,37201.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-10-31,38752.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-11-30,42940.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-12-31,40120.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2021-01-31,43640.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2021-02-28,36249.0,heures de patrouille dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-01-31,4.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-03-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-06-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-08-31,4.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-09-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-11-30,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2017-12-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-01-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-04-30,4.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-06-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-07-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-08-31,4.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-09-30,4.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-10-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-11-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2018-12-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-01-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-02-28,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-06-30,4.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-07-31,4.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-09-30,4.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-11-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2019-12-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-02-29,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-03-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-07-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-09-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-10-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-11-30,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2020-12-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2021-01-31,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2021-02-28,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2021-03-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2021-04-30,9.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2021-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,2021-06-30,10.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-01-31,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-02-28,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-03-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-04-30,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-05-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-06-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-07-31,9.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-08-31,10.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-09-30,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-10-31,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-11-30,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2017-12-31,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-01-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-02-28,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-03-31,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-04-30,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-05-31,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-06-30,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-07-31,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-08-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-09-30,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-10-31,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-11-30,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2018-12-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-01-31,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-02-28,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-03-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-04-30,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-05-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-06-30,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-07-31,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-08-31,9.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-09-30,10.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-10-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-11-30,4.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2019-12-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-01-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-02-29,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-03-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-04-30,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-05-31,0.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-06-30,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-07-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-08-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-09-30,10.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-10-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-11-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2020-12-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2021-01-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2021-02-28,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2021-03-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2021-04-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2021-05-31,10.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,2021-06-30,13.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-01-31,522909.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-02-28,523005.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-03-31,517709.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-04-30,520155.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-05-31,518233.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-06-30,519213.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-07-31,520935.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-08-31,521732.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-09-30,521414.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-10-31,522504.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-11-30,526121.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2018-12-31,520655.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-01-31,519105.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-02-28,516072.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-03-31,514017.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-04-30,513887.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-05-31,512882.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-06-30,508172.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-07-31,504868.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-08-31,498129.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-09-30,498199.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-10-31,496105.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-11-30,491928.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2019-12-31,494255.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-01-31,494529.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-02-29,493690.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-03-31,498320.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-04-30,505007.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-05-31,508464.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-06-30,507308.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-07-31,503658.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-08-31,503165.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-09-30,498245.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-10-31,495981.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-11-30,498397.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2020-12-31,495926.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2021-01-31,526838.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2021-02-28,554706.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2021-03-31,574886.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2021-04-30,598103.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,2021-05-31,623565.0,heures de patrouille sur douze mois *
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,94,Corse,2020-12-31,6.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,94,Corse,2021-01-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,94,Corse,2021-02-28,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,94,Corse,2021-03-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,94,Corse,2021-04-30,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,94,Corse,2021-05-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,94,Corse,2021-06-30,0.0,contrôles dans l'année

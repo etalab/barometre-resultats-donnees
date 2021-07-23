@@ -1,5 +1,7 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,76,Occitanie,5038.0,2021-03-31,3826.0,2017-12-31,1212.0,32.0,5378.0,78.0,2022-03-31,kilomètres
 Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,76,Occitanie,0.0,2020-12-31,0.0,2017-12-31,0.0,,707740.0,0.0,2022-12-31,habitants
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,121257.0,2021-03-31,0.0,2018-03-31,121257.0,,133170.0,91.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,76,Occitanie,127142.0,2021-05-31,0.0,2018-03-31,127142.0,,133170.0,95.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,76,Occitanie,5948.0,2021-07-31,0.0,,5948.0,,8878.0,67.0,2022-03-31,bornes de recharge
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,76,Occitanie,2950000.0,2020-12-31,1560000.0,2017-06-30,1390000.0,89.0,5790000.0,33.0,2022-12-31,habitants
+Plan de soutien aux petites lignes ferroviaires,Nombre de kilomètres de lignes rénovées,nb-km-lignes-regenerees,76,Occitanie,63.0,2021-05-31,5.0,2017-12-31,58.0,1160.0,145.0,41.0,2022-12-31,kilomètres

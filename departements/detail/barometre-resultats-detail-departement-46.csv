@@ -1,69 +1,176 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2020-01-31,213.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2020-01-31,213.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-01-31,360.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-01-31,360.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-02-28,366.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-02-28,366.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-03-31,373.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-03-31,373.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-04-30,379.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-04-30,379.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-05-31,384.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-05-31,384.0,logements rénovés
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,46,Lot,2018-12-31,3.0,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,46,Lot,2019-12-31,3.0,mois de traitement
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d'intérêt général proposés en tant que peine,nb-postes-tig,46,Lot,2021-03-31,129.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,46,Lot,2021-03-31,129.0,postes
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,46,Lot,2018-12-31,18144.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,46,Lot,2019-12-31,18284.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,46,Lot,2020-12-31,68179.0,bénéficiaires
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,46,Lot,2017-10-31,43.0,% de réussite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,46,Lot,2019-10-31,43.0,% de réussite
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,46,Lot,2018-12-31,1860.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,46,Lot,2019-12-31,1857.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,46,Lot,2020-12-31,1984.0,Recrutements de jeunes
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-01-31,24762.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-02-28,19996.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-03-31,24276.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-04-30,20868.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-05-31,23483.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-06-30,21327.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-07-31,22634.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-08-31,22313.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-09-30,23341.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-10-31,23867.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-11-30,21892.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2017-12-31,25971.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-01-31,24059.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-02-28,19985.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-03-31,24415.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-04-30,21892.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-05-31,22008.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-06-30,20555.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-07-31,20849.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-08-31,20251.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-09-30,21382.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-10-31,22966.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-11-30,26165.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-12-31,24014.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-01-31,21761.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-02-28,18342.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-03-31,21457.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-04-30,20483.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-05-31,20785.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-06-30,18024.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-07-31,19390.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-08-31,17630.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-09-30,18298.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-10-31,17919.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-11-30,17172.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-12-31,19542.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-01-31,18268.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-02-29,17360.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-03-31,19515.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-04-30,21755.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-05-31,21683.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-06-30,16814.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-07-31,17909.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-08-31,18833.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-09-30,20553.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-10-31,20722.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-11-30,24915.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-12-31,22729.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2021-01-31,22602.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2021-02-28,18162.0,heures de patrouille dans l'année
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,46,Lot,2017-10-31,43.2,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,46,Lot,2019-10-31,43.1,% de réussite
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,46,Lot,2019-02-28,2294.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,46,Lot,2020-02-29,2309.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,46,Lot,2021-02-28,2355.0,Recrutements de jeunes
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-10-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-11-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2017-12-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-06-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-07-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-09-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-11-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2018-12-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-01-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-03-31,7.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-09-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-11-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2019-12-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-02-29,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-03-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-09-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-11-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2020-12-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2021-01-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2021-02-28,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2021-03-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2021-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2021-05-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,46,Lot,2021-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-01-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-02-28,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-03-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-04-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-05-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-06-30,9.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-07-31,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-08-31,10.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-09-30,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-10-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-11-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2017-12-31,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-01-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-02-28,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-03-31,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-04-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-05-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-06-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-07-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-08-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-09-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-10-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-11-30,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2018-12-31,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-01-31,9.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-02-28,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-03-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-04-30,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-05-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-06-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-07-31,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-08-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-09-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-10-31,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-11-30,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2019-12-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-01-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-02-29,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-03-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-04-30,0.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-05-31,0.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-06-30,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-07-31,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-08-31,9.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-09-30,0.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-10-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-11-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2020-12-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2021-01-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2021-02-28,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2021-03-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2021-04-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2021-05-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,46,Lot,2021-06-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-01-31,274025.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-02-28,274014.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-03-31,274154.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-04-30,275178.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-05-31,273703.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-06-30,272931.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-07-31,271147.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-08-31,269085.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-09-30,267126.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-10-31,266226.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-11-30,270499.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2018-12-31,268542.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-01-31,266244.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-02-28,264601.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-03-31,261643.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-04-30,260234.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-05-31,259011.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-06-30,256480.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-07-31,255020.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-08-31,252399.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-09-30,249315.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-10-31,244268.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-11-30,235275.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2019-12-31,230804.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-01-31,227311.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-02-29,226328.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-03-31,224387.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-04-30,225659.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-05-31,226557.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-06-30,225347.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-07-31,223866.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-08-31,225069.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-09-30,227324.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-10-31,230127.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-11-30,237869.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2020-12-31,241056.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2021-01-31,245569.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2021-02-28,246730.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2021-03-31,246183.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2021-04-30,244385.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,46,Lot,2021-05-31,240728.0,heures de patrouille sur douze mois *
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,46,Lot,2018-03-31,26.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,46,Lot,2019-03-31,30.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,46,Lot,2019-09-30,33.0,% de collégiens
@@ -81,115 +188,150 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,46,Lot,2020-06-30,32.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,46,Lot,2020-09-30,37.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,46,Lot,2020-12-31,44.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,46,Lot,2021-03-31,50.0,% de déploiement
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-01-31,23.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-02-28,35.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-03-31,44.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-04-30,114.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-05-31,114.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-06-30,115.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,46,Lot,2021-02-28,21.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,46,Lot,2021-03-31,87.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,46,Lot,2021-04-30,119.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-01-31,23.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-02-28,35.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-03-31,44.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,46,Lot,2021-04-30,114.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,46,Lot,2021-05-31,147.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,46,Lot,2021-06-30,250.0,entreprises
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2017-12-31,380.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2018-03-31,197.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2018-06-30,212.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2018-09-30,282.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2018-12-31,371.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2019-03-31,197.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2019-06-30,214.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2019-09-30,274.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2019-12-31,339.0,jeunes
-Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2020-12-31,288.0,jeunes
-Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2021-03-31,159.0,jeunes
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2017-12-31,55.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-01-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-02-28,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-03-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-04-30,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-05-31,37.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-06-30,46.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-07-31,59.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-08-31,62.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-09-30,64.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-10-31,70.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-11-30,84.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-12-31,97.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-01-31,9.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-02-28,9.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-03-31,15.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-04-30,26.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-05-31,26.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-06-30,35.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-07-31,40.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-08-31,51.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-09-30,53.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-10-31,57.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-11-30,59.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-12-31,64.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-01-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-02-29,18.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-03-31,20.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-04-30,20.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-05-31,20.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-06-30,48.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-07-31,59.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-08-31,64.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-09-30,66.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-10-31,70.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-11-30,73.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-12-31,77.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2021-01-31,4.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2021-02-28,9.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2021-03-31,18.0,personnes dans l'année
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-01-31,19.02,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-02-29,17.43,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-03-31,14.87,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-04-30,20.75,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-05-31,12.95,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-06-30,13.31,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-07-31,12.12,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-08-31,14.25,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-09-30,14.1,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-10-31,14.26,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-11-30,14.47,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-12-31,14.34,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-04-30,37.94,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-05-31,46.52,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-06-30,50.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-07-31,49.62,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-08-31,51.22,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-09-30,50.94,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-10-31,51.27,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-11-30,51.28,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-12-31,49.6,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-01-31,56.92,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-02-29,62.51,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-03-31,61.09,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-04-30,53.07,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-05-31,61.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-06-30,62.38,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-07-31,60.97,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-08-31,63.97,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-09-30,62.33,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-10-31,64.07,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-11-30,63.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-12-31,61.6,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-01-31,6.33,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-02-28,4.5,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-03-31,7.06,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-04-30,7.86,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-05-31,5.04,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-06-30,5.83,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-07-31,10.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-08-31,8.02,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-09-30,7.19,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-10-31,6.25,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-11-30,8.29,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2019-12-31,5.24,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-01-31,7.32,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-02-29,9.13,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-03-31,8.06,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-04-30,46.15,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-05-31,11.98,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-06-30,12.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-07-31,7.59,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-08-31,11.38,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-09-30,12.94,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-10-31,11.48,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-11-30,6.13,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,46,Lot,2020-12-31,6.64,%
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2020-03-31,153.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2020-06-30,160.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2020-09-30,205.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2020-12-31,289.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2021-03-31,166.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,46,Lot,2021-06-30,177.0,jeunes
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,46,Lot,2021-04-30,0.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,46,Lot,2021-05-31,593.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,46,Lot,2021-06-30,793.0,utilisateurs
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2017-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2017-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2017-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2018-03-31,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2018-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2018-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2018-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2019-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2019-06-30,8.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2019-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2019-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2020-03-31,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2020-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2020-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,46,Lot,2020-12-31,3.0,ordonnances dans l'année
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2017-12-31,55.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-01-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-02-28,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-03-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-04-30,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-05-31,37.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-06-30,46.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-07-31,59.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-08-31,62.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-09-30,64.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-10-31,70.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-11-30,84.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2018-12-31,97.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-01-31,9.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-02-28,9.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-03-31,15.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-04-30,26.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-05-31,26.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-06-30,35.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-07-31,40.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-08-31,51.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-09-30,53.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-10-31,57.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-11-30,59.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2019-12-31,64.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-01-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-02-29,18.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-03-31,20.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-04-30,20.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-05-31,20.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-06-30,48.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-07-31,59.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-08-31,64.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-09-30,66.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-10-31,70.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-11-30,73.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2020-12-31,77.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2021-01-31,4.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2021-02-28,9.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2021-03-31,18.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2021-04-30,18.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,46,Lot,2021-05-31,29.0,personnes dans l'année*
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-01-31,19.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-02-29,17.43,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-03-31,14.87,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-04-30,20.75,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-05-31,12.95,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-06-30,13.31,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-07-31,12.12,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-08-31,14.25,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-09-30,14.1,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-10-31,14.26,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-11-30,14.47,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,46,Lot,2020-12-31,14.34,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-04-30,37.94,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-05-31,46.52,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-06-30,50.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-07-31,49.62,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-08-31,51.22,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-09-30,50.94,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-10-31,51.27,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-11-30,51.28,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2019-12-31,49.6,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-01-31,56.92,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-02-29,62.51,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-03-31,61.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-04-30,53.07,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-05-31,61.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-06-30,62.38,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-07-31,60.97,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-08-31,63.97,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-09-30,62.33,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-10-31,64.07,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-11-30,63.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,46,Lot,2020-12-31,61.6,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-01-31,6.33,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-02-28,4.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-03-31,7.06,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-04-30,7.86,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-05-31,5.04,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-06-30,5.83,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-07-31,10.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-08-31,8.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-09-30,7.19,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-10-31,6.25,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-11-30,8.29,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2019-12-31,5.24,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-01-31,7.32,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-02-29,9.13,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-03-31,8.06,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-04-30,46.15,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-05-31,11.98,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-06-30,12.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-07-31,7.59,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-08-31,11.38,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-09-30,12.94,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-10-31,11.48,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-11-30,6.13,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,46,Lot,2020-12-31,6.64,%
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,46,Lot,2017-06-30,170000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,46,Lot,2017-12-31,170000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,46,Lot,2018-06-30,170000.0,habitants
@@ -202,6 +344,19 @@ Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéfic
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,46,Lot,2021-01-31,2.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,46,Lot,2021-02-28,4.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,46,Lot,2021-03-31,9.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,46,Lot,2021-04-30,16.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,46,Lot,2021-05-31,27.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,46,Lot,2021-06-30,31.0,familles
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2019-09-30,261.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2019-12-31,265.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2020-03-31,267.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2020-06-30,267.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2020-09-30,279.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2020-11-30,279.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2020-12-31,279.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2021-03-31,292.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2021-06-30,305.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,46,Lot,2021-07-31,305.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,46,Lot,2018-03-31,53.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,46,Lot,2018-06-30,373.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,46,Lot,2018-09-30,726.0,primes et bonus
@@ -215,18 +370,21 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,46,Lot,2020-09-30,3492.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,46,Lot,2020-12-31,3845.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,46,Lot,2021-03-31,4166.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,46,Lot,2021-04-30,4278.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,46,Lot,2021-05-31,4370.0,primes et bonus
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,46,Lot,2017-12-31,15.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,46,Lot,2018-12-31,15.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,46,Lot,2019-12-31,15.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,46,Lot,2020-09-30,32.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,46,Lot,2020-12-31,33.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,46,Lot,2021-03-31,33.0,kilomètres
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,46,Lot,2017-12-31,7.9,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,46,Lot,2018-12-31,8.3,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,46,Lot,2019-12-31,10.0,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,46,Lot,2017-12-31,358.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,46,Lot,2018-12-31,408.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,46,Lot,2019-12-31,532.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,46,Lot,2017-12-31,7.9,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,46,Lot,2018-12-31,8.3,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,46,Lot,2019-12-31,10.0,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,46,Lot,2020-12-31,11.5,% de surface agricole
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2020-01-31,6.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2020-02-29,6.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2020-03-31,6.0,labellisations
@@ -243,23 +401,98 @@ Déployer une offre France Services dans tous les territoires ,Nombre de labelli
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2021-02-28,14.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2021-03-31,15.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2021-04-30,15.0,labellisations
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,46,Lot,2017-12-31,7.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,46,Lot,2018-12-31,29.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,46,Lot,2019-12-31,82.0,% de réseaux
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-12-31,762.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-12-31,815.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-12-31,1004.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-12-31,1012.0,contrats
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,46,Lot,2019-03-31,121.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,46,Lot,2019-06-30,137.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,46,Lot,2019-09-30,133.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,46,Lot,2019-12-31,142.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,46,Lot,2020-03-31,141.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,46,Lot,2020-06-30,113.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,46,Lot,2020-09-30,152.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,46,Lot,2020-12-31,150.0,pères / conjoints dans l'année
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2021-05-31,15.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2021-06-30,15.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,46,Lot,2021-07-31,15.0,labellisations
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,46,Lot,2017-12-31,7.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,46,Lot,2018-12-31,29.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,46,Lot,2019-12-31,82.0,% de réseaux
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-01-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-02-28,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-03-31,4.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-04-30,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-05-31,1.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-06-30,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-07-31,115.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-08-31,117.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-09-30,380.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-10-31,78.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-11-30,42.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2017-12-31,47.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-01-31,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-02-28,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-03-31,11.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-04-30,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-05-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-06-30,4.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-07-31,97.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-08-31,101.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-09-30,408.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-10-31,69.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-11-30,36.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2018-12-31,39.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-01-31,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-02-28,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-03-31,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-04-30,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-05-31,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-06-30,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-07-31,112.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-08-31,98.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-09-30,564.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-10-31,107.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-11-30,64.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2019-12-31,32.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-01-31,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-02-29,11.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-03-31,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-04-30,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-05-31,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-06-30,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-07-31,69.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-08-31,128.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-09-30,605.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-10-31,145.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-11-30,78.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2020-12-31,23.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2021-01-31,38.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2021-02-28,29.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2021-03-31,19.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,46,Lot,2021-04-30,9.0,contrats
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2018-03-31,152.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2018-06-30,142.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2018-09-30,152.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2018-12-31,139.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2019-03-31,121.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2019-06-30,137.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2019-09-30,133.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2019-12-31,142.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2020-03-31,141.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2020-06-30,113.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2020-09-30,152.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,46,Lot,2020-12-31,150.0,pères / conjoints dans l'année
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,46,Lot,2019-09-30,91.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,46,Lot,2020-09-30,93.0,% des classes
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,46,Lot,2020-10-31,6.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,46,Lot,2020-11-30,14.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,46,Lot,2020-12-31,25.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,46,Lot,2021-01-31,25.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,46,Lot,2021-02-28,29.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,46,Lot,2021-03-31,38.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,46,Lot,2021-04-30,44.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,46,Lot,2021-05-31,51.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2020-01-31,213.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2020-01-31,213.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-01-31,360.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-01-31,360.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-02-28,366.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-02-28,366.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-03-31,373.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-03-31,373.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-04-30,379.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-04-30,379.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,46,Lot,2021-05-31,384.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,46,Lot,2021-05-31,384.0,logements rénovés
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,46,Lot,2017-06-30,6.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,46,Lot,2017-12-31,6.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,46,Lot,2018-06-30,7.0,maisons de santé
@@ -268,10 +501,14 @@ Doubler le nombre de maisons de santé et de centres de santé dans les territoi
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,46,Lot,2019-12-31,10.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,46,Lot,2020-06-30,11.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,46,Lot,2020-12-31,11.0,maisons de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,46,Lot,2021-06-30,14.0,maisons de santé
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,46,Lot,2020-12-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,46,Lot,2021-01-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,46,Lot,2021-02-28,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,46,Lot,2021-03-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,46,Lot,2021-04-30,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,46,Lot,2021-05-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,46,Lot,2021-06-30,0.0,contrôles dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2020-08-31,0.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2020-09-30,21.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2020-10-31,37.0,amendes dressées dans l'année
@@ -280,6 +517,9 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2021-01-31,16.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2021-02-28,20.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2021-03-31,20.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2021-04-30,13.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2021-05-31,14.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,46,Lot,2021-06-30,12.0,amendes dressées dans l'année
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,46,Lot,2017-09-30,17.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,46,Lot,2018-09-30,20.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,46,Lot,2019-09-30,22.0,unités
@@ -288,6 +528,7 @@ Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de cla
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,46,Lot,2018-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,46,Lot,2019-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,46,Lot,2020-09-30,1.0,classes
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,46,Lot,2021-03-31,12.0,bénéficiaires
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,46,Lot,2019-10-31,0.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,46,Lot,2020-10-31,100.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de grande section en REP dédoublées,tx-gs-rep,46,Lot,2019-11-30,0.0,% des classes
@@ -339,6 +580,8 @@ Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-ro
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,46,Lot,2020-10-31,1.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,46,Lot,2020-11-30,1.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,46,Lot,2020-12-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,46,Lot,2021-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,46,Lot,2021-02-28,3.0,morts dans l'année
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,46,Lot,2020-04-30,4.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,46,Lot,2020-05-31,22.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,46,Lot,2020-06-30,53.0,dossiers validés
@@ -351,60 +594,89 @@ MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valide
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,46,Lot,2021-01-31,767.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,46,Lot,2021-02-28,914.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,46,Lot,2021-03-31,1098.0,dossiers validés
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-01-31,377.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-02-28,370.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-03-31,403.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-04-30,423.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-05-31,445.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-06-30,443.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-07-31,463.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-08-31,432.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-09-30,417.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-10-31,409.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-11-30,412.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-12-31,400.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-01-31,409.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-02-28,392.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-03-31,421.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-04-30,439.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-05-31,444.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-06-30,476.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-07-31,475.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-08-31,454.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-09-30,436.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-10-31,417.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-11-30,407.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-12-31,397.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-01-31,385.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-02-28,402.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-03-31,423.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-04-30,429.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-05-31,439.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-06-30,452.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-07-31,470.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-08-31,437.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-09-30,430.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-10-31,416.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-11-30,408.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-12-31,407.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-01-31,403.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-02-29,407.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-03-31,366.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-04-30,197.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-05-31,304.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-06-30,362.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-07-31,396.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-08-31,377.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-09-30,366.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-10-31,378.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-11-30,348.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-12-31,331.0,bénéficiaires
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,46,Lot,2021-04-30,1356.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,46,Lot,2021-05-31,1559.0,dossiers validés
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-01-31,377.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-02-28,370.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-03-31,403.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-04-30,423.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-05-31,445.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-06-30,443.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-07-31,463.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-08-31,432.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-09-30,417.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-10-31,409.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-11-30,412.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2017-12-31,400.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-01-31,409.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-02-28,392.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-03-31,421.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-04-30,439.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-05-31,444.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-06-30,476.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-07-31,475.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-08-31,454.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-09-30,436.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-10-31,417.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-11-30,407.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2018-12-31,397.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-01-31,385.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-02-28,402.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-03-31,423.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-04-30,429.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-05-31,439.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-06-30,452.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-07-31,470.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-08-31,437.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-09-30,430.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-10-31,416.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-11-30,408.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2019-12-31,407.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-01-31,403.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-02-29,407.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-03-31,366.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-04-30,197.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-05-31,304.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-06-30,362.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-07-31,395.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-08-31,376.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-09-30,365.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-10-31,375.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-11-30,344.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2020-12-31,325.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2021-01-31,294.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2021-02-28,361.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,46,Lot,2021-03-31,405.0,bénéficiaires *
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2019-04-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2020-11-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2020-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2021-01-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2021-02-28,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2021-03-31,151.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,46,Lot,2021-06-30,151.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,46,Lot,2020-12-31,0.0,enfants
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2020-11-30,1.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2020-12-31,2.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-01-31,4.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-02-28,6.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-03-31,7.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2020-12-31,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-01-31,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-02-28,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-03-31,2.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-04-30,77.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-05-31,4.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,46,Lot,2021-06-30,4.0,entreprises industrielles et agricoles
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,46,Lot,2017-12-31,0.0,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,46,Lot,2018-12-31,98.54,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,46,Lot,2019-12-31,99.68,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,46,Lot,2020-12-31,99.91,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2019-03-31,67.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2019-06-30,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2019-09-30,89.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2019-12-31,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2020-03-31,42.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2020-06-30,42.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2020-09-30,43.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2020-12-31,53.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2021-03-31,48.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,46,Lot,2021-06-30,55.0,%

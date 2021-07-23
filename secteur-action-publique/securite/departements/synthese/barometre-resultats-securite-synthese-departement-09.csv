@@ -1,5 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,09,Ariège,50147.0,2021-02-28,71093.0,2017-03-31,-20946.0,-29.0,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,09,Ariège,29.0,2021-03-31,0.0,,29.0,,,,,amendes dressées dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,09,Ariège,277954.0,2021-05-31,274745.0,2018-01-31,3209.0,1.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,09,Ariège,16.0,2021-06-30,6.0,2017-06-30,10.0,167.0,,,,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,09,Ariège,21.0,2021-06-30,44.0,2017-06-30,-23.0,-52.0,,,,atteintes aux biens entre janvier et juin
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,09,Ariège,49.0,2021-06-30,0.0,,49.0,,,,,amendes dressées dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,09,Ariège,4.0,2020-12-31,0.0,2017-12-31,4.0,,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,09,Ariège,3.0,2020-12-31,,,,,,,,contrôles dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,09,Ariège,10.0,2020-12-31,17.0,2017-12-31,-7.0,-41.0,,,,morts dans l'année

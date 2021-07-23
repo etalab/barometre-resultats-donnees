@@ -1,71 +1,178 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2020-01-31,285.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2020-01-31,285.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-01-31,455.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-01-31,455.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-02-28,459.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-02-28,459.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-03-31,475.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-03-31,475.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-04-30,480.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-04-30,480.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-05-31,485.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-05-31,485.0,logements rénovés
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,41,Loir-et-Cher,2017-12-31,5.6,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,41,Loir-et-Cher,2018-12-31,5.6,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,41,Loir-et-Cher,2019-12-31,5.0,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,41,Loir-et-Cher,2020-12-31,7.0,mois de traitement
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d'intérêt général proposés en tant que peine,nb-postes-tig,41,Loir-et-Cher,2021-03-31,138.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,41,Loir-et-Cher,2021-03-31,138.0,postes
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,41,Loir-et-Cher,2018-12-31,25175.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,41,Loir-et-Cher,2019-12-31,25760.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,41,Loir-et-Cher,2020-12-31,124304.0,bénéficiaires
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,41,Loir-et-Cher,2017-10-31,42.0,% de réussite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,41,Loir-et-Cher,2019-10-31,44.0,% de réussite
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,41,Loir-et-Cher,2018-12-31,4280.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,41,Loir-et-Cher,2019-12-31,4590.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,41,Loir-et-Cher,2020-12-31,4462.0,Recrutements de jeunes
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-01-31,38427.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-02-28,31188.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-03-31,39515.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-04-30,32646.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-05-31,34526.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-06-30,35753.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-07-31,32795.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-08-31,33139.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-09-30,35100.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-10-31,38153.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-11-30,35589.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2017-12-31,39049.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-01-31,38491.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-02-28,32909.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-03-31,35938.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-04-30,34911.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-05-31,33733.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-06-30,33486.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-07-31,31438.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-08-31,30473.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-09-30,33430.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-10-31,35997.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-11-30,38358.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-12-31,35952.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-01-31,35058.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-02-28,29863.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-03-31,34859.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-04-30,30755.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-05-31,31819.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-06-30,29425.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-07-31,30669.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-08-31,30869.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-09-30,30375.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-10-31,32188.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-11-30,32512.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-12-31,30488.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-01-31,33078.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-02-29,30428.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-03-31,37476.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-04-30,39782.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-05-31,35879.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-06-30,30246.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-07-31,32552.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-08-31,31559.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-09-30,32642.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-10-31,35322.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-11-30,38136.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-12-31,34662.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2021-01-31,35447.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2021-02-28,30700.0,heures de patrouille dans l'année
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,41,Loir-et-Cher,2017-10-31,42.5,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,41,Loir-et-Cher,2019-10-31,44.5,% de réussite
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,41,Loir-et-Cher,2019-02-28,5140.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,41,Loir-et-Cher,2020-02-29,5538.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,41,Loir-et-Cher,2021-02-28,5246.0,Recrutements de jeunes
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-01-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-03-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-06-30,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-09-30,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-10-31,7.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-11-30,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2017-12-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-02-28,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-11-30,9.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2018-12-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-01-31,9.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-02-28,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-06-30,8.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-07-31,14.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-08-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-10-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-11-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2019-12-31,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-02-29,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-03-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-06-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-09-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-11-30,7.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2020-12-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2021-01-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2021-02-28,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2021-03-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2021-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2021-05-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,41,Loir-et-Cher,2021-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-01-31,9.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-02-28,16.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-03-31,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-04-30,27.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-05-31,15.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-06-30,17.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-07-31,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-08-31,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-09-30,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-10-31,16.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-11-30,13.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2017-12-31,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-01-31,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-02-28,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-03-31,15.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-04-30,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-05-31,19.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-06-30,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-07-31,17.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-08-31,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-09-30,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-10-31,26.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-11-30,19.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2018-12-31,15.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-01-31,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-02-28,21.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-03-31,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-04-30,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-05-31,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-06-30,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-07-31,15.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-08-31,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-09-30,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-10-31,17.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-11-30,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2019-12-31,17.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-01-31,19.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-02-29,23.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-03-31,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-04-30,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-05-31,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-06-30,9.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-07-31,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-08-31,17.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-09-30,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-10-31,13.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-11-30,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2020-12-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2021-01-31,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2021-02-28,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2021-03-31,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2021-04-30,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2021-05-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,41,Loir-et-Cher,2021-06-30,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-01-31,425945.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-02-28,427666.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-03-31,424088.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-04-30,426352.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-05-31,425559.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-06-30,423292.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-07-31,421935.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-08-31,419270.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-09-30,417600.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-10-31,415444.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-11-30,418213.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2018-12-31,415116.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-01-31,411683.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-02-28,408637.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-03-31,407558.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-04-30,403403.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-05-31,401489.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-06-30,397429.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-07-31,396659.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-08-31,397055.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-09-30,394001.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-10-31,390191.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-11-30,384345.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2019-12-31,378882.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-01-31,376901.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-02-29,377466.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-03-31,380084.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-04-30,389110.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-05-31,393170.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-06-30,393991.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-07-31,395874.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-08-31,396564.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-09-30,398831.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-10-31,401965.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-11-30,407588.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2020-12-31,411762.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2021-01-31,414795.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2021-02-28,416290.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2021-03-31,411616.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2021-04-30,405307.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,41,Loir-et-Cher,2021-05-31,403835.0,heures de patrouille sur douze mois *
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,41,Loir-et-Cher,2018-03-31,24.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,41,Loir-et-Cher,2019-03-31,30.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,41,Loir-et-Cher,2019-09-30,32.0,% de collégiens
@@ -83,115 +190,144 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,41,Loir-et-Cher,2020-06-30,24.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,41,Loir-et-Cher,2020-09-30,27.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,41,Loir-et-Cher,2020-12-31,34.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,41,Loir-et-Cher,2021-03-31,39.0,% de déploiement
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-01-31,29.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-02-28,44.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-03-31,61.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-04-30,65.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-05-31,65.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-06-30,65.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,41,Loir-et-Cher,2021-02-28,21.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,41,Loir-et-Cher,2021-03-31,97.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,41,Loir-et-Cher,2021-04-30,148.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-01-31,29.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-02-28,44.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-03-31,61.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,41,Loir-et-Cher,2021-04-30,65.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,41,Loir-et-Cher,2021-05-31,184.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,41,Loir-et-Cher,2021-06-30,303.0,entreprises
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2017-12-31,431.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2018-03-31,238.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2018-06-30,260.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2018-09-30,293.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2018-12-31,467.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2019-03-31,273.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2019-06-30,291.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2019-09-30,343.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2019-12-31,477.0,jeunes
-Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2020-12-31,463.0,jeunes
-Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2021-03-31,256.0,jeunes
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2017-12-31,165.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-01-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-02-28,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-03-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-04-30,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-05-31,90.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-06-30,95.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-07-31,114.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-08-31,119.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-09-30,128.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-10-31,141.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-11-30,143.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-12-31,167.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-01-31,11.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-02-28,13.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-03-31,26.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-04-30,44.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-05-31,51.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-06-30,62.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-07-31,79.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-08-31,81.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-09-30,81.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-10-31,81.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-11-30,88.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-12-31,99.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-01-31,11.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-02-29,44.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-03-31,55.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-04-30,55.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-05-31,62.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-06-30,81.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-07-31,108.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-08-31,117.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-09-30,136.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-10-31,161.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-11-30,194.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-12-31,222.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2021-01-31,2.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2021-02-28,7.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2021-03-31,29.0,personnes dans l'année
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-01-31,13.55,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-02-29,16.09,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-03-31,16.97,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-04-30,12.16,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-05-31,14.17,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-06-30,12.04,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-07-31,12.59,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-08-31,13.27,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-09-30,12.55,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-10-31,13.71,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-11-30,13.09,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-12-31,13.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-04-30,34.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-05-31,45.11,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-06-30,47.07,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-07-31,46.52,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-08-31,51.93,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-09-30,45.83,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-10-31,47.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-11-30,48.9,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-12-31,45.7,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-01-31,52.87,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-02-29,52.5,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-03-31,52.56,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-04-30,64.91,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-05-31,53.85,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-06-30,53.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-07-31,55.05,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-08-31,54.86,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-09-30,53.95,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-10-31,52.95,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-11-30,55.16,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-12-31,54.34,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-01-31,14.57,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-02-28,10.54,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-03-31,13.73,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-04-30,9.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-05-31,14.02,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-06-30,8.7,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-07-31,8.56,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-08-31,16.11,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-09-30,8.48,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-10-31,17.53,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-11-30,16.24,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2019-12-31,13.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-01-31,17.88,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-02-29,16.39,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-03-31,14.64,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-04-30,16.35,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-05-31,13.88,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-06-30,13.45,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-07-31,9.66,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-08-31,17.91,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-09-30,14.62,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-10-31,10.26,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-11-30,11.99,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,41,Loir-et-Cher,2020-12-31,10.95,%
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2020-03-31,222.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2020-06-30,226.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2020-09-30,274.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2020-12-31,465.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2021-03-31,258.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,41,Loir-et-Cher,2021-06-30,274.0,jeunes
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,41,Loir-et-Cher,2021-04-30,0.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,41,Loir-et-Cher,2021-05-31,1409.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,41,Loir-et-Cher,2021-06-30,1832.0,utilisateurs
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2017-12-31,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2018-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2018-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2018-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2018-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2019-03-31,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2019-06-30,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2019-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,41,Loir-et-Cher,2019-12-31,5.0,ordonnances dans l'année
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2017-12-31,165.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-01-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-02-28,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-03-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-04-30,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-05-31,90.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-06-30,95.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-07-31,114.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-08-31,119.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-09-30,128.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-10-31,141.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-11-30,143.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2018-12-31,167.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-01-31,11.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-02-28,13.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-03-31,26.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-04-30,44.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-05-31,51.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-06-30,62.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-07-31,79.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-08-31,81.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-09-30,81.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-10-31,81.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-11-30,88.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2019-12-31,99.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-01-31,11.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-02-29,44.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-03-31,55.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-04-30,55.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-05-31,62.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-06-30,81.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-07-31,108.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-08-31,117.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-09-30,136.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-10-31,161.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-11-30,194.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2020-12-31,222.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2021-01-31,2.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2021-02-28,7.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2021-03-31,29.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2021-04-30,68.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,41,Loir-et-Cher,2021-05-31,84.0,personnes dans l'année*
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-01-31,13.55,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-02-29,16.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-03-31,16.97,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-04-30,12.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-05-31,14.17,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-06-30,12.04,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-07-31,12.59,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-08-31,13.27,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-09-30,12.55,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-10-31,13.71,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-11-30,13.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,41,Loir-et-Cher,2020-12-31,13.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-04-30,34.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-05-31,45.11,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-06-30,47.07,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-07-31,46.52,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-08-31,51.93,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-09-30,45.83,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-10-31,47.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-11-30,48.9,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2019-12-31,45.7,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-01-31,52.87,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-02-29,52.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-03-31,52.56,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-04-30,64.91,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-05-31,53.85,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-06-30,53.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-07-31,55.05,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-08-31,54.86,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-09-30,53.95,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-10-31,52.95,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-11-30,55.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,41,Loir-et-Cher,2020-12-31,54.34,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-01-31,14.57,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-02-28,10.54,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-03-31,13.73,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-04-30,9.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-05-31,14.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-06-30,8.7,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-07-31,8.56,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-08-31,16.11,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-09-30,8.48,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-10-31,17.53,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-11-30,16.24,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2019-12-31,13.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-01-31,17.88,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-02-29,16.39,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-03-31,14.64,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-04-30,16.35,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-05-31,13.88,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-06-30,13.45,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-07-31,9.66,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-08-31,17.91,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-09-30,14.62,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-10-31,10.26,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-11-30,11.99,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,41,Loir-et-Cher,2020-12-31,10.95,%
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,41,Loir-et-Cher,2017-06-30,20000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,41,Loir-et-Cher,2017-12-31,20000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,41,Loir-et-Cher,2018-06-30,20000.0,habitants
@@ -204,6 +340,19 @@ Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéfic
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,41,Loir-et-Cher,2021-01-31,4.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,41,Loir-et-Cher,2021-02-28,14.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,41,Loir-et-Cher,2021-03-31,18.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,41,Loir-et-Cher,2021-04-30,32.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,41,Loir-et-Cher,2021-05-31,38.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,41,Loir-et-Cher,2021-06-30,45.0,familles
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2019-09-30,230.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2019-12-31,230.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2020-03-31,224.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2020-06-30,223.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2020-09-30,223.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2020-11-30,223.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2020-12-31,237.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2021-03-31,255.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2021-06-30,255.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,41,Loir-et-Cher,2021-07-31,257.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,41,Loir-et-Cher,2018-03-31,70.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,41,Loir-et-Cher,2018-06-30,498.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,41,Loir-et-Cher,2018-09-30,1015.0,primes et bonus
@@ -217,18 +366,21 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,41,Loir-et-Cher,2020-09-30,4778.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,41,Loir-et-Cher,2020-12-31,5371.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,41,Loir-et-Cher,2021-03-31,5739.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,41,Loir-et-Cher,2021-04-30,5812.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,41,Loir-et-Cher,2021-05-31,5916.0,primes et bonus
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,41,Loir-et-Cher,2017-12-31,187.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,41,Loir-et-Cher,2018-12-31,214.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,41,Loir-et-Cher,2019-12-31,221.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,41,Loir-et-Cher,2020-09-30,234.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,41,Loir-et-Cher,2020-12-31,242.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,41,Loir-et-Cher,2021-03-31,250.0,kilomètres
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,41,Loir-et-Cher,2017-12-31,2.6,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,41,Loir-et-Cher,2018-12-31,2.9,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,41,Loir-et-Cher,2019-12-31,3.5,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,41,Loir-et-Cher,2017-12-31,167.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,41,Loir-et-Cher,2018-12-31,183.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,41,Loir-et-Cher,2019-12-31,241.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,41,Loir-et-Cher,2017-12-31,2.6,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,41,Loir-et-Cher,2018-12-31,2.9,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,41,Loir-et-Cher,2019-12-31,3.5,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,41,Loir-et-Cher,2020-12-31,4.0,% de surface agricole
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2020-01-31,4.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2020-02-29,4.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2020-03-31,4.0,labellisations
@@ -245,23 +397,102 @@ Déployer une offre France Services dans tous les territoires ,Nombre de labelli
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2021-02-28,10.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2021-03-31,13.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2021-04-30,13.0,labellisations
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,41,Loir-et-Cher,2017-12-31,6.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,41,Loir-et-Cher,2018-12-31,31.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,41,Loir-et-Cher,2019-12-31,81.0,% de réseaux
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-12-31,1915.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-12-31,2035.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-12-31,2128.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-12-31,2359.0,contrats
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,41,Loir-et-Cher,2019-03-31,316.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,41,Loir-et-Cher,2019-06-30,256.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,41,Loir-et-Cher,2019-09-30,339.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,41,Loir-et-Cher,2019-12-31,311.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,41,Loir-et-Cher,2020-03-31,306.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,41,Loir-et-Cher,2020-06-30,262.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,41,Loir-et-Cher,2020-09-30,361.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,41,Loir-et-Cher,2020-12-31,295.0,pères / conjoints dans l'année
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2021-05-31,13.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2021-06-30,13.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,41,Loir-et-Cher,2021-07-31,13.0,labellisations
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,41,Loir-et-Cher,2017-12-31,6.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,41,Loir-et-Cher,2018-12-31,31.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,41,Loir-et-Cher,2019-12-31,81.0,% de réseaux
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-01-31,23.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-02-28,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-03-31,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-04-30,15.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-05-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-06-30,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-07-31,226.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-08-31,354.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-09-30,1000.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-10-31,165.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-11-30,85.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2017-12-31,61.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-01-31,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-02-28,15.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-03-31,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-04-30,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-05-31,4.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-06-30,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-07-31,253.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-08-31,324.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-09-30,1082.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-10-31,182.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-11-30,80.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2018-12-31,59.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-01-31,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-02-28,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-03-31,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-04-30,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-05-31,11.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-06-30,14.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-07-31,250.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-08-31,306.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-09-30,1234.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-10-31,171.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-11-30,95.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2019-12-31,58.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-01-31,26.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-02-29,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-03-31,16.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-04-30,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-05-31,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-06-30,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-07-31,226.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-08-31,370.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-09-30,1416.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-10-31,284.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-11-30,117.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2020-12-31,57.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2021-01-31,49.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2021-02-28,43.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2021-03-31,19.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,41,Loir-et-Cher,2021-04-30,10.0,contrats
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2018-03-31,334.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2018-06-30,268.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2018-09-30,399.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2018-12-31,354.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2019-03-31,316.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2019-06-30,256.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2019-09-30,339.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2019-12-31,311.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2020-03-31,306.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2020-06-30,262.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2020-09-30,361.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,41,Loir-et-Cher,2020-12-31,295.0,pères / conjoints dans l'année
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,41,Loir-et-Cher,2019-09-30,76.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,41,Loir-et-Cher,2020-09-30,83.0,% des classes
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,41,Loir-et-Cher,2020-10-31,2.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,41,Loir-et-Cher,2020-11-30,4.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,41,Loir-et-Cher,2020-12-31,13.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,41,Loir-et-Cher,2021-01-31,13.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,41,Loir-et-Cher,2021-02-28,15.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,41,Loir-et-Cher,2021-03-31,28.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,41,Loir-et-Cher,2021-04-30,34.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,41,Loir-et-Cher,2021-05-31,38.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2020-01-31,285.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2020-01-31,285.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-01-31,455.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-01-31,455.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-02-28,459.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-02-28,459.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-03-31,475.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-03-31,475.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-04-30,480.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-04-30,480.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,41,Loir-et-Cher,2021-05-31,485.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,41,Loir-et-Cher,2021-05-31,485.0,logements rénovés
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,41,Loir-et-Cher,2017-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,41,Loir-et-Cher,2018-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,41,Loir-et-Cher,2019-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,41,Loir-et-Cher,2020-12-31,1.0,centres de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,41,Loir-et-Cher,2017-06-30,12.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,41,Loir-et-Cher,2017-12-31,14.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,41,Loir-et-Cher,2018-06-30,14.0,maisons de santé
@@ -270,14 +501,14 @@ Doubler le nombre de maisons de santé et de centres de santé dans les territoi
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,41,Loir-et-Cher,2019-12-31,15.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,41,Loir-et-Cher,2020-06-30,15.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,41,Loir-et-Cher,2020-12-31,18.0,maisons de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,41,Loir-et-Cher,2017-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,41,Loir-et-Cher,2018-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,41,Loir-et-Cher,2019-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,41,Loir-et-Cher,2020-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,41,Loir-et-Cher,2021-06-30,18.0,maisons de santé
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,41,Loir-et-Cher,2020-12-31,2.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,41,Loir-et-Cher,2021-01-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,41,Loir-et-Cher,2021-02-28,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,41,Loir-et-Cher,2021-03-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,41,Loir-et-Cher,2021-04-30,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,41,Loir-et-Cher,2021-05-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,41,Loir-et-Cher,2021-06-30,0.0,contrôles dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2020-08-31,0.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2020-09-30,29.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2020-10-31,18.0,amendes dressées dans l'année
@@ -286,6 +517,9 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2021-01-31,23.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2021-02-28,22.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2021-03-31,22.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2021-04-30,21.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2021-05-31,35.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,41,Loir-et-Cher,2021-06-30,21.0,amendes dressées dans l'année
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,41,Loir-et-Cher,2017-09-30,47.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,41,Loir-et-Cher,2018-09-30,48.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,41,Loir-et-Cher,2019-09-30,54.0,unités
@@ -294,6 +528,7 @@ Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de cla
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,41,Loir-et-Cher,2018-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,41,Loir-et-Cher,2019-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,41,Loir-et-Cher,2020-09-30,1.0,classes
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,41,Loir-et-Cher,2021-03-31,13.0,bénéficiaires
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,41,Loir-et-Cher,2019-10-31,100.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,41,Loir-et-Cher,2020-10-31,100.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de grande section en REP dédoublées,tx-gs-rep,41,Loir-et-Cher,2019-11-30,0.0,% des classes
@@ -346,6 +581,8 @@ Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-ro
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,41,Loir-et-Cher,2020-10-31,4.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,41,Loir-et-Cher,2020-11-30,1.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,41,Loir-et-Cher,2020-12-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,41,Loir-et-Cher,2021-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,41,Loir-et-Cher,2021-02-28,3.0,morts dans l'année
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,41,Loir-et-Cher,2020-04-30,4.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,41,Loir-et-Cher,2020-05-31,40.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,41,Loir-et-Cher,2020-06-30,88.0,dossiers validés
@@ -358,60 +595,89 @@ MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valide
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,41,Loir-et-Cher,2021-01-31,1042.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,41,Loir-et-Cher,2021-02-28,1326.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,41,Loir-et-Cher,2021-03-31,1585.0,dossiers validés
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-01-31,552.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-02-28,584.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-03-31,592.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-04-30,618.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-05-31,624.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-06-30,655.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-07-31,641.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-08-31,624.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-09-30,643.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-10-31,631.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-11-30,625.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-12-31,610.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-01-31,589.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-02-28,590.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-03-31,607.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-04-30,628.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-05-31,627.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-06-30,649.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-07-31,663.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-08-31,605.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-09-30,618.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-10-31,636.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-11-30,615.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-12-31,600.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-01-31,553.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-02-28,550.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-03-31,587.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-04-30,594.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-05-31,592.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-06-30,621.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-07-31,638.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-08-31,543.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-09-30,583.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-10-31,590.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-11-30,572.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-12-31,552.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-01-31,549.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-02-29,568.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-03-31,534.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-04-30,307.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-05-31,447.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-06-30,538.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-07-31,545.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-08-31,528.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-09-30,540.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-10-31,552.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-11-30,531.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-12-31,462.0,bénéficiaires
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,41,Loir-et-Cher,2021-04-30,1915.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,41,Loir-et-Cher,2021-05-31,2245.0,dossiers validés
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-01-31,552.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-02-28,584.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-03-31,592.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-04-30,618.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-05-31,624.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-06-30,655.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-07-31,641.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-08-31,624.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-09-30,643.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-10-31,631.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-11-30,625.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2017-12-31,610.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-01-31,589.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-02-28,590.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-03-31,607.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-04-30,628.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-05-31,627.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-06-30,649.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-07-31,663.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-08-31,605.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-09-30,618.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-10-31,636.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-11-30,615.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2018-12-31,600.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-01-31,553.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-02-28,550.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-03-31,587.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-04-30,594.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-05-31,592.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-06-30,621.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-07-31,638.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-08-31,543.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-09-30,583.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-10-31,590.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-11-30,572.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2019-12-31,552.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-01-31,549.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-02-29,568.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-03-31,534.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-04-30,307.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-05-31,447.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-06-30,538.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-07-31,544.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-08-31,527.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-09-30,538.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-10-31,548.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-11-30,528.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2020-12-31,517.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2021-01-31,524.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2021-02-28,536.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,41,Loir-et-Cher,2021-03-31,597.0,bénéficiaires *
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2019-04-30,161.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2020-11-30,372.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2020-12-31,372.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2021-01-31,372.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2021-02-28,372.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2021-03-31,376.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,41,Loir-et-Cher,2021-06-30,1519.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,41,Loir-et-Cher,2020-12-31,85.0,enfants
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2020-11-30,4.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2020-12-31,16.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-01-31,16.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-02-28,19.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-03-31,19.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2020-12-31,12.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-01-31,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-02-28,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-03-31,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-04-30,81.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-05-31,11.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,41,Loir-et-Cher,2021-06-30,44.0,entreprises industrielles et agricoles
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,41,Loir-et-Cher,2017-12-31,0.0,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,41,Loir-et-Cher,2018-12-31,98.97,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,41,Loir-et-Cher,2019-12-31,99.84,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,41,Loir-et-Cher,2020-12-31,99.75,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2019-03-31,0.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2019-06-30,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2019-09-30,54.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2019-12-31,71.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2020-03-31,50.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2020-06-30,50.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2020-09-30,51.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2020-12-31,56.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2021-03-31,50.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,41,Loir-et-Cher,2021-06-30,54.0,%

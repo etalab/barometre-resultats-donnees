@@ -1,71 +1,179 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2020-01-31,233.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2020-01-31,233.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-01-31,298.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-01-31,298.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-02-28,298.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-02-28,298.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-03-31,305.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-03-31,305.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-04-30,315.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-04-30,315.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-05-31,328.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-05-31,328.0,logements rénovés
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,55,Meuse,2017-12-31,1.9,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,55,Meuse,2018-12-31,1.9,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,55,Meuse,2019-12-31,1.9,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,55,Meuse,2020-09-30,3.0,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,55,Meuse,2020-12-31,1.9,mois de traitement
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d'intérêt général proposés en tant que peine,nb-postes-tig,55,Meuse,2021-03-31,156.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,55,Meuse,2021-03-31,156.0,postes
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,55,Meuse,2018-12-31,16427.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,55,Meuse,2019-12-31,16368.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,55,Meuse,2020-12-31,68920.0,bénéficiaires
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,55,Meuse,2017-10-31,37.0,% de réussite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,55,Meuse,2019-10-31,41.0,% de réussite
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,55,Meuse,2018-12-31,1782.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,55,Meuse,2019-12-31,1815.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,55,Meuse,2020-12-31,1796.0,Recrutements de jeunes
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-01-31,28277.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-02-28,25840.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-03-31,32248.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-04-30,25794.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-05-31,31054.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-06-30,26963.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-07-31,26325.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-08-31,26437.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-09-30,26920.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-10-31,25714.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-11-30,24927.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2017-12-31,27838.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-01-31,26674.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-02-28,24978.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-03-31,27145.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-04-30,25754.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-05-31,25340.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-06-30,25451.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-07-31,24416.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-08-31,24098.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-09-30,27231.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-10-31,29253.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-11-30,31452.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-12-31,30349.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-01-31,26406.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-02-28,22244.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-03-31,28384.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-04-30,24419.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-05-31,24226.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-06-30,21764.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-07-31,23222.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-08-31,20523.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-09-30,22712.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-10-31,23540.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-11-30,24962.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-12-31,25892.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-01-31,25658.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-02-29,22039.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-03-31,26202.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-04-30,31189.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-05-31,26671.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-06-30,23006.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-07-31,23135.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-08-31,23377.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-09-30,26252.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-10-31,28753.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-11-30,32965.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2021-01-31,30890.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2021-02-28,27962.0,heures de patrouille dans l'année
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,55,Meuse,2017-10-31,36.8,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,55,Meuse,2019-10-31,41.3,% de réussite
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,55,Meuse,2019-02-28,2141.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,55,Meuse,2020-02-29,2262.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,55,Meuse,2021-02-28,2171.0,Recrutements de jeunes
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-02-28,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-11-30,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2017-12-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-03-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-07-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-10-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-11-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2018-12-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-01-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-02-28,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-07-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-11-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2019-12-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-02-29,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-03-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-06-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-07-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-09-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-11-30,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2020-12-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2021-01-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2021-02-28,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2021-03-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2021-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2021-05-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,2021-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-01-31,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-02-28,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-03-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-04-30,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-05-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-06-30,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-07-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-08-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-09-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-10-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-11-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2017-12-31,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-01-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-02-28,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-03-31,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-04-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-05-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-06-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-07-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-08-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-09-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-10-31,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-11-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2018-12-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-01-31,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-02-28,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-03-31,0.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-04-30,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-05-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-06-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-07-31,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-08-31,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-09-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-10-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-11-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2019-12-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-01-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-02-29,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-03-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-04-30,0.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-05-31,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-06-30,2.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-07-31,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-08-31,11.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-09-30,0.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-10-31,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-11-30,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2020-12-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2021-01-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2021-02-28,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2021-03-31,3.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2021-04-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2021-05-31,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,2021-06-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-01-31,326733.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-02-28,325871.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-03-31,320768.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-04-30,320728.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-05-31,315014.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-06-30,313502.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-07-31,311593.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-08-31,309254.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-09-30,309565.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-10-31,313104.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-11-30,319629.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2018-12-31,322140.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-01-31,321872.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-02-28,319139.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-03-31,320377.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-04-30,319042.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-05-31,317928.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-06-30,314240.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-07-31,313046.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-08-31,309472.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-09-30,304953.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-10-31,299240.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-11-30,292751.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2019-12-31,288294.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-01-31,287546.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-02-29,287341.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-03-31,285159.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-04-30,291929.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-05-31,294375.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-06-30,295616.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-07-31,295529.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-08-31,298383.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-09-30,301923.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-10-31,307136.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-11-30,315139.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2020-12-31,289246.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2021-01-31,306069.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2021-02-28,319670.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2021-03-31,331076.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2021-04-30,338126.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,2021-05-31,346342.0,heures de patrouille sur douze mois *
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,55,Meuse,2018-03-31,30.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,55,Meuse,2019-03-31,32.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,55,Meuse,2019-09-30,36.0,% de collégiens
@@ -83,115 +191,152 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,55,Meuse,2020-06-30,28.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,55,Meuse,2020-09-30,31.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,55,Meuse,2020-12-31,37.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,55,Meuse,2021-03-31,41.0,% de déploiement
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-01-31,13.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-02-28,28.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-03-31,32.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-04-30,38.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-05-31,41.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-06-30,59.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,55,Meuse,2021-02-28,12.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,55,Meuse,2021-03-31,29.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,55,Meuse,2021-04-30,46.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-01-31,13.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-02-28,28.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-03-31,32.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,55,Meuse,2021-04-30,38.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,55,Meuse,2021-05-31,57.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,55,Meuse,2021-06-30,83.0,entreprises
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2017-12-31,423.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2018-03-31,225.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2018-06-30,268.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2018-09-30,328.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2018-12-31,388.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2019-03-31,166.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2019-06-30,207.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2019-09-30,274.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2019-12-31,333.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2020-03-31,146.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2020-06-30,155.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2020-09-30,198.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2020-12-31,329.0,jeunes
-Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2021-03-31,208.0,jeunes
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2017-12-31,64.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-01-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-02-28,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-03-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-04-30,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-05-31,26.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-06-30,29.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-07-31,29.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-08-31,37.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-09-30,46.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-10-31,53.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-11-30,59.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-12-31,64.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-01-31,7.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-02-28,7.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-03-31,15.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-04-30,15.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-05-31,20.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-06-30,31.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-07-31,48.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-08-31,48.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-09-30,53.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-10-31,57.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-11-30,57.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-12-31,75.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-01-31,7.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-02-29,13.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-03-31,15.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-04-30,15.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-05-31,15.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-06-30,20.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-07-31,31.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-08-31,35.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-09-30,40.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-10-31,42.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-11-30,44.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-12-31,53.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2021-01-31,13.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2021-02-28,20.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2021-03-31,26.0,personnes dans l'année
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-01-31,13.66,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-02-29,15.95,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-03-31,12.28,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-04-30,13.02,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-05-31,16.47,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-06-30,11.56,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-07-31,12.39,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-08-31,12.35,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-09-30,13.22,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-10-31,12.68,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-11-30,12.3,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-12-31,10.88,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-04-30,36.45,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-05-31,53.39,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-06-30,55.68,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-07-31,56.13,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-08-31,60.82,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-09-30,60.38,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-10-31,56.94,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-11-30,56.91,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-12-31,51.83,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-01-31,64.59,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-02-29,66.97,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-03-31,67.12,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-04-30,72.6,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-05-31,69.41,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-06-30,66.2,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-07-31,69.55,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-08-31,72.8,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-09-30,70.82,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-10-31,68.11,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-11-30,69.2,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-12-31,69.31,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-01-31,17.31,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-02-28,21.19,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-03-31,14.46,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-04-30,21.14,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-05-31,16.28,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-06-30,31.03,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-07-31,26.36,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-08-31,29.92,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-09-30,16.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-10-31,17.88,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-11-30,15.52,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2019-12-31,23.35,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-01-31,13.99,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-02-29,12.84,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-03-31,12.7,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-04-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-05-31,15.18,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-06-30,17.46,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-07-31,13.95,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-08-31,18.9,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-09-30,21.54,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-10-31,18.54,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-11-30,6.26,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,55,Meuse,2020-12-31,9.72,%
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2021-03-31,210.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,55,Meuse,2021-06-30,241.0,jeunes
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,55,Meuse,2021-04-30,0.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,55,Meuse,2021-05-31,811.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,55,Meuse,2021-06-30,1033.0,utilisateurs
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2017-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2017-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2017-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2017-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2018-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2018-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2018-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2018-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2019-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2019-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2019-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2019-12-31,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2020-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2020-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2020-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2020-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,2021-03-31,0.0,ordonnances dans l'année
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2017-12-31,64.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-01-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-02-28,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-03-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-04-30,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-05-31,26.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-06-30,29.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-07-31,29.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-08-31,37.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-09-30,46.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-10-31,53.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-11-30,59.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2018-12-31,64.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-01-31,7.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-02-28,7.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-03-31,15.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-04-30,15.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-05-31,20.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-06-30,31.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-07-31,48.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-08-31,48.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-09-30,53.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-10-31,57.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-11-30,57.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2019-12-31,75.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-01-31,7.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-02-29,13.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-03-31,15.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-04-30,15.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-05-31,15.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-06-30,20.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-07-31,31.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-08-31,35.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-09-30,40.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-10-31,42.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-11-30,44.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2020-12-31,53.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2021-01-31,13.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2021-02-28,20.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2021-03-31,26.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2021-04-30,35.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,55,Meuse,2021-05-31,51.0,personnes dans l'année*
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-01-31,13.66,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-02-29,15.95,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-03-31,12.28,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-04-30,13.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-05-31,16.47,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-06-30,11.56,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-07-31,12.39,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-08-31,12.35,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-09-30,13.22,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-10-31,12.68,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-11-30,12.3,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,55,Meuse,2020-12-31,10.88,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-04-30,36.45,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-05-31,53.39,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-06-30,55.68,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-07-31,56.13,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-08-31,60.82,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-09-30,60.38,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-10-31,56.94,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-11-30,56.91,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2019-12-31,51.83,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-01-31,64.59,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-02-29,66.97,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-03-31,67.12,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-04-30,72.6,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-05-31,69.41,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-06-30,66.2,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-07-31,69.55,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-08-31,72.8,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-09-30,70.82,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-10-31,68.11,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-11-30,69.2,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,55,Meuse,2020-12-31,69.31,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-01-31,17.31,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-02-28,21.19,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-03-31,14.46,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-04-30,21.14,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-05-31,16.28,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-06-30,31.03,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-07-31,26.36,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-08-31,29.92,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-09-30,16.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-10-31,17.88,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-11-30,15.52,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2019-12-31,23.35,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-01-31,13.99,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-02-29,12.84,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-03-31,12.7,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-04-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-05-31,15.18,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-06-30,17.46,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-07-31,13.95,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-08-31,18.9,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-09-30,21.54,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-10-31,18.54,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-11-30,6.26,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,55,Meuse,2020-12-31,9.72,%
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,55,Meuse,2017-06-30,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,55,Meuse,2017-12-31,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,55,Meuse,2018-06-30,0.0,habitants
@@ -204,6 +349,19 @@ Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéfic
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,55,Meuse,2021-01-31,4.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,55,Meuse,2021-02-28,8.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,55,Meuse,2021-03-31,11.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,55,Meuse,2021-04-30,14.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,55,Meuse,2021-05-31,18.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,55,Meuse,2021-06-30,28.0,familles
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2019-09-30,103.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2019-12-31,105.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2020-03-31,105.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2020-06-30,105.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2020-09-30,105.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2020-11-30,105.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2020-12-31,105.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2021-03-31,108.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2021-06-30,108.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,2021-07-31,111.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,2018-03-31,65.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,2018-06-30,325.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,2018-09-30,640.0,primes et bonus
@@ -217,18 +375,21 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,2020-09-30,2780.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,2020-12-31,2991.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,2021-03-31,3149.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,2021-04-30,3219.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,2021-05-31,3254.0,primes et bonus
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,55,Meuse,2017-12-31,27.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,55,Meuse,2018-12-31,58.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,55,Meuse,2019-12-31,128.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,55,Meuse,2020-09-30,137.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,55,Meuse,2020-12-31,138.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,55,Meuse,2021-03-31,135.0,kilomètres
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,55,Meuse,2017-12-31,3.2,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,55,Meuse,2018-12-31,3.3,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,55,Meuse,2019-12-31,4.7,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,55,Meuse,2017-12-31,136.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,55,Meuse,2018-12-31,147.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,55,Meuse,2019-12-31,186.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,55,Meuse,2017-12-31,3.2,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,55,Meuse,2018-12-31,3.3,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,55,Meuse,2019-12-31,4.7,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,55,Meuse,2020-12-31,5.5,% de surface agricole
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2020-01-31,4.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2020-02-29,5.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2020-03-31,5.0,labellisations
@@ -245,23 +406,98 @@ Déployer une offre France Services dans tous les territoires ,Nombre de labelli
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2021-02-28,14.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2021-03-31,16.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2021-04-30,16.0,labellisations
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,55,Meuse,2017-12-31,7.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,55,Meuse,2018-12-31,30.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,55,Meuse,2019-12-31,77.0,% de réseaux
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-12-31,734.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-12-31,773.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-12-31,855.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-12-31,1000.0,contrats
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,55,Meuse,2019-03-31,145.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,55,Meuse,2019-06-30,134.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,55,Meuse,2019-09-30,188.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,55,Meuse,2019-12-31,131.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,55,Meuse,2020-03-31,153.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,55,Meuse,2020-06-30,122.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,55,Meuse,2020-09-30,154.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,55,Meuse,2020-12-31,162.0,pères / conjoints dans l'année
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2021-05-31,16.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2021-06-30,16.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,55,Meuse,2021-07-31,16.0,labellisations
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,55,Meuse,2017-12-31,7.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,55,Meuse,2018-12-31,30.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,55,Meuse,2019-12-31,77.0,% de réseaux
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-01-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-02-28,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-03-31,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-04-30,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-05-31,0.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-06-30,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-07-31,105.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-08-31,125.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-09-30,361.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-10-31,84.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-11-30,39.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2017-12-31,20.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-01-31,4.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-02-28,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-03-31,3.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-04-30,1.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-05-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-06-30,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-07-31,114.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-08-31,118.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-09-30,431.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-10-31,91.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-11-30,35.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2018-12-31,22.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-01-31,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-02-28,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-03-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-04-30,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-05-31,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-06-30,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-07-31,103.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-08-31,124.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-09-30,427.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-10-31,110.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-11-30,36.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2019-12-31,22.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-01-31,14.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-02-29,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-03-31,5.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-04-30,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-05-31,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-06-30,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-07-31,87.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-08-31,159.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-09-30,521.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-10-31,158.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-11-30,52.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2020-12-31,25.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2021-01-31,22.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2021-02-28,25.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2021-03-31,16.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,55,Meuse,2021-04-30,5.0,contrats
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2018-03-31,165.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2018-06-30,135.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2018-09-30,175.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2018-12-31,164.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2019-03-31,145.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2019-06-30,134.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2019-09-30,188.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2019-12-31,131.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2020-03-31,153.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2020-06-30,122.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2020-09-30,154.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,55,Meuse,2020-12-31,162.0,pères / conjoints dans l'année
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,55,Meuse,2019-09-30,83.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,55,Meuse,2020-09-30,86.0,% des classes
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,55,Meuse,2020-10-31,14.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,55,Meuse,2020-11-30,32.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,55,Meuse,2020-12-31,38.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,55,Meuse,2021-01-31,38.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,55,Meuse,2021-02-28,40.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,55,Meuse,2021-03-31,56.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,55,Meuse,2021-04-30,63.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,55,Meuse,2021-05-31,79.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2020-01-31,233.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2020-01-31,233.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-01-31,298.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-01-31,298.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-02-28,298.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-02-28,298.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-03-31,305.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-03-31,305.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-04-30,315.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-04-30,315.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,55,Meuse,2021-05-31,328.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,55,Meuse,2021-05-31,328.0,logements rénovés
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,55,Meuse,2017-06-30,14.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,55,Meuse,2017-12-31,15.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,55,Meuse,2018-06-30,16.0,maisons de santé
@@ -270,10 +506,14 @@ Doubler le nombre de maisons de santé et de centres de santé dans les territoi
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,55,Meuse,2019-12-31,16.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,55,Meuse,2020-06-30,16.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,55,Meuse,2020-12-31,16.0,maisons de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,55,Meuse,2021-06-30,16.0,maisons de santé
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,2020-12-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,2021-01-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,2021-02-28,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,2021-03-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,2021-04-30,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,2021-05-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,2021-06-30,0.0,contrôles dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2020-08-31,0.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2020-09-30,7.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2020-10-31,8.0,amendes dressées dans l'année
@@ -282,6 +522,9 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2021-01-31,6.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2021-02-28,3.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2021-03-31,11.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2021-04-30,5.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2021-05-31,6.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,2021-06-30,5.0,amendes dressées dans l'année
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,55,Meuse,2017-09-30,29.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,55,Meuse,2018-09-30,29.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,55,Meuse,2019-09-30,32.0,unités
@@ -290,6 +533,7 @@ Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de cla
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,55,Meuse,2018-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,55,Meuse,2019-09-30,2.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,55,Meuse,2020-09-30,3.0,classes
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,55,Meuse,2021-03-31,5.0,bénéficiaires
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,55,Meuse,2019-10-31,100.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,55,Meuse,2020-10-31,100.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de grande section en REP dédoublées,tx-gs-rep,55,Meuse,2019-11-30,0.0,% des classes
@@ -342,6 +586,8 @@ Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-ro
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,55,Meuse,2020-10-31,1.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,55,Meuse,2020-11-30,0.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,55,Meuse,2020-12-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,55,Meuse,2021-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,55,Meuse,2021-02-28,1.0,morts dans l'année
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,55,Meuse,2020-04-30,3.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,55,Meuse,2020-05-31,12.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,55,Meuse,2020-06-30,41.0,dossiers validés
@@ -354,60 +600,89 @@ MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valide
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,55,Meuse,2021-01-31,667.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,55,Meuse,2021-02-28,835.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,55,Meuse,2021-03-31,1041.0,dossiers validés
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-01-31,833.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-02-28,808.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-03-31,831.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-04-30,844.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-05-31,856.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-06-30,868.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-07-31,855.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-08-31,823.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-09-30,878.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-10-31,861.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-11-30,888.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-12-31,854.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-01-31,833.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-02-28,798.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-03-31,813.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-04-30,833.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-05-31,835.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-06-30,870.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-07-31,831.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-08-31,799.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-09-30,802.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-10-31,835.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-11-30,836.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-12-31,844.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-01-31,803.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-02-28,765.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-03-31,793.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-04-30,794.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-05-31,815.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-06-30,859.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-07-31,788.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-08-31,764.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-09-30,789.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-10-31,790.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-11-30,814.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-12-31,793.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-01-31,786.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-02-29,784.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-03-31,769.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-04-30,559.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-05-31,661.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-06-30,733.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-07-31,731.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-08-31,743.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-09-30,767.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-10-31,787.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-11-30,765.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-12-31,755.0,bénéficiaires
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,55,Meuse,2021-04-30,1263.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,55,Meuse,2021-05-31,1510.0,dossiers validés
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-01-31,833.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-02-28,808.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-03-31,831.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-04-30,844.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-05-31,856.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-06-30,868.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-07-31,855.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-08-31,823.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-09-30,878.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-10-31,861.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-11-30,888.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2017-12-31,854.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-01-31,833.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-02-28,798.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-03-31,813.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-04-30,833.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-05-31,835.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-06-30,870.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-07-31,831.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-08-31,799.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-09-30,802.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-10-31,835.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-11-30,836.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2018-12-31,844.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-01-31,803.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-02-28,765.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-03-31,793.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-04-30,794.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-05-31,815.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-06-30,859.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-07-31,788.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-08-31,764.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-09-30,789.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-10-31,790.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-11-30,814.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2019-12-31,793.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-01-31,786.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-02-29,784.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-03-31,769.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-04-30,559.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-05-31,661.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-06-30,733.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-07-31,730.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-08-31,742.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-09-30,766.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-10-31,784.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-11-30,767.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2020-12-31,755.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2021-01-31,734.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2021-02-28,729.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,55,Meuse,2021-03-31,771.0,bénéficiaires *
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2019-04-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2020-11-30,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2020-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2021-01-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2021-02-28,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2021-03-31,1.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,55,Meuse,2021-06-30,42.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,55,Meuse,2020-12-31,335.0,enfants
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2020-11-30,1.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2020-12-31,2.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-01-31,2.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-02-28,2.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-03-31,2.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2020-12-31,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-01-31,0.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-02-28,0.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-03-31,0.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-04-30,144.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-05-31,0.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,55,Meuse,2021-06-30,11.0,entreprises industrielles et agricoles
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,55,Meuse,2017-12-31,0.0,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,55,Meuse,2018-12-31,98.99,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,55,Meuse,2019-12-31,99.63,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,55,Meuse,2020-12-31,99.77,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2019-03-31,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2019-06-30,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2019-09-30,86.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2019-12-31,86.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2020-03-31,79.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2020-06-30,83.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2020-09-30,92.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2020-12-31,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2021-03-31,94.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,55,Meuse,2021-06-30,98.0,%

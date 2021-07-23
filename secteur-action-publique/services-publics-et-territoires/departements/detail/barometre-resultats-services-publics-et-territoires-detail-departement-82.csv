@@ -1,8 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2020-01-31,193.0,logements
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-01-31,409.0,logements
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-02-28,409.0,logements
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-03-31,409.0,logements
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,82,Tarn-et-Garonne,2017-12-31,17.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,82,Tarn-et-Garonne,2018-03-31,18.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,82,Tarn-et-Garonne,2018-06-30,18.0,% de déploiement
@@ -16,6 +12,7 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,82,Tarn-et-Garonne,2020-06-30,25.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,82,Tarn-et-Garonne,2020-09-30,28.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,82,Tarn-et-Garonne,2020-12-31,34.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,82,Tarn-et-Garonne,2021-03-31,41.0,% de déploiement
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2020-01-31,5.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2020-02-29,5.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2020-03-31,5.0,labellisations
@@ -32,6 +29,29 @@ Déployer une offre France Services dans tous les territoires ,Nombre de labelli
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2021-02-28,10.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2021-03-31,13.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2021-04-30,13.0,labellisations
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,82,Tarn-et-Garonne,2017-12-31,6.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,82,Tarn-et-Garonne,2018-12-31,32.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,82,Tarn-et-Garonne,2019-12-31,80.0,% de réseaux
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2021-05-31,13.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2021-06-30,13.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,82,Tarn-et-Garonne,2021-07-31,14.0,labellisations
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,82,Tarn-et-Garonne,2017-12-31,6.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,82,Tarn-et-Garonne,2018-12-31,32.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,82,Tarn-et-Garonne,2019-12-31,80.0,% de réseaux
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,82,Tarn-et-Garonne,2020-10-31,7.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,82,Tarn-et-Garonne,2020-11-30,25.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,82,Tarn-et-Garonne,2020-12-31,60.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,82,Tarn-et-Garonne,2021-01-31,60.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,82,Tarn-et-Garonne,2021-02-28,60.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,82,Tarn-et-Garonne,2021-03-31,76.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,82,Tarn-et-Garonne,2021-04-30,85.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,82,Tarn-et-Garonne,2021-05-31,94.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2020-01-31,193.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,82,Tarn-et-Garonne,2020-01-31,193.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-01-31,409.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-01-31,409.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-02-28,409.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-02-28,409.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-03-31,409.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-03-31,409.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-04-30,409.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-04-30,409.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-05-31,409.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,82,Tarn-et-Garonne,2021-05-31,409.0,logements rénovés

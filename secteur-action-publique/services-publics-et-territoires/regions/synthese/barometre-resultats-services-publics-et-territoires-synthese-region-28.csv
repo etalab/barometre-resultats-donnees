@@ -1,4 +1,6 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,28,Normandie,50.0,2020-12-31,20.0,2017-12-31,30.0,150.0,,,,% de déploiement
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,28,Normandie,99.0,2021-04-30,0.0,2017-01-01,99.0,,164.0,60.0,2022-12-31,labellisations
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,28,Normandie,2963.0,2021-03-31,0.0,,2963.0,,,,,logements
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,28,Normandie,53.0,2021-03-31,20.0,2017-12-31,33.0,165.0,,,,% de déploiement
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,28,Normandie,107.0,2021-07-31,0.0,2017-01-01,107.0,,164.0,65.0,2022-12-31,labellisations
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,28,Normandie,683.0,2021-05-31,,,,,,,,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,28,Normandie,3026.0,2021-05-31,0.0,,3026.0,,,,,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,28,Normandie,3026.0,2021-05-31,0.0,,3026.0,,,,,logements rénovés

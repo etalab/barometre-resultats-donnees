@@ -1,1 +1,4 @@
-
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,07,Ardèche,1764.0,2021-06-30,0,2017-01-01,1764.0,,5451.0,32.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,07,Ardèche,0.0,2020-12-31,0,,0.0,,397.0,0.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,07,Ardèche,477.0,2021-06-30,0,,477.0,,925.0,52.0,2022-12-31,attestations

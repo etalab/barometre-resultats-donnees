@@ -1,72 +1,179 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2020-01-31,448.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2020-01-31,448.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-01-31,750.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-01-31,750.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-02-28,760.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-02-28,760.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-03-31,768.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-03-31,768.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-04-30,779.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-04-30,779.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-05-31,791.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-05-31,791.0,logements rénovés
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,22,Côtes-d'Armor,2017-12-31,3.3,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,22,Côtes-d'Armor,2018-12-31,3.1,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,22,Côtes-d'Armor,2019-12-31,0.0,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,22,Côtes-d'Armor,2020-09-30,4.3,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,22,Côtes-d'Armor,2020-12-31,4.7,mois de traitement
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d'intérêt général proposés en tant que peine,nb-postes-tig,22,Côtes-d'Armor,2021-03-31,417.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,22,Côtes-d'Armor,2021-03-31,417.0,postes
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,22,Côtes-d'Armor,2018-12-31,53250.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,22,Côtes-d'Armor,2019-12-31,53962.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,22,Côtes-d'Armor,2020-12-31,234819.0,bénéficiaires
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,22,Côtes-d'Armor,2017-10-31,43.0,% de réussite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,22,Côtes-d'Armor,2019-10-31,50.0,% de réussite
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,22,Côtes-d'Armor,2018-12-31,6601.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,22,Côtes-d'Armor,2019-12-31,6896.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,22,Côtes-d'Armor,2020-12-31,7558.0,Recrutements de jeunes
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-01-31,47498.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-02-28,40389.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-03-31,51278.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-04-30,41199.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-05-31,46627.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-06-30,44110.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-07-31,48131.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-08-31,48857.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-09-30,45842.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-10-31,49634.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-11-30,47199.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2017-12-31,50517.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-01-31,50036.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-02-28,44292.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-03-31,45578.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-04-30,45827.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-05-31,42349.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-06-30,44274.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-07-31,45969.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-08-31,43881.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-09-30,42231.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-10-31,47874.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-11-30,50732.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-12-31,44290.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-01-31,43709.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-02-28,40593.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-03-31,48978.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-04-30,43701.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-05-31,43684.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-06-30,39705.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-07-31,48418.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-08-31,47178.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-09-30,41434.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-10-31,43773.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-11-30,42929.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-12-31,43537.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-01-31,45332.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-02-29,39939.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-03-31,49784.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-04-30,53354.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-05-31,46095.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-06-30,38411.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-07-31,47347.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-08-31,44246.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-09-30,46684.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-10-31,46660.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-11-30,51774.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-12-31,52743.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2021-01-31,48444.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2021-02-28,43879.0,heures de patrouille dans l'année
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,22,Côtes-d'Armor,2017-10-31,42.6,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,22,Côtes-d'Armor,2019-10-31,49.8,% de réussite
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,22,Côtes-d'Armor,2019-02-28,8217.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,22,Côtes-d'Armor,2020-02-29,8535.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,22,Côtes-d'Armor,2021-02-28,9190.0,Recrutements de jeunes
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-01-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-02-28,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-03-31,10.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-10-31,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-11-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2017-12-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-04-30,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-06-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-09-30,7.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-10-31,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-11-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2018-12-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-05-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-11-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2019-12-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-02-29,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-04-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-05-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-07-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-08-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-09-30,10.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-11-30,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2020-12-31,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2021-01-31,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2021-02-28,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2021-03-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2021-04-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2021-05-31,9.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,22,Côtes-d'Armor,2021-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-01-31,18.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-02-28,18.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-03-31,21.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-04-30,16.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-05-31,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-06-30,24.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-07-31,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-08-31,31.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-09-30,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-10-31,21.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-11-30,19.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2017-12-31,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-01-31,29.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-02-28,16.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-03-31,25.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-04-30,13.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-05-31,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-06-30,17.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-07-31,22.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-08-31,9.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-09-30,31.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-10-31,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-11-30,23.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2018-12-31,22.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-01-31,24.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-02-28,13.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-03-31,23.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-04-30,19.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-05-31,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-06-30,30.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-07-31,35.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-08-31,31.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-09-30,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-10-31,22.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-11-30,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2019-12-31,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-01-31,16.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-02-29,39.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-03-31,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-04-30,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-05-31,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-06-30,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-07-31,37.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-08-31,40.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-09-30,36.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-10-31,15.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-11-30,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2020-12-31,22.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2021-01-31,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2021-02-28,6.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2021-03-31,19.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2021-04-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2021-05-31,13.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,22,Côtes-d'Armor,2021-06-30,15.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-01-31,563819.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-02-28,567722.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-03-31,562021.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-04-30,566649.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-05-31,562371.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-06-30,562536.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-07-31,560374.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-08-31,555397.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-09-30,551786.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-10-31,550025.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-11-30,553558.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2018-12-31,547331.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-01-31,541005.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-02-28,537306.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-03-31,540707.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-04-30,538581.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-05-31,539915.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-06-30,535346.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-07-31,537795.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-08-31,541092.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-09-30,540296.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-10-31,536195.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-11-30,528393.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2019-12-31,527640.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-01-31,529262.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-02-29,528608.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-03-31,529414.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-04-30,539067.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-05-31,541478.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-06-30,540184.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-07-31,539113.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-08-31,536181.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-09-30,541430.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-10-31,544317.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-11-30,553162.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2020-12-31,562367.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2021-01-31,559659.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2021-02-28,557820.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2021-03-31,552984.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2021-04-30,543561.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,22,Côtes-d'Armor,2021-05-31,539040.0,heures de patrouille sur douze mois *
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,22,Côtes-d'Armor,2018-03-31,22.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,22,Côtes-d'Armor,2019-03-31,23.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,22,Côtes-d'Armor,2019-09-30,27.0,% de collégiens
@@ -84,119 +191,178 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,22,Côtes-d'Armor,2020-06-30,20.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,22,Côtes-d'Armor,2020-09-30,22.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,22,Côtes-d'Armor,2020-12-31,23.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,22,Côtes-d'Armor,2021-03-31,25.0,% de déploiement
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-01-31,45.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-02-28,94.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-03-31,108.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-04-30,122.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-05-31,122.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-06-30,172.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,22,Côtes-d'Armor,2021-02-28,44.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,22,Côtes-d'Armor,2021-03-31,151.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,22,Côtes-d'Armor,2021-04-30,240.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-01-31,45.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-02-28,94.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-03-31,108.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,22,Côtes-d'Armor,2021-04-30,122.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,22,Côtes-d'Armor,2021-05-31,300.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,22,Côtes-d'Armor,2021-06-30,471.0,entreprises
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2017-12-31,501.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2018-03-31,288.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2018-06-30,329.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2018-09-30,417.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2018-12-31,586.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2019-03-31,335.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2019-06-30,391.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2019-09-30,444.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2019-12-31,609.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2020-03-31,314.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2020-06-30,323.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2020-09-30,409.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2020-12-31,593.0,jeunes
-Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2021-03-31,320.0,jeunes
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-09-30,6851.0,utilisateurs
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2021-03-31,322.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,22,Côtes-d'Armor,2021-06-30,355.0,jeunes
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-02-28,282.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-03-31,282.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-04-30,283.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-05-31,286.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-06-30,286.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-07-31,523.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-08-31,655.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-09-30,1212.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-10-31,1905.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-11-30,2576.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-12-31,3147.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-01-31,3417.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-02-29,4145.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-03-31,4483.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-04-30,4780.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-05-31,5054.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-06-30,5444.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-07-31,5920.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-08-31,6349.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-09-30,6850.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-10-31,7312.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-11-30,7654.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-12-31,8111.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-02-28,8920.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-01-31,8572.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-02-28,8921.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-03-31,9374.0,utilisateurs
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2017-12-31,183.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-01-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-02-28,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-03-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-04-30,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-05-31,112.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-06-30,132.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-07-31,158.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-08-31,174.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-09-30,180.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-10-31,211.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-11-30,240.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-12-31,264.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-01-31,29.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-02-28,37.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-03-31,48.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-04-30,59.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-05-31,73.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-06-30,90.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-07-31,121.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-08-31,128.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-09-30,143.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-10-31,169.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-11-30,172.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-12-31,213.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-01-31,26.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-02-29,40.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-03-31,57.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-04-30,57.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-05-31,62.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-06-30,79.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-07-31,132.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-08-31,150.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-09-30,165.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-10-31,178.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-11-30,216.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-12-31,233.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2021-01-31,15.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2021-02-28,42.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2021-03-31,57.0,personnes dans l'année
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-01-31,14.54,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-02-29,13.81,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-03-31,11.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-04-30,9.85,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-05-31,11.16,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-06-30,10.59,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-07-31,10.61,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-08-31,10.34,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-09-30,11.09,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-10-31,11.49,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-11-30,11.14,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-12-31,10.05,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-04-30,34.7,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-05-31,48.12,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-06-30,50.21,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-07-31,50.4,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-08-31,51.44,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-09-30,52.72,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-10-31,49.62,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-11-30,49.98,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-12-31,47.93,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-01-31,56.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-02-29,60.36,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-03-31,62.43,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-04-30,63.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-05-31,62.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-06-30,63.3,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-07-31,62.88,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-08-31,66.5,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-09-30,65.19,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-10-31,64.29,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-11-30,63.65,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-12-31,65.07,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-01-31,8.85,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-02-28,12.09,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-03-31,12.42,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-04-30,11.29,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-05-31,10.45,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-06-30,11.85,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-07-31,12.02,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-08-31,10.4,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-09-30,8.2,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-10-31,10.82,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-11-30,10.87,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2019-12-31,9.38,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-01-31,10.52,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-02-29,9.11,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-03-31,12.05,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-04-30,3.77,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-05-31,8.81,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-06-30,9.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-07-31,10.41,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-08-31,12.03,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-09-30,10.38,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-10-31,8.66,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-11-30,5.21,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,22,Côtes-d'Armor,2020-12-31,5.28,%
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-04-30,9864.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-05-31,10899.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-06-30,11435.0,utilisateurs
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2017-03-31,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2017-06-30,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2017-09-30,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2017-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2018-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2018-06-30,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2018-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2018-12-31,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2019-03-31,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2019-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2019-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2019-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2020-03-31,9.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2020-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2020-09-30,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2020-12-31,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,22,Côtes-d'Armor,2021-03-31,0.0,ordonnances dans l'année
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2017-12-31,183.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-01-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-02-28,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-03-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-04-30,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-05-31,112.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-06-30,132.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-07-31,158.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-08-31,174.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-09-30,180.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-10-31,211.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-11-30,240.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2018-12-31,264.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-01-31,29.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-02-28,37.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-03-31,48.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-04-30,59.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-05-31,73.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-06-30,90.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-07-31,121.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-08-31,128.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-09-30,143.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-10-31,169.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-11-30,172.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2019-12-31,213.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-01-31,26.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-02-29,40.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-03-31,57.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-04-30,57.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-05-31,62.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-06-30,79.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-07-31,132.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-08-31,150.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-09-30,165.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-10-31,178.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-11-30,216.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2020-12-31,233.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2021-01-31,15.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2021-02-28,42.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2021-03-31,57.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2021-04-30,70.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,22,Côtes-d'Armor,2021-05-31,88.0,personnes dans l'année*
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-01-31,14.54,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-02-29,13.81,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-03-31,11.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-04-30,9.85,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-05-31,11.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-06-30,10.59,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-07-31,10.61,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-08-31,10.34,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-09-30,11.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-10-31,11.49,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-11-30,11.14,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,22,Côtes-d'Armor,2020-12-31,10.05,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-04-30,34.7,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-05-31,48.12,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-06-30,50.21,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-07-31,50.4,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-08-31,51.44,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-09-30,52.72,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-10-31,49.62,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-11-30,49.98,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2019-12-31,47.93,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-01-31,56.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-02-29,60.36,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-03-31,62.43,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-04-30,63.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-05-31,62.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-06-30,63.3,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-07-31,62.88,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-08-31,66.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-09-30,65.19,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-10-31,64.29,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-11-30,63.65,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,22,Côtes-d'Armor,2020-12-31,65.07,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-01-31,8.85,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-02-28,12.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-03-31,12.42,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-04-30,11.29,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-05-31,10.45,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-06-30,11.85,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-07-31,12.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-08-31,10.4,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-09-30,8.2,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-10-31,10.82,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-11-30,10.87,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2019-12-31,9.38,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-01-31,10.52,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-02-29,9.11,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-03-31,12.05,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-04-30,3.77,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-05-31,8.81,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-06-30,9.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-07-31,10.41,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-08-31,12.03,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-09-30,10.38,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-10-31,8.66,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-11-30,5.21,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,22,Côtes-d'Armor,2020-12-31,5.28,%
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,22,Côtes-d'Armor,2017-06-30,510000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,22,Côtes-d'Armor,2017-12-31,510000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,22,Côtes-d'Armor,2018-06-30,510000.0,habitants
@@ -209,6 +375,19 @@ Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéfic
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,22,Côtes-d'Armor,2021-01-31,33.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,22,Côtes-d'Armor,2021-02-28,55.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,22,Côtes-d'Armor,2021-03-31,83.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,22,Côtes-d'Armor,2021-04-30,114.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,22,Côtes-d'Armor,2021-05-31,153.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,22,Côtes-d'Armor,2021-06-30,186.0,familles
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2019-09-30,433.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2019-12-31,434.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2020-03-31,427.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2020-06-30,427.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2020-09-30,433.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2020-11-30,435.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2020-12-31,441.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2021-03-31,476.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2021-06-30,479.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,22,Côtes-d'Armor,2021-07-31,482.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,22,Côtes-d'Armor,2018-03-31,256.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,22,Côtes-d'Armor,2018-06-30,1473.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,22,Côtes-d'Armor,2018-09-30,2896.0,primes et bonus
@@ -222,18 +401,21 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,22,Côtes-d'Armor,2020-09-30,11464.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,22,Côtes-d'Armor,2020-12-31,12372.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,22,Côtes-d'Armor,2021-03-31,12999.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,22,Côtes-d'Armor,2021-04-30,13233.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,22,Côtes-d'Armor,2021-05-31,13436.0,primes et bonus
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,22,Côtes-d'Armor,2017-12-31,445.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,22,Côtes-d'Armor,2018-12-31,506.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,22,Côtes-d'Armor,2019-12-31,522.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,22,Côtes-d'Armor,2020-09-30,719.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,22,Côtes-d'Armor,2020-12-31,788.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,22,Côtes-d'Armor,2021-03-31,882.0,kilomètres
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,22,Côtes-d'Armor,2017-12-31,5.6,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,22,Côtes-d'Armor,2018-12-31,6.7,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,22,Côtes-d'Armor,2019-12-31,7.5,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,22,Côtes-d'Armor,2017-12-31,673.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,22,Côtes-d'Armor,2018-12-31,790.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,22,Côtes-d'Armor,2019-12-31,862.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,22,Côtes-d'Armor,2017-12-31,5.6,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,22,Côtes-d'Armor,2018-12-31,6.7,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,22,Côtes-d'Armor,2019-12-31,7.5,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,22,Côtes-d'Armor,2020-12-31,8.9,% de surface agricole
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2020-01-31,4.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2020-02-29,4.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2020-03-31,4.0,labellisations
@@ -250,23 +432,102 @@ Déployer une offre France Services dans tous les territoires ,Nombre de labelli
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2021-02-28,7.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2021-03-31,10.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2021-04-30,10.0,labellisations
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,22,Côtes-d'Armor,2017-12-31,7.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,22,Côtes-d'Armor,2018-12-31,12.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,22,Côtes-d'Armor,2019-12-31,75.0,% de réseaux
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-12-31,2619.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-12-31,2812.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-12-31,3248.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-12-31,4136.0,contrats
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,22,Côtes-d'Armor,2019-03-31,613.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,22,Côtes-d'Armor,2019-06-30,532.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,22,Côtes-d'Armor,2019-09-30,635.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,22,Côtes-d'Armor,2019-12-31,596.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,22,Côtes-d'Armor,2020-03-31,626.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,22,Côtes-d'Armor,2020-06-30,482.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,22,Côtes-d'Armor,2020-09-30,629.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,22,Côtes-d'Armor,2020-12-31,635.0,pères / conjoints dans l'année
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2021-05-31,10.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2021-06-30,10.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,22,Côtes-d'Armor,2021-07-31,18.0,labellisations
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,22,Côtes-d'Armor,2017-12-31,7.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,22,Côtes-d'Armor,2018-12-31,12.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,22,Côtes-d'Armor,2019-12-31,75.0,% de réseaux
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-01-31,34.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-02-28,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-03-31,7.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-04-30,12.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-05-31,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-06-30,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-07-31,472.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-08-31,356.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-09-30,1290.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-10-31,200.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-11-30,111.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2017-12-31,63.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-01-31,29.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-02-28,11.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-03-31,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-04-30,26.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-05-31,8.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-06-30,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-07-31,468.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-08-31,355.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-09-30,1537.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-10-31,195.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-11-30,103.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2018-12-31,75.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-01-31,42.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-02-28,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-03-31,24.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-04-30,20.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-05-31,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-06-30,11.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-07-31,459.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-08-31,381.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-09-30,1816.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-10-31,235.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-11-30,108.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2019-12-31,69.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-01-31,49.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-02-29,19.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-03-31,23.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-04-30,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-05-31,1.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-06-30,24.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-07-31,489.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-08-31,600.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-09-30,2507.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-10-31,446.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-11-30,151.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2020-12-31,75.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2021-01-31,110.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2021-02-28,66.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2021-03-31,43.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,22,Côtes-d'Armor,2021-04-30,23.0,contrats
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2018-03-31,585.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2018-06-30,558.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2018-09-30,679.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2018-12-31,583.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2019-03-31,613.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2019-06-30,532.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2019-09-30,635.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2019-12-31,596.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2020-03-31,626.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2020-06-30,482.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2020-09-30,629.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,22,Côtes-d'Armor,2020-12-31,635.0,pères / conjoints dans l'année
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,22,Côtes-d'Armor,2019-09-30,77.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,22,Côtes-d'Armor,2020-09-30,80.0,% des classes
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,22,Côtes-d'Armor,2020-10-31,27.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,22,Côtes-d'Armor,2020-11-30,59.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,22,Côtes-d'Armor,2020-12-31,61.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,22,Côtes-d'Armor,2021-01-31,61.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,22,Côtes-d'Armor,2021-02-28,95.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,22,Côtes-d'Armor,2021-03-31,111.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,22,Côtes-d'Armor,2021-04-30,123.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,22,Côtes-d'Armor,2021-05-31,157.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2020-01-31,448.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2020-01-31,448.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-01-31,750.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-01-31,750.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-02-28,760.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-02-28,760.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-03-31,768.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-03-31,768.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-04-30,779.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-04-30,779.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,22,Côtes-d'Armor,2021-05-31,791.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,22,Côtes-d'Armor,2021-05-31,791.0,logements rénovés
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,22,Côtes-d'Armor,2017-12-31,0.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,22,Côtes-d'Armor,2018-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,22,Côtes-d'Armor,2019-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,22,Côtes-d'Armor,2020-12-31,1.0,centres de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,22,Côtes-d'Armor,2017-06-30,18.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,22,Côtes-d'Armor,2017-12-31,18.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,22,Côtes-d'Armor,2018-06-30,18.0,maisons de santé
@@ -275,14 +536,14 @@ Doubler le nombre de maisons de santé et de centres de santé dans les territoi
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,22,Côtes-d'Armor,2019-12-31,19.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,22,Côtes-d'Armor,2020-06-30,19.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,22,Côtes-d'Armor,2020-12-31,20.0,maisons de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,22,Côtes-d'Armor,2017-12-31,0.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,22,Côtes-d'Armor,2018-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,22,Côtes-d'Armor,2019-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,22,Côtes-d'Armor,2020-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,22,Côtes-d'Armor,2021-06-30,23.0,maisons de santé
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,22,Côtes-d'Armor,2020-12-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,22,Côtes-d'Armor,2021-01-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,22,Côtes-d'Armor,2021-02-28,1.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,22,Côtes-d'Armor,2021-03-31,2.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,22,Côtes-d'Armor,2021-04-30,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,22,Côtes-d'Armor,2021-05-31,3.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,22,Côtes-d'Armor,2021-06-30,4.0,contrôles dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2020-08-31,0.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2020-09-30,37.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2020-10-31,31.0,amendes dressées dans l'année
@@ -291,6 +552,9 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2021-01-31,14.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2021-02-28,44.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2021-03-31,34.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2021-04-30,27.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2021-05-31,36.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,22,Côtes-d'Armor,2021-06-30,28.0,amendes dressées dans l'année
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,22,Côtes-d'Armor,2017-09-30,66.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,22,Côtes-d'Armor,2018-09-30,69.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,22,Côtes-d'Armor,2019-09-30,70.0,unités
@@ -299,6 +563,7 @@ Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de cla
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,22,Côtes-d'Armor,2018-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,22,Côtes-d'Armor,2019-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,22,Côtes-d'Armor,2020-09-30,2.0,classes
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,22,Côtes-d'Armor,2021-03-31,3.0,bénéficiaires
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,22,Côtes-d'Armor,2019-10-31,99.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,22,Côtes-d'Armor,2020-10-31,100.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de grande section en REP dédoublées,tx-gs-rep,22,Côtes-d'Armor,2019-11-30,3.0,% des classes
@@ -339,18 +604,20 @@ Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-ro
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2019-10-31,5.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2019-11-30,4.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2019-12-31,3.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-01-31,8.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-02-29,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-01-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-02-29,0.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-03-31,0.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-04-30,2.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-05-31,1.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-06-30,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-05-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-06-30,0.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-07-31,2.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-08-31,4.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-09-30,2.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-10-31,3.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-11-30,2.0,morts dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-12-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-09-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-10-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-11-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2020-12-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2021-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,22,Côtes-d'Armor,2021-02-28,3.0,morts dans l'année
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,22,Côtes-d'Armor,2020-04-30,7.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,22,Côtes-d'Armor,2020-05-31,48.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,22,Côtes-d'Armor,2020-06-30,140.0,dossiers validés
@@ -363,60 +630,89 @@ MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valide
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,22,Côtes-d'Armor,2021-01-31,2045.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,22,Côtes-d'Armor,2021-02-28,2656.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,22,Côtes-d'Armor,2021-03-31,3353.0,dossiers validés
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-01-31,1254.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-02-28,1255.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-03-31,1348.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-04-30,1375.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-05-31,1725.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-06-30,1729.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-07-31,1344.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-08-31,1255.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-09-30,1357.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-10-31,1368.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-11-30,1371.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-12-31,1351.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-01-31,1301.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-02-28,1314.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-03-31,1330.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-04-30,1380.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-05-31,1402.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-06-30,1423.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-07-31,1404.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-08-31,1324.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-09-30,1377.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-10-31,1385.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-11-30,1396.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-12-31,1330.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-01-31,1322.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-02-28,1326.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-03-31,1390.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-04-30,1384.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-05-31,1457.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-06-30,1446.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-07-31,1417.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-08-31,1329.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-09-30,1423.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-10-31,1424.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-11-30,1383.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-12-31,1362.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-01-31,1358.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-02-29,1353.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-03-31,1288.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-04-30,625.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-05-31,1117.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-06-30,1271.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-07-31,1336.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-08-31,1258.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-09-30,1384.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-10-31,1394.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-11-30,1369.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-12-31,1349.0,bénéficiaires
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2020-11-30,1.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2020-12-31,4.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-01-31,10.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-02-28,13.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-03-31,15.0,entreprises industrielles et agricoles
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,22,Côtes-d'Armor,2021-04-30,4182.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,22,Côtes-d'Armor,2021-05-31,4946.0,dossiers validés
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-01-31,1254.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-02-28,1255.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-03-31,1348.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-04-30,1375.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-05-31,1725.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-06-30,1729.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-07-31,1344.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-08-31,1255.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-09-30,1357.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-10-31,1368.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-11-30,1371.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2017-12-31,1351.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-01-31,1301.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-02-28,1314.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-03-31,1330.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-04-30,1380.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-05-31,1402.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-06-30,1423.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-07-31,1404.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-08-31,1324.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-09-30,1377.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-10-31,1385.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-11-30,1396.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2018-12-31,1330.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-01-31,1322.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-02-28,1326.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-03-31,1390.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-04-30,1384.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-05-31,1457.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-06-30,1446.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-07-31,1417.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-08-31,1329.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-09-30,1423.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-10-31,1424.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-11-30,1383.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2019-12-31,1362.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-01-31,1358.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-02-29,1353.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-03-31,1288.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-04-30,625.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-05-31,1117.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-06-30,1271.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-07-31,1332.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-08-31,1256.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-09-30,1378.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-10-31,1380.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-11-30,1353.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2020-12-31,1323.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2021-01-31,1331.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2021-02-28,1387.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,22,Côtes-d'Armor,2021-03-31,1518.0,bénéficiaires *
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2019-04-30,32.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2020-11-30,78.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2020-12-31,78.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-01-31,78.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-02-28,78.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-03-31,79.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-06-30,371.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,22,Côtes-d'Armor,2020-12-31,0.0,enfants
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2020-11-30,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2020-12-31,2.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-01-31,9.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-02-28,1.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-03-31,5.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-04-30,107.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-05-31,14.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,22,Côtes-d'Armor,2021-06-30,102.0,entreprises industrielles et agricoles
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,22,Côtes-d'Armor,2017-12-31,0.0,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,22,Côtes-d'Armor,2018-12-31,99.76,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,22,Côtes-d'Armor,2019-12-31,99.56,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,22,Côtes-d'Armor,2020-12-31,99.8,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2019-03-31,67.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2019-06-30,67.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2019-09-30,68.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2019-12-31,84.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2020-03-31,75.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2020-06-30,78.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2020-09-30,84.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2020-12-31,88.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2021-03-31,79.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,22,Côtes-d'Armor,2021-06-30,83.0,%

@@ -1,2 +1,4 @@
 mesure,indicateur,id_indicateur,maille_geographique,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,national,159045.0,2021-04-30,0,2017-01-01,159045.0,,1377000.0,12.0,2022-12-31,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,national,560157.0,2021-06-30,0,2017-01-01,560157.0,,1377000.0,41.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,national,6488.0,2020-12-31,0,,6488.0,,90000.0,7.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,national,51659.0,2021-06-30,0,,51659.0,,200000.0,26.0,2022-12-31,attestations

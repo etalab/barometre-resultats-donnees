@@ -1,5 +1,7 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,44,Grand Est,6513.0,2021-03-31,5340.0,2017-12-31,1173.0,22.0,6856.0,77.0,2022-03-31,kilomètres
 Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,44,Grand Est,0.0,2020-12-31,0.0,2017-12-31,0.0,,228826.0,0.0,2022-12-31,habitants
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,44,Grand Est,83845.0,2021-03-31,0.0,2018-03-31,83845.0,,122915.0,68.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,44,Grand Est,88529.0,2021-05-31,0.0,2018-03-31,88529.0,,122915.0,72.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,44,Grand Est,3023.0,2021-07-31,0.0,,3023.0,,8194.0,37.0,2022-03-31,bornes de recharge
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,44,Grand Est,1760000.0,2020-12-31,830000.0,2017-06-30,930000.0,112.0,5550000.0,20.0,2022-12-31,habitants
+Plan de soutien aux petites lignes ferroviaires,Nombre de kilomètres de lignes rénovées,nb-km-lignes-regenerees,44,Grand Est,115.0,2021-05-31,18.0,2017-12-31,97.0,539.0,192.0,56.0,2022-12-31,kilomètres

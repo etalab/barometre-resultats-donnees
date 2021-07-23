@@ -1,2 +1,4 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,18364.0,2021-03-31,0,2017-01-01,18364.0,,,,,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,44,Grand Est,48674.0,2021-06-30,0,2017-01-01,48674.0,,125311.0,39.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,44,Grand Est,886.0,2020-12-31,0,,886.0,,7413.0,12.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,44,Grand Est,3658.0,2021-06-30,0,,3658.0,,15495.0,24.0,2022-12-31,attestations

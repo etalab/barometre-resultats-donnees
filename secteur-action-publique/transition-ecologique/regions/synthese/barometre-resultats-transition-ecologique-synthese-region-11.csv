@@ -1,5 +1,6 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,11,Île-de-France,4748.0,2021-03-31,3651.0,2017-12-31,1097.0,30.0,5104.0,75.0,2022-03-31,kilomètres
 Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,11,Île-de-France,3872191.0,2020-12-31,2187526.0,2017-12-31,1684665.0,77.0,5279661.0,54.0,2022-12-31,habitants
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,11,Île-de-France,121012.0,2021-03-31,0.0,2018-03-31,121012.0,,274237.0,44.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,11,Île-de-France,130610.0,2021-05-31,0.0,2018-03-31,130610.0,,274237.0,48.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,11,Île-de-France,8124.0,2021-07-31,0.0,,8124.0,,18282.0,44.0,2022-03-31,bornes de recharge
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,11,Île-de-France,8660000.0,2020-12-31,3270000.0,2017-06-30,5390000.0,165.0,12090000.0,61.0,2022-12-31,habitants

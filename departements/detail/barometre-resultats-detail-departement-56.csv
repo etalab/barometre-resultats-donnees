@@ -1,70 +1,177 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2020-01-31,468.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2020-01-31,468.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-01-31,661.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-01-31,661.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-02-28,666.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-02-28,666.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-03-31,668.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-03-31,668.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-04-30,687.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-04-30,687.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-05-31,687.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-05-31,687.0,logements rénovés
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,56,Morbihan,2017-12-31,3.4,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,56,Morbihan,2018-12-31,2.8,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,56,Morbihan,2019-12-31,3.3,mois de traitement
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d'intérêt général proposés en tant que peine,nb-postes-tig,56,Morbihan,2021-03-31,388.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,56,Morbihan,2021-03-31,388.0,postes
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,56,Morbihan,2018-12-31,60125.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,56,Morbihan,2019-12-31,61314.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,56,Morbihan,2020-12-31,289934.0,bénéficiaires
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,56,Morbihan,2017-10-31,43.0,% de réussite
-Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,56,Morbihan,2019-10-31,50.0,% de réussite
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,56,Morbihan,2018-12-31,8784.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,56,Morbihan,2019-12-31,9380.0,Recrutements de jeunes
-Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,56,Morbihan,2020-12-31,10258.0,Recrutements de jeunes
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-01-31,46060.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-02-28,38607.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-03-31,48671.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-04-30,42896.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-05-31,46728.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-06-30,42265.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-07-31,51607.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-08-31,52857.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-09-30,45707.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-10-31,47373.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-11-30,43801.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2017-12-31,48574.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-01-31,50364.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-02-28,43262.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-03-31,45747.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-04-30,44978.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-05-31,40474.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-06-30,40125.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-07-31,48985.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-08-31,51840.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-09-30,44469.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-10-31,50344.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-11-30,50438.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-12-31,49367.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-01-31,50420.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-02-28,39497.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-03-31,46814.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-04-30,42474.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-05-31,45840.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-06-30,41088.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-07-31,49640.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-08-31,48456.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-09-30,42197.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-10-31,43415.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-11-30,41917.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-12-31,39932.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-01-31,41954.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-02-29,37462.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-03-31,45593.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-04-30,49048.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-05-31,43635.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-06-30,38305.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-07-31,48773.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-08-31,48792.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-09-30,45336.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-10-31,46494.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-11-30,49059.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-12-31,47609.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2021-01-31,47313.0,heures de patrouille dans l'année
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2021-02-28,42249.0,heures de patrouille dans l'année
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,56,Morbihan,2017-10-31,42.6,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,56,Morbihan,2019-10-31,49.8,% de réussite
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,56,Morbihan,2019-02-28,10884.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,56,Morbihan,2020-02-29,11738.0,Recrutements de jeunes
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,56,Morbihan,2021-02-28,12394.0,Recrutements de jeunes
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-01-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-02-28,11.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-03-31,11.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-10-31,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-11-30,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2017-12-31,10.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-01-31,8.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-02-28,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-03-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-04-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-07-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-08-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-09-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-11-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2018-12-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-01-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-02-28,10.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-03-31,7.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-06-30,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-07-31,7.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-09-30,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-10-31,6.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-11-30,8.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2019-12-31,10.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-01-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-02-29,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-03-31,13.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-04-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-05-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-06-30,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-07-31,9.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-08-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-09-30,0.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-10-31,2.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-11-30,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2020-12-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2021-01-31,8.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2021-02-28,9.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2021-03-31,3.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2021-04-30,7.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2021-05-31,5.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,56,Morbihan,2021-06-30,9.0,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-01-31,15.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-02-28,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-03-31,39.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-04-30,26.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-05-31,24.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-06-30,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-07-31,43.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-08-31,30.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-09-30,26.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-10-31,26.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-11-30,29.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2017-12-31,43.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-01-31,32.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-02-28,30.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-03-31,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-04-30,32.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-05-31,27.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-06-30,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-07-31,33.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-08-31,30.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-09-30,23.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-10-31,20.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-11-30,19.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2018-12-31,49.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-01-31,37.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-02-28,37.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-03-31,21.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-04-30,32.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-05-31,38.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-06-30,32.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-07-31,43.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-08-31,32.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-09-30,41.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-10-31,47.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-11-30,34.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2019-12-31,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-01-31,29.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-02-29,39.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-03-31,25.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-04-30,5.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-05-31,7.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-06-30,28.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-07-31,62.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-08-31,51.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-09-30,37.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-10-31,39.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-11-30,16.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2020-12-31,14.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2021-01-31,29.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2021-02-28,23.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2021-03-31,12.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2021-04-30,8.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2021-05-31,22.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,56,Morbihan,2021-06-30,21.0,atteintes aux biens entre janvier et juin
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-01-31,559450.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-02-28,564105.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-03-31,561182.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-04-30,563263.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-05-31,557010.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-06-30,554871.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-07-31,552248.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-08-31,551231.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-09-30,549993.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-10-31,552963.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-11-30,559600.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2018-12-31,560393.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-01-31,560449.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-02-28,556684.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-03-31,557751.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-04-30,555246.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-05-31,560612.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-06-30,561575.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-07-31,562230.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-08-31,558846.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-09-30,556574.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-10-31,549645.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-11-30,541124.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2019-12-31,531689.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-01-31,523223.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-02-29,521188.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-03-31,519967.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-04-30,526541.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-05-31,524336.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-06-30,521554.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-07-31,520687.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-08-31,521023.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-09-30,524161.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-10-31,527240.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-11-30,534383.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2020-12-31,542060.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2021-01-31,551988.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2021-02-28,558915.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2021-03-31,565542.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2021-04-30,564675.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,56,Morbihan,2021-05-31,567127.0,heures de patrouille sur douze mois *
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,56,Morbihan,2018-03-31,22.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,56,Morbihan,2019-03-31,23.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,56,Morbihan,2019-09-30,27.0,% de collégiens
@@ -82,139 +189,180 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,56,Morbihan,2020-06-30,31.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,56,Morbihan,2020-09-30,33.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,56,Morbihan,2020-12-31,37.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,56,Morbihan,2021-03-31,39.0,% de déploiement
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-01-31,68.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-02-28,107.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-03-31,112.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-04-30,117.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-05-31,122.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-06-30,146.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,56,Morbihan,2021-02-28,69.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,56,Morbihan,2021-03-31,264.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,56,Morbihan,2021-04-30,439.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-01-31,68.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-02-28,107.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-03-31,112.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et un plan d'action individualisé,nb-diagnostics-individualises,56,Morbihan,2021-04-30,117.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,56,Morbihan,2021-05-31,640.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,56,Morbihan,2021-06-30,1026.0,entreprises
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2017-12-31,722.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2018-03-31,446.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2018-06-30,503.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2018-09-30,605.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2018-12-31,889.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2019-03-31,504.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2019-06-30,572.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2019-09-30,661.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2019-12-31,946.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2020-03-31,463.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2020-06-30,500.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2020-09-30,632.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2020-12-31,906.0,jeunes
-Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2021-03-31,474.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2021-03-31,483.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,56,Morbihan,2021-06-30,548.0,jeunes
+Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,56,Morbihan,2021-04-30,0.0,% des demandes *
+Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,56,Morbihan,2021-05-31,1.5,% des demandes *
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-02-28,1.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-03-31,1.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-04-30,1.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-05-31,1.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-06-30,15.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-07-31,589.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-08-31,862.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-09-30,1710.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-10-31,2661.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-11-30,3521.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-12-31,4260.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-01-31,4629.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-02-29,5394.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-03-31,5859.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-04-30,6203.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-05-31,6607.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-06-30,7214.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-07-31,7847.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-08-31,8486.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-07-31,590.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-08-31,863.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-09-30,1712.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-10-31,2664.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-11-30,3524.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2019-12-31,4263.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-01-31,4632.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-02-29,5397.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-03-31,5862.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-04-30,6207.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-05-31,6611.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-06-30,7218.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-07-31,7851.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-08-31,8490.0,utilisateurs
 Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-09-30,9274.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-10-31,10015.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-12-31,11076.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2021-02-28,12123.0,utilisateurs
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2021-03-31,12741.0,utilisateurs
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2017-12-31,341.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-01-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-02-28,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-03-31,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-04-30,0.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-05-31,185.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-06-30,216.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-07-31,242.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-08-31,264.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-09-30,277.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-10-31,339.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-11-30,396.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-12-31,442.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-01-31,26.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-02-28,66.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-03-31,106.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-04-30,143.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-05-31,187.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-06-30,218.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-07-31,271.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-08-31,282.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-09-30,319.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-10-31,370.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-11-30,392.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-12-31,444.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-01-31,26.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-02-29,44.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-03-31,70.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-04-30,75.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-05-31,106.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-06-30,152.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-07-31,180.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-08-31,218.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-09-30,246.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-10-31,299.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-11-30,343.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-12-31,387.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2021-01-31,42.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2021-02-28,75.0,personnes dans l'année
-Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2021-03-31,114.0,personnes dans l'année
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-01-31,12.41,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-02-29,10.93,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-03-31,9.71,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-04-30,10.56,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-05-31,9.85,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-06-30,8.95,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-07-31,8.84,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-08-31,8.65,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-09-30,9.71,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-10-31,9.99,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-11-30,10.4,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-12-31,9.55,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-04-30,33.13,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-05-31,45.39,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-06-30,45.8,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-07-31,46.58,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-08-31,49.25,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-09-30,48.49,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-10-31,46.18,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-11-30,44.94,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-12-31,45.96,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-01-31,50.45,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-02-29,54.09,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-03-31,56.41,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-04-30,59.54,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-05-31,56.29,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-06-30,57.09,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-07-31,57.78,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-08-31,58.7,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-09-30,59.88,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-10-31,59.48,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-11-30,58.8,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-12-31,59.63,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-01-31,10.35,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-02-28,11.03,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-03-31,11.39,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-04-30,8.33,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-05-31,9.15,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-06-30,9.26,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-07-31,7.16,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-08-31,7.44,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-09-30,7.69,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-10-31,8.59,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-11-30,8.57,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2019-12-31,8.72,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-01-31,5.47,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-02-29,7.58,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-03-31,10.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-04-30,8.51,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-05-31,8.53,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-06-30,8.25,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-07-31,9.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-08-31,9.02,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-09-30,5.63,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-10-31,7.16,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-11-30,4.96,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,56,Morbihan,2020-12-31,4.09,%
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-10-31,10019.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-11-30,10483.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2020-12-31,11077.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2021-01-31,11647.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2021-02-28,12125.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2021-03-31,12742.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2021-04-30,13297.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2021-05-31,14713.0,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,56,Morbihan,2021-06-30,15436.0,utilisateurs
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2017-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2017-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2017-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2017-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2018-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2018-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2018-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2018-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2019-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2019-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2019-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2019-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2020-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2020-06-30,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2020-09-30,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2020-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,56,Morbihan,2021-03-31,0.0,ordonnances dans l'année
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2017-12-31,341.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-01-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-02-28,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-03-31,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-04-30,0.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-05-31,185.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-06-30,216.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-07-31,242.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-08-31,264.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-09-30,277.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-10-31,339.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-11-30,396.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2018-12-31,442.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-01-31,26.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-02-28,66.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-03-31,106.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-04-30,143.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-05-31,187.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-06-30,218.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-07-31,271.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-08-31,282.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-09-30,319.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-10-31,370.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-11-30,392.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2019-12-31,444.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-01-31,26.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-02-29,44.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-03-31,70.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-04-30,75.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-05-31,106.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-06-30,152.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-07-31,180.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-08-31,218.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-09-30,246.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-10-31,299.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-11-30,343.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2020-12-31,387.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2021-01-31,42.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2021-02-28,75.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2021-03-31,114.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2021-04-30,141.0,personnes dans l'année*
+Offrir un logement aux sans-abri : Logement d’abord,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,56,Morbihan,2021-05-31,167.0,personnes dans l'année*
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-01-31,12.41,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-02-29,10.93,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-03-31,9.71,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-04-30,10.56,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-05-31,9.85,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-06-30,8.95,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-07-31,8.84,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-08-31,8.65,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-09-30,9.71,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-10-31,9.99,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-11-30,10.4,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,56,Morbihan,2020-12-31,9.55,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-04-30,33.13,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-05-31,45.39,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-06-30,45.8,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-07-31,46.58,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-08-31,49.25,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-09-30,48.49,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-10-31,46.18,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-11-30,44.94,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2019-12-31,45.96,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-01-31,50.45,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-02-29,54.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-03-31,56.41,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-04-30,59.54,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-05-31,56.29,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-06-30,57.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-07-31,57.78,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-08-31,58.7,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-09-30,59.88,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-10-31,59.48,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-11-30,58.8,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,56,Morbihan,2020-12-31,59.63,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-01-31,10.35,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-02-28,11.03,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-03-31,11.39,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-04-30,8.33,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-05-31,9.15,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-06-30,9.26,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-07-31,7.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-08-31,7.44,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-09-30,7.69,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-10-31,8.59,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-11-30,8.57,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2019-12-31,8.72,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-01-31,5.47,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-02-29,7.58,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-03-31,10.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-04-30,8.51,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-05-31,8.53,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-06-30,8.25,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-07-31,9.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-08-31,9.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-09-30,5.63,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-10-31,7.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-11-30,4.96,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,56,Morbihan,2020-12-31,4.09,%
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,56,Morbihan,2017-06-30,340000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,56,Morbihan,2017-12-31,340000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,56,Morbihan,2018-06-30,340000.0,habitants
@@ -227,6 +375,19 @@ Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéfic
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,56,Morbihan,2021-01-31,64.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,56,Morbihan,2021-02-28,82.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,56,Morbihan,2021-03-31,126.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,56,Morbihan,2021-04-30,155.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,56,Morbihan,2021-05-31,191.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,56,Morbihan,2021-06-30,228.0,familles
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2019-09-30,444.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2019-12-31,448.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2020-03-31,470.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2020-06-30,477.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2020-09-30,482.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2020-11-30,502.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2020-12-31,473.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2021-03-31,503.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2021-06-30,509.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,56,Morbihan,2021-07-31,517.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,56,Morbihan,2018-03-31,361.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,56,Morbihan,2018-06-30,1994.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,56,Morbihan,2018-09-30,3821.0,primes et bonus
@@ -240,18 +401,21 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,56,Morbihan,2020-09-30,14447.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,56,Morbihan,2020-12-31,15580.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,56,Morbihan,2021-03-31,16468.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,56,Morbihan,2021-04-30,16770.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,56,Morbihan,2021-05-31,17063.0,primes et bonus
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,56,Morbihan,2017-12-31,892.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,56,Morbihan,2018-12-31,1001.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,56,Morbihan,2019-12-31,1048.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,56,Morbihan,2020-09-30,1060.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,56,Morbihan,2020-12-31,1172.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,56,Morbihan,2021-03-31,1224.0,kilomètres
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,56,Morbihan,2017-12-31,6.5,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,56,Morbihan,2018-12-31,7.2,% de surface agricole
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,56,Morbihan,2019-12-31,7.9,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,56,Morbihan,2017-12-31,621.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,56,Morbihan,2018-12-31,704.0,agriculteurs
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,56,Morbihan,2019-12-31,759.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,56,Morbihan,2017-12-31,6.5,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,56,Morbihan,2018-12-31,7.2,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,56,Morbihan,2019-12-31,7.9,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,56,Morbihan,2020-12-31,9.9,% de surface agricole
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2020-01-31,5.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2020-02-29,5.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2020-03-31,5.0,labellisations
@@ -268,23 +432,102 @@ Déployer une offre France Services dans tous les territoires ,Nombre de labelli
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2021-02-28,10.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2021-03-31,11.0,labellisations
 Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2021-04-30,11.0,labellisations
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,56,Morbihan,2017-12-31,7.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,56,Morbihan,2018-12-31,24.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,56,Morbihan,2019-12-31,77.0,% de réseaux
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-12-31,3150.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-12-31,3298.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-12-31,3669.0,contrats
-Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-12-31,4713.0,contrats
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,56,Morbihan,2019-03-31,796.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,56,Morbihan,2019-06-30,709.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,56,Morbihan,2019-09-30,858.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,56,Morbihan,2019-12-31,774.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,56,Morbihan,2020-03-31,743.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,56,Morbihan,2020-06-30,605.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,56,Morbihan,2020-09-30,877.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,56,Morbihan,2020-12-31,757.0,pères / conjoints dans l'année
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2021-05-31,11.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2021-06-30,11.0,labellisations
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,56,Morbihan,2021-07-31,12.0,labellisations
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,56,Morbihan,2017-12-31,7.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,56,Morbihan,2018-12-31,24.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,56,Morbihan,2019-12-31,77.0,% de réseaux
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-01-31,25.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-02-28,18.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-03-31,16.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-04-30,13.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-05-31,9.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-06-30,17.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-07-31,614.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-08-31,450.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-09-30,1651.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-10-31,226.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-11-30,110.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2017-12-31,80.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-01-31,36.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-02-28,25.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-03-31,15.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-04-30,15.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-05-31,10.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-06-30,28.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-07-31,565.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-08-31,432.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-09-30,1735.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-10-31,279.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-11-30,120.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2018-12-31,82.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-01-31,31.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-02-28,19.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-03-31,19.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-04-30,37.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-05-31,21.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-06-30,36.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-07-31,560.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-08-31,392.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-09-30,2044.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-10-31,255.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-11-30,142.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2019-12-31,70.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-01-31,58.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-02-29,27.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-03-31,22.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-04-30,2.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-05-31,6.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-06-30,16.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-07-31,524.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-08-31,729.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-09-30,2861.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-10-31,555.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-11-30,207.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2020-12-31,84.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2021-01-31,116.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2021-02-28,198.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2021-03-31,78.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,56,Morbihan,2021-04-30,45.0,contrats
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2018-03-31,808.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2018-06-30,644.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2018-09-30,849.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2018-12-31,828.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2019-03-31,796.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2019-06-30,709.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2019-09-30,858.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2019-12-31,774.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2020-03-31,743.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2020-06-30,605.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2020-09-30,877.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,56,Morbihan,2020-12-31,757.0,pères / conjoints dans l'année
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,56,Morbihan,2019-09-30,62.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,56,Morbihan,2020-09-30,68.0,% des classes
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,56,Morbihan,2020-10-31,35.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,56,Morbihan,2020-11-30,41.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,56,Morbihan,2020-12-31,69.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,56,Morbihan,2021-01-31,69.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,56,Morbihan,2021-02-28,92.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,56,Morbihan,2021-03-31,111.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,56,Morbihan,2021-04-30,137.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,56,Morbihan,2021-05-31,137.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2020-01-31,468.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2020-01-31,468.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-01-31,661.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-01-31,661.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-02-28,666.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-02-28,666.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-03-31,668.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-03-31,668.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-04-30,687.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-04-30,687.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,56,Morbihan,2021-05-31,687.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,56,Morbihan,2021-05-31,687.0,logements rénovés
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,56,Morbihan,2017-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,56,Morbihan,2018-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,56,Morbihan,2019-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,56,Morbihan,2020-12-31,2.0,centres de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,56,Morbihan,2017-06-30,21.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,56,Morbihan,2017-12-31,23.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,56,Morbihan,2018-06-30,24.0,maisons de santé
@@ -293,14 +536,14 @@ Doubler le nombre de maisons de santé et de centres de santé dans les territoi
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,56,Morbihan,2019-12-31,26.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,56,Morbihan,2020-06-30,30.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,56,Morbihan,2020-12-31,31.0,maisons de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,56,Morbihan,2017-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,56,Morbihan,2018-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,56,Morbihan,2019-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,56,Morbihan,2020-12-31,2.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,56,Morbihan,2021-06-30,31.0,maisons de santé
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,56,Morbihan,2020-12-31,1.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,56,Morbihan,2021-01-31,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,56,Morbihan,2021-02-28,0.0,contrôles dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,56,Morbihan,2021-03-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,56,Morbihan,2021-04-30,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,56,Morbihan,2021-05-31,0.0,contrôles dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,56,Morbihan,2021-06-30,0.0,contrôles dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2020-08-31,3.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2020-09-30,51.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2020-10-31,53.0,amendes dressées dans l'année
@@ -309,6 +552,9 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2021-01-31,27.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2021-02-28,39.0,amendes dressées dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2021-03-31,19.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2021-04-30,22.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2021-05-31,35.0,amendes dressées dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,56,Morbihan,2021-06-30,30.0,amendes dressées dans l'année
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,56,Morbihan,2017-09-30,78.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,56,Morbihan,2018-09-30,87.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,56,Morbihan,2019-09-30,88.0,unités
@@ -317,6 +563,7 @@ Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de cla
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,56,Morbihan,2018-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,56,Morbihan,2019-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,56,Morbihan,2020-09-30,1.0,classes
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,56,Morbihan,2021-03-31,28.0,bénéficiaires
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,56,Morbihan,2019-10-31,99.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,56,Morbihan,2020-10-31,100.0,% des classes
 "Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de grande section en REP dédoublées,tx-gs-rep,56,Morbihan,2019-11-30,0.0,% des classes
@@ -369,6 +616,8 @@ Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-ro
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,56,Morbihan,2020-10-31,4.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,56,Morbihan,2020-11-30,2.0,morts dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,56,Morbihan,2020-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,56,Morbihan,2021-01-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,56,Morbihan,2021-02-28,4.0,morts dans l'année
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,56,Morbihan,2020-04-30,12.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,56,Morbihan,2020-05-31,112.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,56,Morbihan,2020-06-30,283.0,dossiers validés
@@ -381,60 +630,89 @@ MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valide
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,56,Morbihan,2021-01-31,2927.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,56,Morbihan,2021-02-28,3716.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,56,Morbihan,2021-03-31,4535.0,dossiers validés
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-01-31,1202.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-02-28,1173.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-03-31,1231.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-04-30,1248.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-05-31,1236.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-06-30,1243.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-07-31,1252.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-08-31,1145.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-09-30,1285.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-10-31,1296.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-11-30,1339.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-12-31,1293.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-01-31,1269.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-02-28,1253.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-03-31,1240.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-04-30,1257.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-05-31,1248.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-06-30,1316.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-07-31,1251.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-08-31,1133.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-09-30,1228.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-10-31,1245.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-11-30,1187.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-12-31,1180.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-01-31,1185.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-02-28,1179.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-03-31,1250.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-04-30,1267.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-05-31,1263.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-06-30,1278.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-07-31,1222.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-08-31,1141.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-09-30,1251.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-10-31,1248.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-11-30,1219.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-12-31,1230.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-01-31,1188.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-02-29,1132.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-03-31,1181.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-04-30,676.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-05-31,918.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-06-30,1119.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-07-31,1171.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-08-31,1116.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-09-30,1253.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-10-31,1183.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-11-30,1167.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-12-31,1134.0,bénéficiaires
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,56,Morbihan,2021-04-30,5558.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,56,Morbihan,2021-05-31,6463.0,dossiers validés
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-01-31,1202.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-02-28,1173.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-03-31,1231.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-04-30,1248.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-05-31,1236.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-06-30,1243.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-07-31,1252.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-08-31,1145.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-09-30,1285.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-10-31,1296.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-11-30,1339.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2017-12-31,1293.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-01-31,1269.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-02-28,1253.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-03-31,1240.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-04-30,1257.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-05-31,1248.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-06-30,1316.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-07-31,1251.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-08-31,1133.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-09-30,1228.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-10-31,1245.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-11-30,1187.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2018-12-31,1180.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-01-31,1185.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-02-28,1179.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-03-31,1250.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-04-30,1267.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-05-31,1263.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-06-30,1278.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-07-31,1222.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-08-31,1141.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-09-30,1251.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-10-31,1248.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-11-30,1219.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2019-12-31,1230.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-01-31,1188.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-02-29,1152.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-03-31,1181.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-04-30,676.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-05-31,918.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-06-30,1119.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-07-31,1169.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-08-31,1115.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-09-30,1249.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-10-31,1177.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-11-30,1161.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2020-12-31,1124.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2021-01-31,1160.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2021-02-28,1212.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,56,Morbihan,2021-03-31,1264.0,bénéficiaires *
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2017-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2018-12-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2019-04-30,146.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2020-11-30,146.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2020-12-31,146.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2021-01-31,171.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2021-02-28,171.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2021-03-31,187.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,56,Morbihan,2021-06-30,837.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,56,Morbihan,2020-12-31,0.0,enfants
 Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2020-11-30,3.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2020-12-31,6.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-01-31,9.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-02-28,14.0,entreprises industrielles et agricoles
-Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-03-31,15.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2020-12-31,4.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-01-31,4.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-02-28,3.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-03-31,7.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-04-30,46.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-05-31,9.0,entreprises industrielles et agricoles
+Aide de France Relance aux entreprises,Nombre d'entreprises industrielles et organismes agricoles bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,56,Morbihan,2021-06-30,3.0,entreprises industrielles et agricoles
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,56,Morbihan,2017-12-31,0.0,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,56,Morbihan,2018-12-31,99.64,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,56,Morbihan,2019-12-31,99.61,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,56,Morbihan,2020-12-31,99.64,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2019-03-31,33.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2019-06-30,33.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2019-09-30,64.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2019-12-31,91.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2020-03-31,40.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2020-06-30,41.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2020-09-30,42.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2020-12-31,44.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2021-03-31,43.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,56,Morbihan,2021-06-30,45.0,%

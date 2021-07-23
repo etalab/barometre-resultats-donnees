@@ -1,5 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,48,Lozère,26936.0,2021-02-28,52219.0,2017-03-31,-25283.0,-48.0,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,48,Lozère,14.0,2021-03-31,0.0,,14.0,,,,,amendes dressées dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,48,Lozère,179797.0,2021-05-31,205458.0,2018-01-31,-25661.0,-12.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,48,Lozère,0.0,2021-06-30,0.0,2017-06-30,0.0,,,,,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,48,Lozère,20.0,2021-06-30,15.0,2017-06-30,5.0,33.0,,,,atteintes aux biens entre janvier et juin
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,48,Lozère,35.0,2021-06-30,0.0,,35.0,,,,,amendes dressées dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,48,Lozère,0.0,2020-12-31,0.0,2017-12-31,0.0,,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,48,Lozère,9.0,2020-12-31,,,,,,,,contrôles dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,48,Lozère,4.0,2020-12-31,8.0,2017-12-31,-4.0,-50.0,,,,morts dans l'année

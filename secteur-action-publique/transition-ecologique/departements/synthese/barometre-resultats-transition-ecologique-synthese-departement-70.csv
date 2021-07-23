@@ -1,4 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,70,Haute-Saône,234.0,2021-03-31,229.0,2017-12-31,5.0,2.0,302.0,7.0,2022-03-31,kilomètres
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,70,Haute-Saône,4444.0,2021-03-31,0.0,2018-03-31,4444.0,,5195.0,86.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,70,Haute-Saône,4574.0,2021-05-31,0.0,2018-03-31,4574.0,,5195.0,88.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,70,Haute-Saône,113.0,2021-07-31,0.0,,113.0,,346.0,33.0,2022-03-31,bornes de recharge
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,70,Haute-Saône,240000.0,2020-12-31,240000.0,2017-06-30,0.0,0.0,240000.0,,2022-12-31,habitants

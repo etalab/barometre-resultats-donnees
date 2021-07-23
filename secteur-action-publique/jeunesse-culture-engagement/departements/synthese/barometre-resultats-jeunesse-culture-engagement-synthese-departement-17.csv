@@ -1,1 +1,4 @@
-
+mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,17,Charente-Maritime,3649.0,2021-06-30,0,2017-01-01,3649.0,,13349.0,27.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,17,Charente-Maritime,170.0,2020-12-31,0,,170.0,,715.0,24.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,17,Charente-Maritime,1388.0,2021-06-30,0,,1388.0,,1666.0,83.0,2022-12-31,attestations

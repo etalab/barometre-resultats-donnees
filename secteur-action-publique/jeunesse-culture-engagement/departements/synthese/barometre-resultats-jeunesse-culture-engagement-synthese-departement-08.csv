@@ -1,2 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,08,Ardennes,2996.0,2021-03-31,0,2017-01-01,2996.0,,,,,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,08,Ardennes,4027.0,2021-06-30,0,2017-01-01,4027.0,,5235.0,77.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,08,Ardennes,53.0,2020-12-31,0,,53.0,,336.0,16.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,08,Ardennes,61.0,2021-06-30,0,,61.0,,794.0,8.0,2022-12-31,attestations

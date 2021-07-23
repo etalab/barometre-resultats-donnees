@@ -1,5 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,57,Moselle,119896.0,2021-02-28,186095.0,2017-03-31,-66199.0,-36.0,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,57,Moselle,198.0,2021-03-31,0.0,,198.0,,,,,amendes dressées dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,57,Moselle,904602.0,2021-05-31,771658.0,2018-01-31,132944.0,17.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,57,Moselle,105.0,2021-06-30,146.0,2017-06-30,-41.0,-28.0,,,,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,57,Moselle,180.0,2021-06-30,268.0,2017-06-30,-88.0,-33.0,,,,atteintes aux biens entre janvier et juin
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,57,Moselle,426.0,2021-06-30,0.0,,426.0,,,,,amendes dressées dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,57,Moselle,39.0,2020-12-31,28.0,2017-12-31,11.0,39.0,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,57,Moselle,14.0,2020-12-31,,,,,,,,contrôles dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,57,Moselle,39.0,2020-12-31,52.0,2017-12-31,-13.0,-25.0,,,,morts dans l'année

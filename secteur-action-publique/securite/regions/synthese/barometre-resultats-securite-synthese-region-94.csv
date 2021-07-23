@@ -1,5 +1,8 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,79889.0,2021-02-28,138366.0,2017-03-31,-58477.0,-42.0,,,,heures de patrouille dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,44.0,2021-03-31,0.0,,44.0,,,,,amendes dressées dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,94,Corse,623565.0,2021-05-31,522909.0,2018-01-31,100656.0,19.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,94,Corse,31.0,2021-06-30,10.0,2017-06-30,21.0,210.0,,,,atteintes aux personnes entre janvier et juin
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,94,Corse,46.0,2021-06-30,31.0,2017-06-30,15.0,48.0,,,,atteintes aux biens entre janvier et juin
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,94,Corse,89.0,2021-06-30,0.0,,89.0,,,,,amendes dressées dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,94,Corse,12.0,2020-12-31,0.0,2017-12-31,12.0,,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,94,Corse,6.0,2020-12-31,,,,,,,,contrôles dans l'année
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,94,Corse,17.0,2020-12-31,30.0,2017-12-31,-13.0,-43.0,,,,morts dans l'année

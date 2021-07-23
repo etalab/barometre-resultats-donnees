@@ -1,2 +1,4 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,16202.0,2021-03-31,0,2017-01-01,16202.0,,,,,utilisateurs
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Occitanie,48809.0,2021-06-30,0,2017-01-01,48809.0,,133466.0,37.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,76,Occitanie,1159.0,2020-12-31,0,,1159.0,,8811.0,13.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Occitanie,3602.0,2021-06-30,0,,3602.0,,16508.0,22.0,2022-12-31,attestations
