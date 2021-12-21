@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,76,Occitanie,6346785.0,2021-05-31,6122686.0,2018-01-31,224099.0,4.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,76,Occitanie,740.0,2021-06-30,796.0,2017-06-30,-56.0,-7.0,,,,atteintes aux personnes entre janvier et juin
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,76,Occitanie,3022.0,2021-06-30,3886.0,2017-06-30,-864.0,-22.0,,,,atteintes aux biens entre janvier et juin
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,76,Occitanie,3564.0,2021-06-30,0.0,,3564.0,,,,,amendes dressées dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,76,Occitanie,281.0,2020-12-31,159.0,2017-12-31,122.0,77.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,76,Occitanie,119.0,2020-12-31,52.0,2018-12-31,67.0,129.0,,,,contrôles dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,76,Occitanie,285.0,2020-12-31,392.0,2017-12-31,-107.0,-27.0,,,,morts dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,76,Occitanie,6521633.0,2021-10-31,6114011.0,2017-12-31,407622.0,7.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,76,Occitanie,1418.0,2021-11-30,1356.0,2017-11-30,62.0,5.0,,,,atteintes aux personnes entre janvier et novembre
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,76,Occitanie,5539.0,2021-11-30,6730.0,2017-11-30,-1191.0,-18.0,,,,atteintes aux biens entre janvier et novembre
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,76,Occitanie,7129.0,2021-11-30,0.0,,7129.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,76,Occitanie,284.0,2020-12-31,146.0,2017-12-31,138.0,95.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,76,Occitanie,119.0,2020-12-31,52.0,2018-12-31,67.0,129.0,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,76,Occitanie,286.0,2020-12-31,392.0,2017-12-31,-106.0,-27.0,,,,morts

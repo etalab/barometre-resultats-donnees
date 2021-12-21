@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,82,Tarn-et-Garonne,273215.0,2021-05-31,311010.0,2018-01-31,-37795.0,-12.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,82,Tarn-et-Garonne,16.0,2021-06-30,10.0,2017-06-30,6.0,60.0,,,,atteintes aux personnes entre janvier et juin
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,82,Tarn-et-Garonne,38.0,2021-06-30,73.0,2017-06-30,-35.0,-48.0,,,,atteintes aux biens entre janvier et juin
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,82,Tarn-et-Garonne,122.0,2021-06-30,0.0,,122.0,,,,,amendes dressées dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,82,Tarn-et-Garonne,268626.0,2021-10-31,311660.0,2017-12-31,-43034.0,-14.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,82,Tarn-et-Garonne,31.0,2021-11-30,19.0,2017-11-30,12.0,63.0,,,,atteintes aux personnes entre janvier et novembre
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,82,Tarn-et-Garonne,78.0,2021-11-30,122.0,2017-11-30,-44.0,-36.0,,,,atteintes aux biens entre janvier et novembre
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,82,Tarn-et-Garonne,222.0,2021-11-30,0.0,,222.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,82,Tarn-et-Garonne,3.0,2020-12-31,0.0,2017-12-31,3.0,,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,82,Tarn-et-Garonne,0.0,2020-12-31,,,,,,,,contrôles dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,82,Tarn-et-Garonne,17.0,2020-12-31,27.0,2017-12-31,-10.0,-37.0,,,,morts dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,82,Tarn-et-Garonne,0.0,2020-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,82,Tarn-et-Garonne,17.0,2020-12-31,27.0,2017-12-31,-10.0,-37.0,,,,morts

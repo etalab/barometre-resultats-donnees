@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,80,Somme,591440.0,2021-05-31,622843.0,2018-01-31,-31403.0,-5.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,80,Somme,54.0,2021-06-30,65.0,2017-06-30,-11.0,-17.0,,,,atteintes aux personnes entre janvier et juin
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,80,Somme,110.0,2021-06-30,144.0,2017-06-30,-34.0,-24.0,,,,atteintes aux biens entre janvier et juin
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,80,Somme,235.0,2021-06-30,0.0,,235.0,,,,,amendes dressées dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,80,Somme,637556.0,2021-10-31,621751.0,2017-12-31,15805.0,3.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,80,Somme,104.0,2021-11-30,125.0,2017-11-30,-21.0,-17.0,,,,atteintes aux personnes entre janvier et novembre
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,80,Somme,245.0,2021-11-30,284.0,2017-11-30,-39.0,-14.0,,,,atteintes aux biens entre janvier et novembre
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,80,Somme,406.0,2021-11-30,0.0,,406.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,80,Somme,20.0,2020-12-31,4.0,2017-12-31,16.0,400.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,80,Somme,3.0,2020-12-31,,,,,,,,contrôles dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,80,Somme,25.0,2020-12-31,41.0,2017-12-31,-16.0,-39.0,,,,morts dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,80,Somme,3.0,2020-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,80,Somme,25.0,2020-12-31,41.0,2017-12-31,-16.0,-39.0,,,,morts

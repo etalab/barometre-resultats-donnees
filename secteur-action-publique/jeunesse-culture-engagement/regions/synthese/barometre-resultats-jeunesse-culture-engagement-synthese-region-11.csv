@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,126838.0,2021-06-30,0,2017-01-01,126838.0,,280188.0,45.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,11,Île-de-France,1802.0,2020-12-31,0,,1802.0,,17262.0,10.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,5837.0,2021-06-30,0,,5837.0,,38007.0,15.0,2022-12-31,attestations
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,11,Île-de-France,182381.0,2021-11-30,0,2017-01-01,182381.0,,280188.0,65.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,11,Île-de-France,4664.0,2021-10-31,0,,4664.0,,17262.0,27.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,11,Île-de-France,6916.0,2021-09-30,0,,6916.0,,38007.0,18.0,2022-12-31,attestations

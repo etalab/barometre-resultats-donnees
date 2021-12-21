@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,47,Lot-et-Garonne,1891.0,2021-06-30,0,2017-01-01,1891.0,,5830.0,32.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,47,Lot-et-Garonne,95.0,2020-12-31,0,,95.0,,387.0,25.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,47,Lot-et-Garonne,198.0,2021-06-30,0,,198.0,,901.0,22.0,2022-12-31,attestations
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,47,Lot-et-Garonne,2901.0,2021-11-30,0,2017-01-01,2901.0,,5830.0,50.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,47,Lot-et-Garonne,279.0,2021-10-31,0,,279.0,,387.0,72.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,47,Lot-et-Garonne,330.0,2021-09-30,0,,330.0,,901.0,37.0,2022-12-31,attestations

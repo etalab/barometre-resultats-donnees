@@ -1,4 +1,12 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2017-12-31,353.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2018-12-31,359.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2019-12-31,404.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2020-09-30,456.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2020-12-31,460.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2021-03-31,448.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2021-06-30,424.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2021-09-30,436.0,kilomètres
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,95,Val-d'Oise,2017-06-30,320000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,95,Val-d'Oise,2017-12-31,320000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,95,Val-d'Oise,2018-06-30,320000.0,habitants
@@ -7,16 +15,7 @@ Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gasp
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,95,Val-d'Oise,2019-12-31,590000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,95,Val-d'Oise,2020-06-30,590000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,95,Val-d'Oise,2020-12-31,590000.0,habitants
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2019-09-30,280.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2019-12-31,302.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-03-31,300.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-06-30,300.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-09-30,301.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-11-30,301.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-12-31,328.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2021-03-31,369.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2021-06-30,392.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2021-07-31,403.0,bornes de recharge
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,95,Val-d'Oise,2021-06-30,590000.0,habitants
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2018-03-31,151.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2018-06-30,758.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2018-09-30,1552.0,primes et bonus
@@ -32,9 +31,21 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-03-31,10404.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-04-30,10794.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-05-31,11184.0,primes et bonus
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2017-12-31,353.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2018-12-31,359.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2019-12-31,404.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2020-09-30,456.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2020-12-31,460.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,95,Val-d'Oise,2021-03-31,448.0,kilomètres
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-06-30,11620.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-07-31,12059.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-08-31,12509.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-09-30,12951.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-10-31,13539.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,95,Val-d'Oise,2021-11-30,14030.0,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2019-09-30,280.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2019-12-31,302.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-03-31,300.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-06-30,300.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-09-30,301.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-11-30,301.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2020-12-31,328.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2021-03-31,369.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2021-06-30,392.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2021-07-31,403.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2021-10-31,469.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,95,Val-d'Oise,2021-11-30,530.0,bornes de recharge

@@ -1,4 +1,12 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2017-12-31,189.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2018-12-31,189.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2019-12-31,262.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2020-09-30,270.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2020-12-31,269.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2021-03-31,270.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2021-06-30,277.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2021-09-30,280.0,kilomètres
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,82,Tarn-et-Garonne,2017-06-30,250000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,82,Tarn-et-Garonne,2017-12-31,250000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,82,Tarn-et-Garonne,2018-06-30,250000.0,habitants
@@ -7,16 +15,7 @@ Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gasp
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,82,Tarn-et-Garonne,2019-12-31,260000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,82,Tarn-et-Garonne,2020-06-30,260000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,82,Tarn-et-Garonne,2020-12-31,260000.0,habitants
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2019-09-30,223.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2019-12-31,227.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-03-31,219.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-06-30,219.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-09-30,225.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-11-30,225.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-12-31,227.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2021-03-31,250.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2021-06-30,256.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2021-07-31,262.0,bornes de recharge
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,82,Tarn-et-Garonne,2021-06-30,260000.0,habitants
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2018-03-31,76.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2018-06-30,526.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2018-09-30,1006.0,primes et bonus
@@ -32,9 +31,21 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-03-31,6017.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-04-30,6146.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-05-31,6268.0,primes et bonus
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2017-12-31,189.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2018-12-31,189.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2019-12-31,262.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2020-09-30,270.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2020-12-31,269.0,kilomètres
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,82,Tarn-et-Garonne,2021-03-31,270.0,kilomètres
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-06-30,6410.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-07-31,6552.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-08-31,6746.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-09-30,6891.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-10-31,7063.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,82,Tarn-et-Garonne,2021-11-30,7161.0,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2019-09-30,223.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2019-12-31,227.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-03-31,219.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-06-30,219.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-09-30,225.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-11-30,225.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2020-12-31,227.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2021-03-31,250.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2021-06-30,256.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2021-07-31,262.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2021-10-31,272.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,82,Tarn-et-Garonne,2021-11-30,324.0,bornes de recharge

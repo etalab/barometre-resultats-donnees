@@ -1,5 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,53,Mayenne,734.0,2021-03-31,503.0,2017-12-31,231.0,46.0,767.0,88.0,2022-03-31,kilomètres
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,53,Mayenne,7401.0,2021-05-31,0.0,2018-03-31,7401.0,,6797.0,100.0,2022-06-30,primes et bonus
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,53,Mayenne,179.0,2021-07-31,0.0,,179.0,,453.0,40.0,2022-03-31,bornes de recharge
-Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,53,Mayenne,250000.0,2020-12-31,250000.0,2017-06-30,0.0,0.0,310000.0,0.0,2022-12-31,habitants
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,53,Mayenne,737.0,2021-09-30,503.0,2017-12-31,234.0,47.0,767.0,89.0,2022-03-31,kilomètres
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,53,Mayenne,8161.0,2021-11-30,0.0,2018-03-31,8161.0,,6797.0,100.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,53,Mayenne,200.0,2021-11-30,0.0,,200.0,,453.0,44.0,2022-03-31,bornes de recharge
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,53,Mayenne,270000.0,2021-06-30,250000.0,2017-06-30,20000.0,8.0,310000.0,33.0,2022-12-31,habitants

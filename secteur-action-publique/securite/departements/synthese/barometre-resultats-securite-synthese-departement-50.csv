@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,50,Manche,514460.0,2021-05-31,551766.0,2018-01-31,-37306.0,-7.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,50,Manche,20.0,2021-06-30,13.0,2017-06-30,7.0,54.0,,,,atteintes aux personnes entre janvier et juin
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,50,Manche,50.0,2021-06-30,85.0,2017-06-30,-35.0,-41.0,,,,atteintes aux biens entre janvier et juin
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,50,Manche,152.0,2021-06-30,0.0,,152.0,,,,,amendes dressées dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,50,Manche,529459.0,2021-10-31,552967.0,2017-12-31,-23508.0,-4.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,50,Manche,41.0,2021-11-30,22.0,2017-11-30,19.0,86.0,,,,atteintes aux personnes entre janvier et novembre
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,50,Manche,143.0,2021-11-30,156.0,2017-11-30,-13.0,-8.0,,,,atteintes aux biens entre janvier et novembre
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,50,Manche,290.0,2021-11-30,0.0,,290.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,50,Manche,22.0,2020-12-31,3.0,2017-09-30,19.0,633.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,50,Manche,0.0,2020-12-31,,,,,,,,contrôles dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,50,Manche,25.0,2020-12-31,32.0,2017-12-31,-7.0,-22.0,,,,morts dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,50,Manche,0.0,2020-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,50,Manche,25.0,2020-12-31,32.0,2017-12-31,-7.0,-22.0,,,,morts

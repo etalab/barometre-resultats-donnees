@@ -1,10 +1,26 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
+"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de CP et CE1 en éducation prioritaire dédoublées,tx-classes-cp-ce1-rep,42,Loire,2019-10-31,97.0,% des classes
+"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de CP et CE1 en éducation prioritaire dédoublées,tx-classes-cp-ce1-rep,42,Loire,2020-10-31,100.0,% des classes
+"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de CP et CE1 en éducation prioritaire dédoublées,tx-classes-cp-ce1-rep,42,Loire,2021-10-31,100.0,% des classes
+"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de grande section en éducation prioritaire dédoublées,tx-gs-rep,42,Loire,2019-11-30,8.0,% des classes
+"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de grande section en éducation prioritaire dédoublées,tx-gs-rep,42,Loire,2020-11-30,11.0,% des classes
+"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de grande section en éducation prioritaire dédoublées,tx-gs-rep,42,Loire,2021-10-31,33.0,% des classes
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,42,Loire,2017-10-31,47.1,% de réussite
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,42,Loire,2019-10-31,48.4,% de réussite
-Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2018-03-31,21.0,% de collégiens
-Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2019-03-31,24.0,% de collégiens
-Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2019-09-30,24.0,% de collégiens
-Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2020-09-30,24.0,% de collégiens
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,42,Loire,2020-10-31,57.2,% de réussite
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2017-09-30,1.0,classes
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2018-09-30,1.0,classes
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2019-09-30,2.0,classes
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2020-09-30,4.0,classes
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2021-09-30,4.0,classes
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2017-09-30,98.0,unités
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2018-09-30,105.0,unités
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2019-09-30,107.0,unités
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2020-09-30,112.0,unités
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2021-09-30,116.0,unités
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2017-03-31,652.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2017-06-30,715.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2017-09-30,897.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2017-12-31,1300.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2018-03-31,734.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2018-06-30,795.0,jeunes
@@ -19,18 +35,14 @@ Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2020-09-30,841.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2020-12-31,1291.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2021-03-31,706.0,jeunes
-Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2021-06-30,768.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2021-06-30,775.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2021-09-30,913.0,jeunes
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,42,Loire,2021-12-31,1280.0,jeunes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,42,Loire,2019-09-30,72.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,42,Loire,2020-09-30,78.0,% des classes
-Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2017-09-30,98.0,unités
-Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2018-09-30,105.0,unités
-Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2019-09-30,107.0,unités
-Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,42,Loire,2020-09-30,112.0,unités
-Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2017-09-30,1.0,classes
-Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2018-09-30,1.0,classes
-Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2019-09-30,2.0,classes
-Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,42,Loire,2020-09-30,4.0,classes
-"Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,42,Loire,2019-10-31,97.0,% des classes
-"Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,42,Loire,2020-10-31,100.0,% des classes
-"Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de grande section en REP dédoublées,tx-gs-rep,42,Loire,2019-11-30,8.0,% des classes
-"Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de grande section en REP dédoublées,tx-gs-rep,42,Loire,2020-11-30,11.0,% des classes
+"Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,42,Loire,2021-09-30,79.0,% des classes
+Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2018-03-31,21.0,% de collégiens
+Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2019-03-31,24.0,% de collégiens
+Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2019-09-30,24.0,% de collégiens
+Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2020-09-30,24.0,% de collégiens
+Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,42,Loire,2021-09-30,26.0,% de collégiens

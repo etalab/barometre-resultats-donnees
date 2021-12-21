@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,02,Aisne,544698.0,2021-05-31,569950.0,2018-01-31,-25252.0,-4.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,02,Aisne,48.0,2021-06-30,52.0,2017-06-30,-4.0,-8.0,,,,atteintes aux personnes entre janvier et juin
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,02,Aisne,67.0,2021-06-30,120.0,2017-06-30,-53.0,-44.0,,,,atteintes aux biens entre janvier et juin
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,02,Aisne,183.0,2021-06-30,0.0,,183.0,,,,,amendes dressées dans l'année
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,02,Aisne,543113.0,2021-10-31,568946.0,2017-12-31,-25833.0,-5.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,02,Aisne,81.0,2021-11-30,80.0,2017-11-30,1.0,1.0,,,,atteintes aux personnes entre janvier et novembre
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,02,Aisne,143.0,2021-11-30,209.0,2017-11-30,-66.0,-32.0,,,,atteintes aux biens entre janvier et novembre
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,02,Aisne,412.0,2021-11-30,0.0,,412.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,02,Aisne,7.0,2020-12-31,0.0,2017-06-30,7.0,,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,02,Aisne,4.0,2020-12-31,,,,,,,,contrôles dans l'année
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,02,Aisne,32.0,2020-12-31,40.0,2017-12-31,-8.0,-20.0,,,,morts dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,02,Aisne,4.0,2020-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,02,Aisne,32.0,2020-12-31,40.0,2017-12-31,-8.0,-20.0,,,,morts
