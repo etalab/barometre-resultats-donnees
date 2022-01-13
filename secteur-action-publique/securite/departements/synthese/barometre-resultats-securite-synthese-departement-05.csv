@@ -2,7 +2,7 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actu
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,05,Hautes-Alpes,307145.0,2021-10-31,290581.0,2017-12-31,16564.0,6.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,05,Hautes-Alpes,34.0,2021-11-30,8.0,2017-11-30,26.0,325.0,,,,atteintes aux personnes entre janvier et novembre
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,05,Hautes-Alpes,69.0,2021-11-30,63.0,2017-11-30,6.0,10.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,05,Hautes-Alpes,203.0,2021-11-30,0.0,,203.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,05,Hautes-Alpes,203.0,2021-11-30,0.0,2020-05-31,203.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,05,Hautes-Alpes,12.0,2020-12-31,0.0,2017-03-31,12.0,,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,05,Hautes-Alpes,0.0,2020-12-31,,,,,,,,contrôles
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,05,Hautes-Alpes,3.0,2020-12-31,12.0,2017-12-31,-9.0,-75.0,,,,morts

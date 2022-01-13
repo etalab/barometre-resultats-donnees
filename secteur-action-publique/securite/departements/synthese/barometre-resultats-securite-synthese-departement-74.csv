@@ -2,7 +2,7 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actu
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,74,Haute-Savoie,819238.0,2021-10-31,779222.0,2017-12-31,40016.0,5.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,74,Haute-Savoie,100.0,2021-11-30,64.0,2017-11-30,36.0,56.0,,,,atteintes aux personnes entre janvier et novembre
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,74,Haute-Savoie,365.0,2021-11-30,416.0,2017-11-30,-51.0,-12.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,74,Haute-Savoie,1124.0,2021-11-30,0.0,,1124.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,74,Haute-Savoie,1124.0,2021-11-30,0.0,2020-05-31,1124.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,74,Haute-Savoie,31.0,2020-12-31,18.0,2017-12-31,13.0,72.0,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,74,Haute-Savoie,4.0,2020-12-31,,,,,,,,contrôles
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,74,Haute-Savoie,32.0,2020-12-31,40.0,2017-12-31,-8.0,-20.0,,,,morts

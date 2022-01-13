@@ -2,7 +2,7 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actu
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,24,Dordogne,478735.0,2021-10-31,499597.0,2017-12-31,-20862.0,-4.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,24,Dordogne,32.0,2021-11-30,17.0,2017-11-30,15.0,88.0,,,,atteintes aux personnes entre janvier et novembre
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,24,Dordogne,131.0,2021-11-30,120.0,2017-11-30,11.0,9.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,24,Dordogne,219.0,2021-11-30,0.0,,219.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,24,Dordogne,219.0,2021-11-30,0.0,2020-05-31,219.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,24,Dordogne,16.0,2020-12-31,8.0,2017-12-31,8.0,100.0,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,24,Dordogne,24.0,2020-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,24,Dordogne,33.0,2020-12-31,31.0,2017-12-31,2.0,6.0,,,,morts
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,24,Dordogne,19.0,2020-12-31,31.0,2017-12-31,-12.0,-39.0,,,,morts

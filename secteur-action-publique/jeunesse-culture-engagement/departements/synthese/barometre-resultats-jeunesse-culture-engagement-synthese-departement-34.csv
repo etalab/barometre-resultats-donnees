@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,34,Hérault,26646.0,2021-11-30,0,2017-01-01,26646.0,,29312.0,91.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,34,Hérault,34.0,2021-10-31,0,,34.0,,1496.0,2.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,34,Hérault,993.0,2021-09-30,0,,993.0,,3312.0,30.0,2022-12-31,attestations
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,34,Hérault,26646.0,2021-11-30,0,2019-01-31,26646.0,,29312.0,91.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,34,Hérault,34.0,2021-10-31,0,2019-03-31,34.0,,1496.0,2.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,34,Hérault,993.0,2021-09-30,0,2019-03-31,993.0,,3312.0,30.0,2022-12-31,attestations

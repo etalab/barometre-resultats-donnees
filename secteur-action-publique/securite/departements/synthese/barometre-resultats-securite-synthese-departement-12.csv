@@ -2,7 +2,7 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actu
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,12,Aveyron,386083.0,2021-10-31,410709.0,2017-12-31,-24626.0,-6.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,12,Aveyron,31.0,2021-11-30,20.0,2017-11-30,11.0,55.0,,,,atteintes aux personnes entre janvier et novembre
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,12,Aveyron,81.0,2021-11-30,77.0,2017-11-30,4.0,5.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,12,Aveyron,332.0,2021-11-30,0.0,,332.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,12,Aveyron,332.0,2021-11-30,0.0,2020-05-31,332.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,12,Aveyron,23.0,2020-12-31,,,,,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,12,Aveyron,15.0,2020-12-31,,,,,,,,contrôles
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,12,Aveyron,18.0,2020-12-31,22.0,2017-12-31,-4.0,-18.0,,,,morts

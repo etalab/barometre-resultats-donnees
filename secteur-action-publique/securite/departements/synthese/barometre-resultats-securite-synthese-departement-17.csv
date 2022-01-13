@@ -2,7 +2,7 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actu
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,17,Charente-Maritime,681330.0,2021-10-31,668244.0,2017-12-31,13086.0,2.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,17,Charente-Maritime,54.0,2021-11-30,52.0,2017-11-30,2.0,4.0,,,,atteintes aux personnes entre janvier et novembre
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,17,Charente-Maritime,243.0,2021-11-30,314.0,2017-11-30,-71.0,-23.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,17,Charente-Maritime,592.0,2021-11-30,0.0,,592.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,17,Charente-Maritime,592.0,2021-11-30,0.0,2020-05-31,592.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,17,Charente-Maritime,11.0,2020-12-31,0.0,2017-06-30,11.0,,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,17,Charente-Maritime,2.0,2020-12-31,,,,,,,,contrôles
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,17,Charente-Maritime,44.0,2020-12-31,40.0,2017-12-31,4.0,10.0,,,,morts

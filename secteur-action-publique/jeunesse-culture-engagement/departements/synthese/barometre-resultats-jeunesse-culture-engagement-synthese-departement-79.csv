@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,79,Deux-Sèvres,3530.0,2021-11-30,0,2017-01-01,3530.0,,6754.0,52.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,79,Deux-Sèvres,0.0,2021-10-31,0,,0.0,,457.0,0.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,79,Deux-Sèvres,669.0,2021-09-30,0,,669.0,,1111.0,60.0,2022-12-31,attestations
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,79,Deux-Sèvres,3530.0,2021-11-30,0,2019-01-31,3530.0,,6754.0,52.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,79,Deux-Sèvres,0.0,2021-10-31,0,2019-03-31,0.0,,457.0,0.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,79,Deux-Sèvres,669.0,2021-09-30,0,2019-03-31,669.0,,1111.0,60.0,2022-12-31,attestations

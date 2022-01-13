@@ -1,5 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,77,Seine-et-Marne,1002.0,2021-09-30,709.0,2017-12-31,293.0,41.0,1053.0,85.0,2022-03-31,kilomètres
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,77,Seine-et-Marne,20134.0,2021-11-30,0.0,2018-03-31,20134.0,,31872.0,63.0,2022-06-30,primes et bonus
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,77,Seine-et-Marne,1149.0,2021-11-30,0.0,,1149.0,,2125.0,54.0,2022-03-31,bornes de recharge
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,77,Seine-et-Marne,20979.0,2021-12-31,0.0,2018-03-31,20979.0,,31872.0,66.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,77,Seine-et-Marne,1149.0,2021-11-30,672.0,2019-09-30,477.0,71.0,2125.0,33.0,2022-03-31,bornes de recharge
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,77,Seine-et-Marne,860000.0,2021-06-30,190000.0,2017-06-30,670000.0,353.0,1390000.0,56.0,2022-12-31,habitants

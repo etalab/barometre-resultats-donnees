@@ -1,3 +1,3 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,47,Lot-et-Garonne,5924.0,2021-11-30,0.0,,5924.0,,4828.0,100.0,2022-12-31,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,47,Lot-et-Garonne,5924.0,2021-11-30,0.0,2019-12-31,5924.0,,4828.0,100.0,2022-12-31,dossiers validés
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,47,Lot-et-Garonne,95.0,2020-12-31,86.0,2017-12-31,9.0,10.0,,,,personnes dans l'année*

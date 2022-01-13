@@ -2,7 +2,7 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actu
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,86,Vienne,443810.0,2021-10-31,412783.0,2017-12-31,31027.0,8.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,86,Vienne,61.0,2021-11-30,50.0,2017-11-30,11.0,22.0,,,,atteintes aux personnes entre janvier et novembre
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,86,Vienne,159.0,2021-11-30,243.0,2017-11-30,-84.0,-35.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,86,Vienne,312.0,2021-11-30,0.0,,312.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,86,Vienne,312.0,2021-11-30,0.0,2020-05-31,312.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,86,Vienne,24.0,2020-12-31,0.0,2017-09-30,24.0,,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,86,Vienne,0.0,2020-12-31,,,,,,,,contrôles
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,86,Vienne,26.0,2020-12-31,20.0,2017-12-31,6.0,30.0,,,,morts

@@ -2,7 +2,7 @@ mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,52,Pays de la Loire,3281160.0,2021-10-31,2894031.0,2017-12-31,387129.0,13.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,52,Pays de la Loire,793.0,2021-11-30,752.0,2017-11-30,41.0,5.0,,,,atteintes aux personnes entre janvier et novembre
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,52,Pays de la Loire,2724.0,2021-11-30,2765.0,2017-11-30,-41.0,-1.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,52,Pays de la Loire,1555.0,2021-11-30,0.0,,1555.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,52,Pays de la Loire,1555.0,2021-11-30,0.0,2020-05-31,1555.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,52,Pays de la Loire,97.0,2020-12-31,28.0,2017-12-31,69.0,246.0,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,52,Pays de la Loire,439.0,2020-12-31,,,,,,,,contrôles
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,52,Pays de la Loire,160.0,2020-12-31,215.0,2017-12-31,-55.0,-26.0,,,,morts

@@ -2,7 +2,7 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actu
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,76,Seine-Maritime,1080150.0,2021-10-31,799245.0,2017-12-31,280905.0,35.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,76,Seine-Maritime,245.0,2021-11-30,290.0,2017-11-30,-45.0,-16.0,,,,atteintes aux personnes entre janvier et novembre
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,76,Seine-Maritime,692.0,2021-11-30,734.0,2017-11-30,-42.0,-6.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,76,Seine-Maritime,2160.0,2021-11-30,0.0,,2160.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,76,Seine-Maritime,2160.0,2021-11-30,0.0,2020-05-31,2160.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,76,Seine-Maritime,56.0,2020-12-31,40.0,2017-12-31,16.0,40.0,,,,ordonnances dans l'année
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,76,Seine-Maritime,2.0,2020-12-31,,,,,,,,contrôles
 Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,76,Seine-Maritime,33.0,2020-12-31,51.0,2017-12-31,-18.0,-35.0,,,,morts

@@ -1,6 +1,6 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,94,Corse,47.0,2021-09-30,16.0,2017-12-31,31.0,194.0,,,,% de déploiement
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,94,Corse,23.0,2021-12-31,0.0,2017-01-01,23.0,,34.0,68.0,2022-12-31,labellisations
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,94,Corse,118.0,2021-11-30,,,,,,,,logements rénovés depuis octobre 2020
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,94,Corse,701.0,2021-09-30,0.0,,701.0,,,,,logements
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,94,Corse,701.0,2021-09-30,0.0,,701.0,,,,,logements rénovés
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,94,Corse,27.0,2022-03-31,4.0,2020-01-31,23.0,575.0,34.0,77.0,2022-12-31,labellisations
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,94,Corse,118.0,2021-11-30,0.0,2020-09-30,118.0,,,,,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,94,Corse,808.0,2021-12-31,0.0,2019-12-31,808.0,,,,,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,94,Corse,808.0,2021-12-31,0.0,2019-12-31,808.0,,,,,logements rénovés
