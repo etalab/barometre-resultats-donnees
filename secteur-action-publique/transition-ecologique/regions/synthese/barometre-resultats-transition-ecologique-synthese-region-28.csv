@@ -1,7 +1,7 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,28,Normandie,3267.0,2021-09-30,2579.0,2017-12-31,688.0,27.0,3405.0,83.0,2022-03-31,kilomètres
 Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faibles émissions,nb-habitants-zfe,28,Normandie,33467.0,2021-12-31,0.0,2017-12-31,33467.0,,228894.0,15.0,2022-12-31,habitants
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,28,Normandie,75623.0,2021-12-31,0.0,2018-03-31,75623.0,,73553.0,100.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,28,Normandie,75623.0,2021-12-31,0.0,2018-01-31,75623.0,,73553.0,100.0,2022-06-30,primes et bonus
 Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,28,Normandie,2666.0,2021-11-30,2166.0,2019-09-30,500.0,23.0,4904.0,18.0,2022-03-31,bornes de recharge
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,28,Normandie,2300000.0,2021-06-30,1310000.0,2017-06-30,990000.0,76.0,3340000.0,49.0,2022-12-31,habitants
 Plan de soutien aux petites lignes ferroviaires,Nombre de kilomètres de lignes rénovées,nb-km-lignes-regenerees,28,Normandie,30.0,2021-11-30,0.0,2017-01-31,30.0,,42.0,71.0,2022-12-31,kilomètres
