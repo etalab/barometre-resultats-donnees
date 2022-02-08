@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Seine-Maritime,14343.0,2021-11-30,0,2019-01-31,14343.0,,31921.0,45.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,76,Seine-Maritime,0.0,2021-10-31,0,2019-03-31,0.0,,1671.0,0.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Seine-Maritime,241.0,2021-09-30,0,2019-03-31,241.0,,3685.0,7.0,2022-12-31,attestations
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,76,Seine-Maritime,14343,2021-11-30,0,2019-01-31,14343.0,,31921,45.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,76,Seine-Maritime,0,2021-10-31,0,2019-03-31,0.0,,1671,0.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,76,Seine-Maritime,241,2021-09-30,0,2019-03-31,241.0,,3685,7.0,2022-12-31,attestations

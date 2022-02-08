@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,61119.0,2021-11-30,0,2019-01-31,61119.0,,131340.0,47.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,75,Nouvelle-Aquitaine,881.0,2021-10-31,0,2019-03-31,881.0,,7002.0,13.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,9927.0,2021-09-30,0,2019-03-31,9927.0,,16043.0,62.0,2022-12-31,attestations
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,75,Nouvelle-Aquitaine,61119,2021-11-30,0,2019-01-31,61119.0,,131340,47.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,75,Nouvelle-Aquitaine,881,2021-10-31,0,2019-03-31,881.0,,7002,13.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,75,Nouvelle-Aquitaine,9927,2021-09-30,0,2019-03-31,9927.0,,16043,62.0,2022-12-31,attestations

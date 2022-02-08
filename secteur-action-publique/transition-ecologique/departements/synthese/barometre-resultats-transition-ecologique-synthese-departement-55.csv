@@ -1,5 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,55,Meuse,140.0,2021-09-30,27.0,2017-12-31,113.0,419.0,149.0,93.0,2022-03-31,kilomètres
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,3653.0,2021-12-31,0.0,2018-01-31,3653.0,,3986.0,92.0,2022-06-30,primes et bonus
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,140.0,2021-11-30,103.0,2019-09-30,37.0,36.0,266.0,23.0,2022-03-31,bornes de recharge
-Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,55,Meuse,100000.0,2021-06-30,0.0,2017-06-30,100000.0,,190000.0,53.0,2022-12-31,habitants
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,55,Meuse,140.0,2021-09-30,27,2017-12-31,113.0,419.0,149.0,93.0,2022-03-31,kilomètres
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,55,Meuse,3653.0,2021-12-31,0,2018-01-31,3653.0,,3986.0,92.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,55,Meuse,140.0,2021-11-30,103,2019-09-30,37.0,36.0,266.0,23.0,2022-03-31,bornes de recharge
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,55,Meuse,100000.0,2021-06-30,0,2017-06-30,100000.0,,190000.0,53.0,2022-12-31,habitants
