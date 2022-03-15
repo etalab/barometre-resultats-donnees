@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,92,Hauts-de-Seine,19765,2021-11-30,0,2019-01-31,19765.0,,34944,57.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,92,Hauts-de-Seine,592,2021-10-31,0,2019-03-31,592.0,,2238,26.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,92,Hauts-de-Seine,75,2021-09-30,0,2019-03-31,75.0,,4672,2.0,2022-12-31,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,92,Hauts-de-Seine,23208.0,2022-02-28,0,2019-01-31,23208.0,,34944.0,66.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,92,Hauts-de-Seine,592.0,2021-12-31,0,2019-03-31,592.0,,2238.0,26.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,92,Hauts-de-Seine,119.0,2021-12-31,0,2019-03-31,119.0,,4672.0,3.0,2022-12-31,attestations

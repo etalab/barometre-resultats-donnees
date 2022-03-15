@@ -1,18 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2020-10-31,5.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2020-11-30,11.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2020-12-31,17.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-01-31,17.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-02-28,18.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-03-31,23.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-04-30,28.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-05-31,30.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-06-30,34.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-07-31,35.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-08-31,38.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-09-30,39.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-10-31,44.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-11-30,45.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,68,Haut-Rhin,2020-01-31,130.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,68,Haut-Rhin,2020-01-31,130.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,68,Haut-Rhin,2021-01-31,215.0,logements
@@ -27,35 +13,54 @@ Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un acco
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,68,Haut-Rhin,2021-05-31,283.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,68,Haut-Rhin,2021-09-30,311.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,68,Haut-Rhin,2021-09-30,311.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,68,Haut-Rhin,2021-12-31,497.0,logements
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,68,Haut-Rhin,2021-12-31,497.0,logements rénovés
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-01-31,1.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-02-29,1.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-03-31,1.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-04-30,1.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-05-31,1.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-06-30,1.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-07-31,1.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-08-31,1.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-09-30,7.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-10-31,7.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-11-30,7.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-12-31,12.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-01-31,12.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-02-28,12.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-03-31,12.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-04-30,12.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-05-31,12.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-06-30,12.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-07-31,14.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-08-31,14.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-09-30,14.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-10-31,15.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-11-30,15.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-12-31,15.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2022-01-31,16.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2022-02-28,16.0,labellisations
-Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2022-03-31,16.0,labellisations
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,68,Haut-Rhin,2021-12-31,381.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,68,Haut-Rhin,2021-12-31,381.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,68,Haut-Rhin,2022-02-28,449.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,68,Haut-Rhin,2022-02-28,449.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2020-10-31,5.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2020-11-30,11.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2020-12-31,17.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-01-31,17.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-02-28,18.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-03-31,23.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-04-30,28.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-05-31,30.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-06-30,34.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-07-31,35.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-08-31,38.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-09-30,39.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-10-31,44.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-11-30,45.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2021-12-31,74.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2022-01-31,74.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,68,Haut-Rhin,2022-02-28,76.0,logements rénovés
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-01-31,1.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-02-29,1.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-03-31,1.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-04-30,1.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-05-31,1.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-06-30,1.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-07-31,1.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-08-31,1.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-09-30,7.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-10-31,7.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-11-30,7.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2020-12-31,12.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-01-31,12.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-02-28,12.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-03-31,12.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-04-30,12.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-05-31,12.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-06-30,12.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-07-31,14.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-08-31,14.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-09-30,14.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-10-31,15.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-11-30,15.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2021-12-31,15.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2022-01-31,16.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2022-02-28,16.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,68,Haut-Rhin,2022-03-31,16.0,labellisations
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,68,Haut-Rhin,2017-12-31,18.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,68,Haut-Rhin,2018-03-31,22.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,68,Haut-Rhin,2018-06-30,27.0,% de déploiement

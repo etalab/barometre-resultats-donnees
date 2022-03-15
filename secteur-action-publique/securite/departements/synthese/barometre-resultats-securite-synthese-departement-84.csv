@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,84,Vaucluse,610630.0,2021-10-31,606952.0,2017-12-31,3678.0,1.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,84,Vaucluse,78.0,2021-11-30,59.0,2017-11-30,19.0,32.0,,,,atteintes aux personnes entre janvier et novembre
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,84,Vaucluse,289.0,2021-11-30,410.0,2017-11-30,-121.0,-30.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,84,Vaucluse,961.0,2021-11-30,0.0,2020-05-31,961.0,,,,,amendes dressées
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,84,Vaucluse,591487.0,2022-01-31,606952.0,2017-12-31,-15465.0,-3.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,84,Vaucluse,79.0,2021-12-31,64.0,2017-12-31,15.0,23.0,,,,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,84,Vaucluse,316.0,2021-12-31,444.0,2017-12-31,-128.0,-29.0,,,,atteintes aux biens dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,84,Vaucluse,1020.0,2021-12-31,0.0,2020-05-31,1020.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,84,Vaucluse,16.0,2020-09-30,13.0,2017-12-31,3.0,23.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,84,Vaucluse,20.0,2020-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,84,Vaucluse,27.0,2020-12-31,55.0,2017-12-31,-28.0,-51.0,,,,morts
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,84,Vaucluse,62.0,2021-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,84,Vaucluse,43.0,2021-12-31,55.0,2017-12-31,-12.0,-22.0,,,,morts

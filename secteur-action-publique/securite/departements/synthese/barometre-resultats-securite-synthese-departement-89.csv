@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,89,Yonne,437840.0,2021-10-31,424448.0,2017-12-31,13392.0,3.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,89,Yonne,53.0,2021-11-30,31.0,2017-11-30,22.0,71.0,,,,atteintes aux personnes entre janvier et novembre
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,89,Yonne,151.0,2021-11-30,191.0,2017-11-30,-40.0,-21.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,89,Yonne,717.0,2021-11-30,0.0,2020-05-31,717.0,,,,,amendes dressées
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,89,Yonne,429767.0,2022-01-31,424448.0,2017-12-31,5319.0,1.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,89,Yonne,47.0,2021-12-31,33.0,2017-12-31,14.0,42.0,,,,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,89,Yonne,158.0,2021-12-31,204.0,2017-12-31,-46.0,-23.0,,,,atteintes aux biens dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,89,Yonne,744.0,2021-12-31,0.0,2020-05-31,744.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,89,Yonne,32.0,2020-12-31,6.0,2017-12-31,26.0,433.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,89,Yonne,3.0,2020-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,89,Yonne,29.0,2020-12-31,32.0,2017-12-31,-3.0,-9.0,,,,morts
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,89,Yonne,12.0,2021-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,89,Yonne,23.0,2021-12-31,32.0,2017-12-31,-9.0,-28.0,,,,morts

@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,03,Guyane,860980.0,2021-10-31,860980.0,2021-10-31,0.0,0.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,03,Guyane,54.0,2021-11-30,56.0,2017-11-30,-2.0,-4.0,,,,atteintes aux personnes entre janvier et novembre
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,03,Guyane,59.0,2021-11-30,86.0,2017-11-30,-27.0,-31.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,03,Guyane,147.0,2021-11-30,0.0,2020-05-31,147.0,,,,,amendes dressées
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,03,Guyane,966364.0,2022-01-31,977430.0,2021-12-31,-11066.0,-1.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,03,Guyane,42.0,2021-12-31,58.0,2017-12-31,-16.0,-28.0,,,,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,03,Guyane,53.0,2021-12-31,91.0,2017-12-31,-38.0,-42.0,,,,atteintes aux biens dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,03,Guyane,162.0,2021-12-31,0.0,2020-05-31,162.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,03,Guyane,14.0,2020-12-31,0.0,2017-12-31,14.0,,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,03,Guyane,0.0,2020-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,03,Guyane,33.0,2020-12-31,26.0,2017-12-31,7.0,27.0,,,,morts
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,03,Guyane,0.0,2021-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,03,Guyane,35.0,2021-12-31,26.0,2017-12-31,9.0,35.0,,,,morts

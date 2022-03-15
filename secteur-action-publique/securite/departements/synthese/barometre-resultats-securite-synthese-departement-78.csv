@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,78,Yvelines,1064609.0,2021-10-31,436799.0,2017-12-31,627810.0,144.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,78,Yvelines,747.0,2021-11-30,989.0,2017-11-30,-242.0,-24.0,,,,atteintes aux personnes entre janvier et novembre
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,78,Yvelines,2305.0,2021-11-30,2830.0,2017-11-30,-525.0,-19.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,78,Yvelines,2625.0,2021-11-30,0.0,2020-05-31,2625.0,,,,,amendes dressées
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,78,Yvelines,1142334.0,2022-01-31,436799.0,2017-12-31,705535.0,162.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,78,Yvelines,813.0,2021-12-31,1065.0,2017-12-31,-252.0,-24.0,,,,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,78,Yvelines,2530.0,2021-12-31,3086.0,2017-12-31,-556.0,-18.0,,,,atteintes aux biens dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,78,Yvelines,2859.0,2021-12-31,0.0,2020-05-31,2859.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,78,Yvelines,73.0,2020-12-31,12.0,2017-12-31,61.0,508.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,78,Yvelines,1089.0,2020-12-31,1734.0,2018-12-31,-645.0,-37.0,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,78,Yvelines,23.0,2020-12-31,49.0,2017-12-31,-26.0,-53.0,,,,morts
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,78,Yvelines,103.0,2021-12-31,1734.0,2018-12-31,-1631.0,-94.0,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,78,Yvelines,41.0,2021-12-31,49.0,2017-12-31,-8.0,-16.0,,,,morts

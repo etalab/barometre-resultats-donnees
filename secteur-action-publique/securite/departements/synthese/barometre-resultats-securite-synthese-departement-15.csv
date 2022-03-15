@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,255017.0,2021-10-31,262553.0,2017-12-31,-7536.0,-3.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,15,Cantal,31.0,2021-11-30,14.0,2017-11-30,17.0,121.0,,,,atteintes aux personnes entre janvier et novembre
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,36.0,2021-11-30,25.0,2017-11-30,11.0,44.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,141.0,2021-11-30,0.0,2020-05-31,141.0,,,,,amendes dressées
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,245345.0,2022-01-31,262553.0,2017-12-31,-17208.0,-7.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,15,Cantal,11.0,2021-12-31,14.0,2017-12-31,-3.0,-21.0,,,,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,23.0,2021-12-31,27.0,2017-12-31,-4.0,-15.0,,,,atteintes aux biens dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,97.0,2021-12-31,0.0,2020-05-31,97.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,26.0,2020-12-31,3.0,2017-12-31,23.0,767.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,0.0,2020-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,7.0,2020-12-31,12.0,2017-12-31,-5.0,-42.0,,,,morts
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,0.0,2021-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,5.0,2021-12-31,12.0,2017-12-31,-7.0,-58.0,,,,morts

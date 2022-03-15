@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,95,Val-d'Oise,982566.0,2021-10-31,463802.0,2017-12-31,518764.0,112.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,95,Val-d'Oise,828.0,2021-11-30,1321.0,2017-11-30,-493.0,-37.0,,,,atteintes aux personnes entre janvier et novembre
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,95,Val-d'Oise,2606.0,2021-11-30,3831.0,2017-11-30,-1225.0,-32.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,95,Val-d'Oise,3362.0,2021-11-30,0.0,2020-05-31,3362.0,,,,,amendes dressées
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,95,Val-d'Oise,1013106.0,2022-01-31,463802.0,2017-12-31,549304.0,118.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,95,Val-d'Oise,927.0,2021-12-31,1405.0,2017-12-31,-478.0,-34.0,,,,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,95,Val-d'Oise,2922.0,2021-12-31,4174.0,2017-12-31,-1252.0,-30.0,,,,atteintes aux biens dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,95,Val-d'Oise,3571.0,2021-12-31,0.0,2020-05-31,3571.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,95,Val-d'Oise,71.0,2020-12-31,31.0,2017-12-31,40.0,129.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,95,Val-d'Oise,293.0,2020-12-31,422.0,2018-12-31,-129.0,-31.0,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,95,Val-d'Oise,24.0,2020-12-31,39.0,2017-12-31,-15.0,-38.0,,,,morts
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,95,Val-d'Oise,764.0,2021-12-31,422.0,2018-12-31,342.0,81.0,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,95,Val-d'Oise,23.0,2021-12-31,39.0,2017-12-31,-16.0,-41.0,,,,morts

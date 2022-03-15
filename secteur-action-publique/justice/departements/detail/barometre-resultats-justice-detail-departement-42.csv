@@ -1,8 +1,9 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,42,Loire,2021-03-31,158,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,42,Loire,2021-09-30,172,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,42,Loire,2021-11-30,175,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,42,Loire,2021-06-30,7,% de détenus
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,42,Loire,2021-09-30,7,% de détenus
-Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,42,Loire,2021-03-31,0,% des demandes *
-Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,42,Loire,2021-12-31,5,% des demandes *
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,42,Loire,2021-03-31,158.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,42,Loire,2021-09-30,172.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,42,Loire,2021-11-30,175.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,42,Loire,2022-01-31,187.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,42,Loire,2021-06-30,7.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,42,Loire,2021-09-30,7.0,% de détenus
+Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,42,Loire,2021-03-31,0.0,% des demandes *
+Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,42,Loire,2021-12-31,1.0,% des demandes *

@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,01,Guadeloupe,577411.0,2021-10-31,577411.0,2021-10-31,0.0,0.0,,,,heures de patrouille sur douze mois *
-Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,01,Guadeloupe,49.0,2021-11-30,41.0,2017-11-30,8.0,20.0,,,,atteintes aux personnes entre janvier et novembre
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,01,Guadeloupe,48.0,2021-11-30,55.0,2017-11-30,-7.0,-13.0,,,,atteintes aux biens entre janvier et novembre
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,01,Guadeloupe,432.0,2021-11-30,0.0,2020-05-31,432.0,,,,,amendes dressées
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,01,Guadeloupe,20.0,2020-09-30,6.0,2017-09-30,14.0,233.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,01,Guadeloupe,5.0,2020-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,01,Guadeloupe,51.0,2020-12-31,41.0,2017-12-31,10.0,24.0,,,,morts
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,01,Guadeloupe,600027.0,2022-01-31,607406.0,2021-12-31,-7379.0,-1.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,01,Guadeloupe,24.0,2021-12-31,43.0,2017-12-31,-19.0,-44.0,,,,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,01,Guadeloupe,34.0,2021-12-31,62.0,2017-12-31,-28.0,-45.0,,,,atteintes aux biens dans l'année
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,01,Guadeloupe,465.0,2021-12-31,0.0,2020-05-31,465.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,01,Guadeloupe,25.0,2020-09-30,11.0,2017-12-31,14.0,127.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,01,Guadeloupe,8.0,2021-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,01,Guadeloupe,65.0,2021-12-31,41.0,2017-12-31,24.0,59.0,,,,morts

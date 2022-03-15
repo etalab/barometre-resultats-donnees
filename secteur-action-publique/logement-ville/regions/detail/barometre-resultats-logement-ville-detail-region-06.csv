@@ -1,5 +1,7 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,date,valeur,unite
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,06,Mayotte,2021-11-30,2.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,06,Mayotte,2021-12-31,2.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,06,Mayotte,2022-01-31,4.0,dossiers validés
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,06,Mayotte,2017-12-31,0.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,06,Mayotte,2018-01-31,0.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,06,Mayotte,2018-02-28,0.0,personnes dans l'année*

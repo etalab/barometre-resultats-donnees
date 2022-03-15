@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,28,Normandie,35057,2021-11-30,0,2019-01-31,35057.0,,77094,45.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,28,Normandie,397,2021-10-31,0,2019-03-31,397.0,,4294,9.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,3430,2021-09-30,0,2019-03-31,3430.0,,9687,35.0,2022-12-31,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,28,Normandie,41775.0,2022-02-28,0,2019-01-31,41775.0,,77094.0,54.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,28,Normandie,400.0,2021-12-31,0,2019-03-31,400.0,,4294.0,9.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,28,Normandie,3696.0,2021-12-31,0,2019-03-31,3696.0,,9687.0,38.0,2022-12-31,attestations

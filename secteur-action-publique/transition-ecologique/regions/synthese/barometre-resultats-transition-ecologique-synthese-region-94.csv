@@ -1,5 +1,5 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,94,Corse,54.0,2021-09-30,19,2017-12-31,35.0,184.0,70.0,69.0,2022-03-31,kilomètres
-Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,7226.0,2021-12-31,0,2018-01-31,7226.0,,7771.0,93.0,2022-06-30,primes et bonus
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,292.0,2021-11-30,48,2019-09-30,244.0,508.0,518.0,52.0,2022-03-31,bornes de recharge
-Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,94,Corse,320000.0,2021-06-30,0,2017-06-30,320000.0,,320000.0,100.0,2022-12-31,habitants
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,94,Corse,54.0,2021-12-31,19.0,2017-12-31,35.0,184.0,70.0,69.0,2022-03-31,kilomètres
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,94,Corse,7333.0,2022-01-31,0.0,2018-01-31,7333.0,,7771.0,94.0,2022-06-30,primes et bonus
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,94,Corse,305.0,2022-01-31,48.0,2019-09-30,257.0,535.0,518.0,55.0,2022-03-31,bornes de recharge
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,94,Corse,320000.0,2021-12-31,0.0,2017-06-30,320000.0,,320000.0,100.0,2022-12-31,habitants
