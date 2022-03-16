@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,2A,Corse-du-Sud,1655.0,2022-02-28,0,2019-01-31,1655.0,,2253.0,73.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,2A,Corse-du-Sud,0.0,2021-12-31,0,2019-03-31,0.0,,161.0,0.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,2A,Corse-du-Sud,148.0,2021-12-31,0,2019-03-31,148.0,,372.0,40.0,2022-12-31,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,2A,Corse-du-Sud,1655,2022-02-28,0,2019-01-31,1655.0,,2253,73.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,2A,Corse-du-Sud,0,2021-12-31,0,2019-03-31,0.0,,161,0.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,2A,Corse-du-Sud,148,2021-12-31,0,2019-03-31,148.0,,372,40.0,2022-12-31,attestations

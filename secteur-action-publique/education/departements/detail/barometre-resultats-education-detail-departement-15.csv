@@ -1,10 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de CP et CE1 en éducation prioritaire dédoublées,tx-classes-cp-ce1-rep,15,Cantal,2019-10-31,0.0,% des classes
-"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de CP et CE1 en éducation prioritaire dédoublées,tx-classes-cp-ce1-rep,15,Cantal,2020-10-31,100.0,% des classes
-"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de CP et CE1 en éducation prioritaire dédoublées,tx-classes-cp-ce1-rep,15,Cantal,2021-10-31,100.0,% des classes
-"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de grande section en éducation prioritaire dédoublées,tx-gs-rep,15,Cantal,2019-11-30,0.0,% des classes
-"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de grande section en éducation prioritaire dédoublées,tx-gs-rep,15,Cantal,2020-11-30,0.0,% des classes
-"Dédoubler les classes en éducation prioritaire (grande section, CP, CE1) ",Part des classes de grande section en éducation prioritaire dédoublées,tx-gs-rep,15,Cantal,2021-10-31,0.0,% des classes
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,15,Cantal,2017-10-31,48.1,% de réussite
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,15,Cantal,2019-10-31,53.1,% de réussite
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,15,Cantal,2020-10-31,60.8,% de réussite

@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,62,Pas-de-Calais,21047.0,2022-02-28,0,2019-01-31,21047.0,,33760.0,62.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,62,Pas-de-Calais,381.0,2021-12-31,0,2019-03-31,381.0,,2086.0,18.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,62,Pas-de-Calais,1687.0,2021-12-31,0,2019-03-31,1687.0,,4627.0,36.0,2022-12-31,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,62,Pas-de-Calais,21047,2022-02-28,0,2019-01-31,21047.0,,33760,62.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,62,Pas-de-Calais,381,2021-12-31,0,2019-03-31,381.0,,2086,18.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,62,Pas-de-Calais,1687,2021-12-31,0,2019-03-31,1687.0,,4627,36.0,2022-12-31,attestations
