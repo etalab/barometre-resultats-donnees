@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,31,Haute-Garonne,1069488.0,2022-01-31,961613.0,2017-12-31,107875.0,11.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,31,Haute-Garonne,1168509.0,2022-10-31,961613.0,2017-12-31,206896.0,22.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,31,Haute-Garonne,621.0,2021-12-31,690.0,2017-12-31,-69.0,-10.0,,,,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,31,Haute-Garonne,2187.0,2021-12-31,2866.0,2017-12-31,-679.0,-24.0,,,,atteintes aux biens dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,31,Haute-Garonne,1828.0,2021-12-31,0.0,2020-05-31,1828.0,,,,,amendes dressées
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,31,Haute-Garonne,83.0,2020-12-31,62.0,2017-12-31,21.0,34.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,31,Haute-Garonne,115.0,2021-12-31,52.0,2018-12-31,63.0,121.0,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,31,Haute-Garonne,64.0,2021-12-31,53.0,2017-12-31,11.0,21.0,,,,morts
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,31,Haute-Garonne,3226.0,2022-12-31,0.0,2020-05-31,3226.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,31,Haute-Garonne,90.0,2021-12-31,62.0,2017-12-31,28.0,45.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,31,Haute-Garonne,63.0,2022-12-31,52.0,2018-12-31,11.0,21.0,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,31,Haute-Garonne,35.0,2022-09-30,53.0,2017-12-31,-18.0,-34.0,,,,morts dans l'année

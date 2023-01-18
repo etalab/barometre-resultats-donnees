@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,53,Bretagne,2699494.0,2022-01-31,2696803.0,2017-12-31,2691.0,0.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,53,Bretagne,2769593.0,2022-10-31,2696803.0,2017-12-31,72790.0,3.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,53,Bretagne,544.0,2021-12-31,517.0,2017-12-31,27.0,5.0,,,,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,53,Bretagne,1646.0,2021-12-31,1972.0,2017-12-31,-326.0,-17.0,,,,atteintes aux biens dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,53,Bretagne,2419.0,2021-12-31,0.0,2020-05-31,2419.0,,,,,amendes dressées
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,53,Bretagne,111.0,2020-12-31,44.0,2017-12-31,67.0,152.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,53,Bretagne,39.0,2021-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,53,Bretagne,147.0,2021-12-31,177.0,2017-12-31,-30.0,-17.0,,,,morts
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,53,Bretagne,3733.0,2022-12-31,0.0,2020-05-31,3733.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,53,Bretagne,71.0,2021-12-31,44.0,2017-12-31,27.0,61.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,53,Bretagne,2.0,2022-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,53,Bretagne,102.0,2022-09-30,177.0,2017-12-31,-75.0,-42.0,,,,morts dans l'année

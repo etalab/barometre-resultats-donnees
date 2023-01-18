@@ -1,5 +1,5 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2020-12-31,1.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2020-12-31,-1.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2021-01-31,1.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2021-02-28,2.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2021-03-31,0.0,contrôles
@@ -13,66 +13,17 @@ Lutter contre les atteintes aux principes républicains,Nombre de contrôles ré
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2021-11-30,1.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2021-12-31,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-01-31,5.0,contrôles
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-01-31,3380.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-02-28,3411.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-03-31,3765.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-04-30,3029.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-05-31,3153.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-06-30,3074.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-07-31,2759.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-08-31,2461.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-09-30,2537.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-10-31,2950.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-11-30,3151.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-12-31,3239.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-01-31,3483.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-02-28,3232.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-03-31,3668.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-04-30,3145.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-05-31,3006.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-06-30,3006.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-07-31,2972.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-08-31,2721.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-09-30,2939.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-10-31,3384.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-11-30,3716.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-12-31,3918.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-01-31,4048.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-02-28,4064.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-03-31,4373.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-04-30,4313.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-05-31,4032.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-06-30,4155.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-07-31,4088.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-08-31,3810.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-09-30,3846.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-10-31,4886.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-11-30,4897.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-12-31,3856.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-01-31,4439.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-02-29,4584.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-03-31,2419.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-04-30,628.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-05-31,1094.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-06-30,2304.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-07-31,3103.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-08-31,3250.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-09-30,3257.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-10-31,3465.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-11-30,1754.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-12-31,2718.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-01-31,2913.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-02-28,2785.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-03-31,2712.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-04-30,1698.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-05-31,2156.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-06-30,2509.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-07-31,2719.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-08-31,2301.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-09-30,2637.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-10-31,3059.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-11-30,3263.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-12-31,3018.0,atteintes aux biens dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-02-28,4.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-03-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-04-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-05-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-06-30,1.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-07-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-08-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-09-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-10-31,1.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-11-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,75,Paris,2022-12-31,0.0,contrôles
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,75,Paris,2017-01-31,534.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,75,Paris,2017-02-28,508.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,75,Paris,2017-03-31,550.0,atteintes aux personnes dans l'année
@@ -133,31 +84,95 @@ Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,75,Paris,2021-10-31,540.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,75,Paris,2021-11-30,571.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,75,Paris,2021-12-31,669.0,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-01-31,3380.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-02-28,3411.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-03-31,3765.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-04-30,3029.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-05-31,3153.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-06-30,3074.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-07-31,2759.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-08-31,2461.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-09-30,2537.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-10-31,2950.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-11-30,3151.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2017-12-31,3239.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-01-31,3483.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-02-28,3232.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-03-31,3668.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-04-30,3145.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-05-31,3006.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-06-30,3006.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-07-31,2972.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-08-31,2721.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-09-30,2939.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-10-31,3384.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-11-30,3716.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2018-12-31,3918.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-01-31,4048.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-02-28,4064.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-03-31,4373.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-04-30,4313.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-05-31,4032.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-06-30,4155.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-07-31,4088.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-08-31,3810.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-09-30,3846.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-10-31,4886.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-11-30,4897.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2019-12-31,3856.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-01-31,4439.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-02-29,4584.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-03-31,2419.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-04-30,628.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-05-31,1094.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-06-30,2304.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-07-31,3103.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-08-31,3250.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-09-30,3257.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-10-31,3465.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-11-30,1754.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2020-12-31,2718.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-01-31,2913.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-02-28,2785.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-03-31,2712.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-04-30,1698.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-05-31,2156.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-06-30,2509.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-07-31,2719.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-08-31,2301.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-09-30,2637.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-10-31,3059.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-11-30,3263.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,75,Paris,2021-12-31,3018.0,atteintes aux biens dans l'année
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,75,Paris,2017-12-31,4204922.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,75,Paris,2018-12-31,3206320.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,75,Paris,2019-12-31,3046855.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,75,Paris,2020-12-31,3301467.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,75,Paris,2021-12-31,5556950.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,75,Paris,2022-01-31,5512126.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,75,Paris,2022-10-31,12091398.0,heures de patrouille sur douze mois *
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2017-03-31,21.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2017-06-30,19.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2017-09-30,28.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2017-12-31,23.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2017-06-30,40.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2017-09-30,68.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2017-12-31,91.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2018-03-31,18.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2018-06-30,19.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2018-09-30,21.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2018-12-31,21.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2018-06-30,37.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2018-09-30,58.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2018-12-31,79.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2019-03-31,16.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2019-06-30,22.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2019-09-30,18.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2019-12-31,25.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2019-06-30,38.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2019-09-30,56.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2019-12-31,81.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2020-03-31,43.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2020-06-30,43.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2020-09-30,47.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2020-12-31,44.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2020-06-30,86.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2020-09-30,133.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2020-12-31,177.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2021-03-31,32.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2021-06-30,50.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2021-09-30,35.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2021-06-30,82.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2021-09-30,121.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2021-12-31,157.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2022-03-31,42.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,75,Paris,2022-06-30,86.0,ordonnances dans l'année
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2020-06-30,1.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2020-07-31,1.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2020-08-31,0.0,amendes dressées
@@ -177,63 +192,86 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2021-10-31,566.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2021-11-30,532.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2021-12-31,389.0,amendes dressées
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-01-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-02-28,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-03-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-04-30,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-05-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-06-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-07-31,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-08-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-09-30,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-10-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-11-30,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-12-31,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-01-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-02-28,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-03-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-04-30,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-05-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-06-30,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-07-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-08-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-09-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-10-31,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-11-30,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-12-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-01-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-02-28,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-03-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-04-30,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-05-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-06-30,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-07-31,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-08-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-09-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-10-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-11-30,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-12-31,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-01-31,7.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-02-29,6.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-03-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-04-30,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-05-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-06-30,7.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-07-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-08-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-09-30,7.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-10-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-11-30,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-12-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-01-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-02-28,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-03-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-04-30,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-05-31,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-06-30,6.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-07-31,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-08-31,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-09-30,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-10-31,8.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-11-30,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-12-31,1.0,morts
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-01-31,583.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-02-28,537.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-03-31,707.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-04-30,632.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-05-31,790.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-06-30,646.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-07-31,683.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-08-31,756.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-09-30,924.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-10-31,990.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-11-30,982.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,75,Paris,2022-12-31,713.0,amendes dressées
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-01-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-02-28,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-03-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-04-30,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-05-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-06-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-07-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-08-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-09-30,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-10-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-11-30,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2017-12-31,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-01-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-02-28,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-03-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-04-30,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-05-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-06-30,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-07-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-08-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-09-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-10-31,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-11-30,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2018-12-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-01-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-02-28,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-03-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-04-30,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-05-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-06-30,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-07-31,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-08-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-09-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-10-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-11-30,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2019-12-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-01-31,7.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-02-29,6.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-03-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-04-30,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-05-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-06-30,7.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-07-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-09-30,7.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-10-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-11-30,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2020-12-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-01-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-02-28,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-03-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-04-30,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-05-31,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-06-30,6.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-07-31,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-08-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-09-30,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-10-31,8.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-11-30,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2021-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-01-31,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-02-28,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-03-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-04-30,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-05-31,8.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-06-30,6.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-07-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-08-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-09-30,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-10-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,75,Paris,2022-11-30,2.0,morts dans l'année

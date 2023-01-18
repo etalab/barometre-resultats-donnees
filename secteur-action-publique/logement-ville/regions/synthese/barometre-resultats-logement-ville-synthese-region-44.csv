@@ -1,3 +1,3 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,44,Grand Est,80312.0,2022-01-31,0,2019-12-31,80312.0,,128351,63.0,2022-12-31,dossiers validés
-Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,44,Grand Est,4455.0,2021-12-31,3056,2017-12-31,1399.0,46.0,4345,100.0,2022-12-31,personnes dans l'année*
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,44,Grand Est,126142.0,2022-10-31,0.0,2019-12-31,126142.0,,128351.0,98.0,2022-12-31,dossiers validés
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,44,Grand Est,4282.0,2022-11-30,3056.0,2017-12-31,1226.0,40.0,4620.0,78.0,2022-12-31,personnes dans l'année*

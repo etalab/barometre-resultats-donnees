@@ -2,7 +2,8 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,10,Aube,2018-12-31,25662.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,10,Aube,2019-12-31,25893.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,10,Aube,2020-12-31,113784.0,bénéficiaires
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,10,Aube,2021-12-31,113784.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,10,Aube,2021-12-31,113411.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,10,Aube,2022-12-31,113411.0,bénéficiaires
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2017-01-31,822.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2017-02-28,817.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2017-03-31,847.0,bénéficiaires *
@@ -55,24 +56,23 @@ Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéfi
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-02-28,666.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-03-31,702.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-04-30,694.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-05-31,699.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-06-30,740.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-07-31,730.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-08-31,728.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-09-30,743.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-10-31,773.0,bénéficiaires *
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-02-28,11.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-03-31,44.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-04-30,71.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-05-31,97.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-06-30,174.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-07-31,268.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-08-31,331.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-09-30,334.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-10-31,334.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-12-31,336.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-01-31,335.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-02-28,338.0,entreprises
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-05-31,698.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-06-30,739.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-07-31,727.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-08-31,724.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-09-30,736.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-10-31,735.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-11-30,742.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2021-12-31,706.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-01-31,681.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-02-28,677.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-03-31,731.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-04-30,757.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-05-31,761.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-06-30,748.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-07-31,730.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-08-31,656.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,10,Aube,2022-09-30,758.0,bénéficiaires *
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2021-01-31,34.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2021-02-28,14.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2021-03-31,35.0,entreprises
@@ -86,6 +86,32 @@ Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant dis
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2021-12-31,79.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-01-31,83.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-02-28,89.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-03-31,95.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-05-31,96.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-06-30,118.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-08-31,127.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-09-30,127.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-10-31,127.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,10,Aube,2022-11-30,127.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-02-28,11.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-03-31,44.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-04-30,71.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-05-31,97.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-06-30,174.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-07-31,268.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-08-31,331.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-09-30,334.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-10-31,334.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2021-12-31,336.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-01-31,335.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-02-28,338.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-03-31,335.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-05-31,335.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-06-30,335.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-08-31,335.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-09-30,335.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-10-31,335.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,10,Aube,2022-11-30,335.0,entreprises
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2018-08-31,580.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2018-09-30,2225.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2018-10-31,2931.0,Recrutements depuis le mois d'août précédent
@@ -125,6 +151,17 @@ Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeu
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2021-08-31,787.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2021-09-30,2823.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2021-10-31,3762.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2021-11-30,4509.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2021-12-31,5003.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-01-31,5719.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-02-28,6267.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-03-31,6943.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-04-30,7579.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-05-31,8197.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-06-30,8810.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-07-31,9516.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-08-31,1174.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,10,Aube,2022-09-30,3519.0,Recrutements depuis le mois d'août précédent
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2019-03-31,25.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2019-06-30,25.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2019-09-30,47.0,%
@@ -137,10 +174,24 @@ Garantir l'égalité professionnelle entre les femmes et les hommes,Part des ent
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2021-06-30,91.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2021-09-30,100.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2021-12-31,100.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2022-03-31,79.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2022-06-30,92.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2022-09-30,92.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,10,Aube,2022-12-31,92.0,%
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-01-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-02-29,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-03-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-04-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-05-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-06-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-07-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-08-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-09-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-10-31,0.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-11-30,2.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2020-12-31,5.0,entreprises industrielles
-Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-01-31,5.0,entreprises industrielles
-Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-02-28,5.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-01-31,6.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-02-28,6.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-03-31,8.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-04-30,11.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-05-31,17.0,entreprises industrielles
@@ -151,8 +202,21 @@ Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (don
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-10-31,42.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-11-30,43.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2021-12-31,44.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-01-31,44.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-02-28,42.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-03-31,42.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-04-30,43.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-05-31,43.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-06-30,43.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-07-31,43.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-08-31,43.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-09-30,43.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-10-31,43.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-11-30,43.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,10,Aube,2022-12-31,43.0,entreprises industrielles
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,10,Aube,2017-12-31,1093.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,10,Aube,2018-12-31,1142.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,10,Aube,2019-12-31,1282.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,10,Aube,2020-12-31,1896.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,10,Aube,2021-12-31,2577.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,10,Aube,2022-10-31,2849.0,contrats

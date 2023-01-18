@@ -2,18 +2,19 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,27,Eure,2018-12-31,40238.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,27,Eure,2019-12-31,41119.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,27,Eure,2020-12-31,205109.0,bénéficiaires
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,27,Eure,2021-12-31,205109.0,bénéficiaires
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-01-31,1288.0,bénéficiaires *
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,27,Eure,2021-12-31,204408.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,27,Eure,2022-12-31,204408.0,bénéficiaires
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-01-31,1287.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-02-28,1277.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-03-31,1318.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-04-30,1305.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-05-31,1314.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-06-30,1344.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-07-31,1301.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-08-31,1229.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-09-30,1318.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-10-31,1343.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-11-30,1327.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-07-31,1300.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-08-31,1228.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-09-30,1317.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-10-31,1342.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-11-30,1326.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2017-12-31,1307.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2018-01-31,1284.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2018-02-28,1279.0,bénéficiaires *
@@ -50,29 +51,28 @@ Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéfi
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2020-09-30,1148.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2020-10-31,1144.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2020-11-30,1144.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2020-12-31,1149.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-01-31,1146.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-02-28,1171.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-03-31,1264.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-04-30,1283.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-05-31,1324.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-06-30,1210.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-07-31,1189.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-08-31,1108.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-09-30,1220.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-10-31,1427.0,bénéficiaires *
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-02-28,36.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-03-31,116.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-04-30,182.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-05-31,228.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-06-30,357.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-07-31,518.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-08-31,576.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-09-30,579.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-10-31,579.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-12-31,582.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-01-31,584.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-02-28,586.0,entreprises
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2020-12-31,1150.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-01-31,1147.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-02-28,1172.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-03-31,1265.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-04-30,1284.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-05-31,1321.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-06-30,1392.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-07-31,1364.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-08-31,1276.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-09-30,1368.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-10-31,1350.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-11-30,1333.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2021-12-31,1324.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-01-31,1338.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-02-28,1335.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-03-31,1405.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-04-30,1412.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-05-31,1431.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-06-30,1465.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-07-31,1451.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-08-31,1393.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,27,Eure,2022-09-30,1477.0,bénéficiaires *
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2021-01-31,76.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2021-02-28,91.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2021-03-31,94.0,entreprises
@@ -86,6 +86,32 @@ Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant dis
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2021-12-31,237.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-01-31,249.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-02-28,261.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-03-31,269.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-05-31,269.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-06-30,269.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-08-31,271.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-09-30,283.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-10-31,283.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,27,Eure,2022-11-30,283.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-02-28,36.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-03-31,116.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-04-30,182.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-05-31,228.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-06-30,357.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-07-31,518.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-08-31,576.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-09-30,579.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-10-31,579.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2021-12-31,582.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-01-31,584.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-02-28,586.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-03-31,583.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-05-31,583.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-06-30,583.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-08-31,583.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-09-30,583.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-10-31,583.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,27,Eure,2022-11-30,583.0,entreprises
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2018-08-31,1025.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2018-09-30,3918.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2018-10-31,5268.0,Recrutements depuis le mois d'août précédent
@@ -125,6 +151,17 @@ Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeu
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2021-08-31,1322.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2021-09-30,5240.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2021-10-31,6724.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2021-11-30,7826.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2021-12-31,8628.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-01-31,9612.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-02-28,10324.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-03-31,11209.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-04-30,12062.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-05-31,12980.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-06-30,13886.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-07-31,14985.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-08-31,1583.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,27,Eure,2022-09-30,5791.0,Recrutements depuis le mois d'août précédent
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2019-03-31,50.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2019-06-30,50.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2019-09-30,61.0,%
@@ -137,6 +174,20 @@ Garantir l'égalité professionnelle entre les femmes et les hommes,Part des ent
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2021-06-30,73.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2021-09-30,82.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2021-12-31,82.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2022-03-31,71.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2022-06-30,80.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2022-09-30,81.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,27,Eure,2022-12-31,81.0,%
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-01-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-02-29,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-03-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-04-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-05-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-06-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-07-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-08-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-09-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-10-31,0.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-11-30,2.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2020-12-31,10.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2021-01-31,13.0,entreprises industrielles
@@ -151,8 +202,21 @@ Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (don
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2021-10-31,121.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2021-11-30,123.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2021-12-31,123.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-01-31,124.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-02-28,114.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-03-31,114.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-04-30,114.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-05-31,114.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-06-30,114.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-07-31,115.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-08-31,115.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-09-30,115.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-10-31,115.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-11-30,115.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,27,Eure,2022-12-31,113.0,entreprises industrielles
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,27,Eure,2017-12-31,2756.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,27,Eure,2018-12-31,2844.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,27,Eure,2019-12-31,3276.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,27,Eure,2020-12-31,4075.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,27,Eure,2021-12-31,5005.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,27,Eure,2022-10-31,5742.0,contrats

@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,09,Ariège,1338,2022-02-28,0,2019-01-31,1338.0,,2577,52.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,09,Ariège,0,2021-12-31,0,2019-03-31,0.0,,168,0.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,09,Ariège,154,2021-12-31,0,2019-03-31,154.0,,393,39.0,2022-12-31,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,09,Ariège,2218.0,2022-12-31,0,2019-01-31,2218.0,,2577.0,86.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,09,Ariège,161.0,2022-12-31,0,2019-03-31,161.0,,168.0,96.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,09,Ariège,218.0,2022-12-31,0,2019-03-31,218.0,,393.0,55.0,2022-12-31,attestations

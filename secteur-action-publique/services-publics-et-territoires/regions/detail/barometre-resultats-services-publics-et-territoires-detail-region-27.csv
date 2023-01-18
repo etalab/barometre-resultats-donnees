@@ -1,8 +1,6 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,date,valeur,unite
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2020-01-31,1660.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2020-01-31,1660.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2020-12-31,2692.0,logements
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2020-12-31,2692.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2021-01-31,2695.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2021-01-31,2695.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2021-02-28,2732.0,logements
@@ -19,6 +17,12 @@ Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un acco
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2021-12-31,3860.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2022-02-28,3900.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2022-02-28,3900.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2022-03-31,3963.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2022-03-31,3963.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2022-06-30,4949.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2022-06-30,4949.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2022-09-30,5074.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,27,Bourgogne-Franche-Comté,2022-09-30,5074.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,27,Bourgogne-Franche-Comté,2020-10-31,56.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,27,Bourgogne-Franche-Comté,2020-11-30,90.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,27,Bourgogne-Franche-Comté,2020-12-31,225.0,logements rénovés
@@ -36,6 +40,8 @@ Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites v
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,27,Bourgogne-Franche-Comté,2021-12-31,744.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,27,Bourgogne-Franche-Comté,2022-01-31,744.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,27,Bourgogne-Franche-Comté,2022-02-28,772.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,27,Bourgogne-Franche-Comté,2022-03-31,879.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,27,Bourgogne-Franche-Comté,2022-06-30,1004.0,logements rénovés
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2020-01-31,29.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2020-02-29,46.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2020-03-31,46.0,labellisations
@@ -63,6 +69,15 @@ Déployer une offre France services dans tous les territoires ,Nombre de labelli
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-01-31,175.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-02-28,175.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-03-31,175.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-04-30,185.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-05-31,185.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-06-30,185.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-07-31,200.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-08-31,200.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-09-30,200.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-10-31,211.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-11-30,211.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,27,Bourgogne-Franche-Comté,2022-12-31,211.0,labellisations
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2017-12-31,14.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2018-03-31,15.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2018-06-30,17.0,% de déploiement
@@ -79,3 +94,7 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2021-03-31,42.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2021-06-30,45.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2021-09-30,47.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2021-12-31,52.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2022-03-31,55.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2022-06-30,59.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,27,Bourgogne-Franche-Comté,2022-09-30,63.0,% de déploiement

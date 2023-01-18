@@ -1,8 +1,6 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,date,valeur,unite
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,32,Hauts-de-France,2020-01-31,3885.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,32,Hauts-de-France,2020-01-31,3885.0,logements rénovés
-Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,32,Hauts-de-France,2020-12-31,5705.0,logements
-Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,32,Hauts-de-France,2020-12-31,5705.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,32,Hauts-de-France,2021-01-31,5839.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,32,Hauts-de-France,2021-01-31,5839.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,32,Hauts-de-France,2021-02-28,5889.0,logements
@@ -19,6 +17,12 @@ Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un acco
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,32,Hauts-de-France,2021-12-31,7764.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,32,Hauts-de-France,2022-02-28,7965.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,32,Hauts-de-France,2022-02-28,7965.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,32,Hauts-de-France,2022-03-31,7946.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,32,Hauts-de-France,2022-03-31,7946.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,32,Hauts-de-France,2022-06-30,9027.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,32,Hauts-de-France,2022-06-30,9027.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,32,Hauts-de-France,2022-09-30,9190.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,32,Hauts-de-France,2022-09-30,9190.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,32,Hauts-de-France,2020-10-31,54.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,32,Hauts-de-France,2020-11-30,101.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,32,Hauts-de-France,2020-12-31,170.0,logements rénovés
@@ -36,6 +40,8 @@ Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites v
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,32,Hauts-de-France,2021-12-31,795.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,32,Hauts-de-France,2022-01-31,795.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,32,Hauts-de-France,2022-02-28,868.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,32,Hauts-de-France,2022-03-31,1050.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,32,Hauts-de-France,2022-06-30,1213.0,logements rénovés
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2020-01-31,31.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2020-02-29,33.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2020-03-31,33.0,labellisations
@@ -63,6 +69,15 @@ Déployer une offre France services dans tous les territoires ,Nombre de labelli
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-01-31,142.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-02-28,142.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-03-31,142.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-04-30,156.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-05-31,156.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-06-30,156.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-07-31,174.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-08-31,174.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-09-30,174.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-10-31,184.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-11-30,184.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,32,Hauts-de-France,2022-12-31,184.0,labellisations
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2017-12-31,22.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2018-03-31,25.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2018-06-30,30.0,% de déploiement
@@ -79,3 +94,7 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2021-03-31,82.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2021-06-30,84.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2021-09-30,86.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2021-12-31,89.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2022-03-31,89.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2022-06-30,90.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,32,Hauts-de-France,2022-09-30,91.0,% de déploiement

@@ -2,7 +2,8 @@ mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2018-12-31,16457.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2019-12-31,16557.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2020-12-31,59110.0,bénéficiaires
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2021-12-31,59110.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2021-12-31,59220.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2022-12-31,59220.0,bénéficiaires
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2017-01-31,494.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2017-02-28,526.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2017-03-31,534.0,bénéficiaires *
@@ -55,24 +56,23 @@ Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéfi
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-02-28,497.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-03-31,540.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-04-30,522.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-05-31,541.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-06-30,544.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-07-31,566.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-08-31,522.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-09-30,533.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-10-31,590.0,bénéficiaires *
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-02-28,8.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-03-31,31.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-04-30,47.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-05-31,68.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-06-30,112.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-07-31,179.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-08-31,211.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-09-30,212.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-10-31,212.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-12-31,212.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-01-31,212.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-02-28,213.0,entreprises
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-05-31,539.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-06-30,542.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-07-31,562.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-08-31,533.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-09-30,544.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-10-31,549.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-11-30,539.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-12-31,508.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-01-31,476.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-02-28,472.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-03-31,488.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-04-30,507.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-05-31,514.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-06-30,529.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-07-31,531.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-08-31,505.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-09-30,511.0,bénéficiaires *
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2021-01-31,10.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2021-02-28,13.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2021-03-31,29.0,entreprises
@@ -86,6 +86,32 @@ Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant dis
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2021-12-31,87.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-01-31,91.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-02-28,93.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-03-31,107.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-05-31,117.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-06-30,127.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-08-31,129.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-09-30,139.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-10-31,150.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-11-30,150.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-02-28,8.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-03-31,31.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-04-30,47.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-05-31,68.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-06-30,112.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-07-31,179.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-08-31,211.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-09-30,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-10-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-12-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-01-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-02-28,213.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-03-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-05-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-06-30,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-08-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-09-30,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-10-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-11-30,212.0,entreprises
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2018-08-31,228.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2018-09-30,788.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2018-10-31,1028.0,Recrutements depuis le mois d'août précédent
@@ -125,6 +151,17 @@ Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeu
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-08-31,381.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-09-30,1197.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-10-31,1497.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-11-30,1762.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-12-31,1959.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-01-31,2205.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-02-28,2392.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-03-31,2594.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-04-30,2795.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-05-31,3075.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-06-30,3349.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-07-31,3694.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-08-31,340.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-09-30,1258.0,Recrutements depuis le mois d'août précédent
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2019-09-30,56.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2019-12-31,100.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2020-03-31,72.0,%
@@ -135,6 +172,20 @@ Garantir l'égalité professionnelle entre les femmes et les hommes,Part des ent
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2021-06-30,83.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2021-09-30,91.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2021-12-31,91.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2022-03-31,71.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2022-06-30,90.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2022-09-30,91.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2022-12-31,91.0,%
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-01-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-02-29,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-03-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-04-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-05-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-06-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-07-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-08-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-09-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-10-31,0.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-11-30,1.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-12-31,2.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2021-01-31,2.0,entreprises industrielles
@@ -149,8 +200,21 @@ Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (don
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2021-10-31,24.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2021-11-30,24.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2021-12-31,24.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-01-31,24.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-02-28,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-03-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-04-30,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-05-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-06-30,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-07-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-08-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-09-30,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-10-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-11-30,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-12-31,22.0,entreprises industrielles
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2017-12-31,571.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2018-12-31,614.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2019-12-31,652.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2020-12-31,826.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2021-12-31,1144.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2022-10-31,1381.0,contrats

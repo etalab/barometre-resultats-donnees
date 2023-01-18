@@ -1,10 +1,23 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2021-03-31,62.0,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2021-09-30,62.0,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2021-11-30,62.0,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2022-01-31,63.0,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,15,Cantal,2021-06-30,7.0,% de détenus
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,15,Cantal,2021-09-30,7.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,15,Cantal,2021-06-30,7.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,15,Cantal,2021-09-30,7.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,15,Cantal,2021-12-31,8.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,15,Cantal,2022-03-31,6.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,15,Cantal,2022-06-30,8.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,15,Cantal,2022-09-30,8.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2021-03-31,62.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2021-09-30,62.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2021-11-30,62.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2022-01-31,63.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2022-03-31,71.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2022-06-30,80.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2022-09-30,67.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2022-11-30,71.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,15,Cantal,2022-12-31,71.0,postes
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,15,Cantal,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,15,Cantal,2021-10-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,15,Cantal,2021-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,15,Cantal,2022-12-31,21.0,enfants
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2019-03-31,0.0,attestations
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2019-04-30,0.0,attestations
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2020-11-30,0.0,attestations
@@ -15,9 +28,10 @@ Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attest
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2021-06-30,29.0,attestations
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2021-09-30,29.0,attestations
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2021-12-31,43.0,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,15,Cantal,2020-12-31,0.0,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,15,Cantal,2021-10-31,0.0,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,15,Cantal,2021-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2022-03-31,43.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2022-06-30,111.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2022-09-30,137.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,15,Cantal,2022-12-31,259.0,attestations
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2019-02-28,0.0,utilisateurs
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2019-03-31,0.0,utilisateurs
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2019-04-30,0.0,utilisateurs
@@ -55,6 +69,16 @@ Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-u
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2021-12-31,1036.0,utilisateurs
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-01-31,1105.0,utilisateurs
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-02-28,1177.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-03-31,1266.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-04-30,1329.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-05-31,1400.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-06-30,1471.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-07-31,1553.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-08-31,1638.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-09-30,1729.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-10-31,1804.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-11-30,1870.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,15,Cantal,2022-12-31,1964.0,utilisateurs
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2017-12-31,93.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2018-12-31,95.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2019-12-31,95.0,kilomètres
@@ -64,10 +88,15 @@ Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-ame
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2021-06-30,106.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2021-09-30,105.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2021-12-31,107.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2022-03-31,106.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2022-06-30,108.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2022-09-30,108.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,15,Cantal,2022-12-31,105.0,kilomètres
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2018-12-31,16457.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2019-12-31,16557.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2020-12-31,59110.0,bénéficiaires
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2021-12-31,59110.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2021-12-31,59220.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,15,Cantal,2022-12-31,59220.0,bénéficiaires
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2020-04-30,1.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2020-05-31,15.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2020-06-30,23.0,dossiers validés
@@ -90,8 +119,21 @@ MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valide
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2021-11-30,2310.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2021-12-31,2561.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-01-31,2708.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-02-28,2911.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-03-31,3116.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-04-30,3341.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-05-31,3528.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-06-30,3738.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-07-31,3926.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-08-31,4092.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-09-30,4284.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,15,Cantal,2022-10-31,4443.0,dossiers validés
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,15,Cantal,2021-06-30,2.87,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,15,Cantal,2021-09-30,3.2,mois de traitement
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,15,Cantal,2021-12-31,3.5,mois de traitement
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,15,Cantal,2022-03-31,3.66,mois de traitement
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,15,Cantal,2022-06-30,3.06,mois de traitement
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,15,Cantal,2022-09-30,2.96,mois de traitement
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2017-01-31,494.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2017-02-28,526.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2017-03-31,534.0,bénéficiaires *
@@ -144,24 +186,23 @@ Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéfi
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-02-28,497.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-03-31,540.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-04-30,522.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-05-31,541.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-06-30,544.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-07-31,566.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-08-31,522.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-09-30,533.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-10-31,590.0,bénéficiaires *
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-02-28,8.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-03-31,31.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-04-30,47.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-05-31,68.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-06-30,112.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-07-31,179.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-08-31,211.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-09-30,212.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-10-31,212.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-12-31,212.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-01-31,212.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-02-28,213.0,entreprises
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-05-31,539.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-06-30,542.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-07-31,562.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-08-31,533.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-09-30,544.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-10-31,549.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-11-30,539.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2021-12-31,508.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-01-31,476.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-02-28,472.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-03-31,488.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-04-30,507.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-05-31,514.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-06-30,529.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-07-31,531.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-08-31,505.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,15,Cantal,2022-09-30,511.0,bénéficiaires *
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2021-01-31,10.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2021-02-28,13.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2021-03-31,29.0,entreprises
@@ -175,6 +216,32 @@ Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant dis
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2021-12-31,87.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-01-31,91.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-02-28,93.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-03-31,107.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-05-31,117.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-06-30,127.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-08-31,129.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-09-30,139.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-10-31,150.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,15,Cantal,2022-11-30,150.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-02-28,8.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-03-31,31.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-04-30,47.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-05-31,68.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-06-30,112.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-07-31,179.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-08-31,211.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-09-30,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-10-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2021-12-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-01-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-02-28,213.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-03-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-05-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-06-30,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-08-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-09-30,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-10-31,212.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,15,Cantal,2022-11-30,212.0,entreprises
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2017-12-31,42.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2018-01-31,0.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2018-02-28,0.0,personnes dans l'année*
@@ -224,6 +291,17 @@ Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes san
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2021-10-31,117.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2021-11-30,130.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2021-12-31,139.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-01-31,2.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-02-28,13.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-03-31,7.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-04-30,20.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-05-31,35.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-06-30,48.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-07-31,46.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-08-31,53.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-09-30,73.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-10-31,77.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,15,Cantal,2022-11-30,92.0,personnes dans l'année*
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2020-12-31,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2021-01-31,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2021-02-28,0.0,contrôles
@@ -238,9 +316,17 @@ Lutter contre les atteintes aux principes républicains,Nombre de contrôles ré
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2021-11-30,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2021-12-31,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-01-31,0.0,contrôles
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,15,Cantal,2020-12-31,0.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,15,Cantal,2021-06-30,0.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,15,Cantal,2021-12-31,0.0,centres de santé
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-02-28,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-03-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-04-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-05-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-06-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-07-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-08-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-09-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-10-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-11-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,15,Cantal,2022-12-31,0.0,contrôles
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,15,Cantal,2017-06-30,7.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,15,Cantal,2017-12-31,9.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,15,Cantal,2018-06-30,9.0,maisons de santé
@@ -251,9 +337,15 @@ Doubler le nombre de maisons de santé et de centres de santé dans les territoi
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,15,Cantal,2020-12-31,10.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,15,Cantal,2021-06-30,10.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,15,Cantal,2021-12-31,12.0,maisons de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,15,Cantal,2022-06-30,12.0,maisons de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,15,Cantal,2022-12-31,13.0,maisons de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,15,Cantal,2020-12-31,0.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,15,Cantal,2021-06-30,0.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,15,Cantal,2021-12-31,0.0,centres de santé
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,15,Cantal,2017-10-31,48.1,% de réussite
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,15,Cantal,2019-10-31,53.1,% de réussite
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,15,Cantal,2020-10-31,60.8,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,15,Cantal,2021-10-31,56.7,% de réussite
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2020-09-30,0.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2020-10-31,0.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2020-11-30,0.0,bénéficiaires
@@ -270,14 +362,28 @@ Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant i
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2021-10-31,14.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2021-11-30,18.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2021-12-31,19.0,bénéficiaires
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2017-12-31,294.0,agriculteurs
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2018-12-31,308.0,agriculteurs
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2019-12-31,341.0,agriculteurs
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2020-12-31,364.0,agriculteurs
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-01-31,20.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-02-28,22.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-03-31,25.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-04-30,25.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-05-31,26.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-06-30,28.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-07-31,28.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-08-31,30.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-09-30,32.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-10-31,34.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-11-30,34.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,15,Cantal,2022-12-31,34.0,bénéficiaires
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,15,Cantal,2017-12-31,5.9,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,15,Cantal,2018-12-31,6.3,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,15,Cantal,2019-12-31,7.0,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,15,Cantal,2020-12-31,6.9,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,15,Cantal,2021-12-31,7.3,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2017-12-31,294.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2018-12-31,308.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2019-12-31,341.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2020-12-31,364.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,15,Cantal,2021-12-31,433.0,agriculteurs
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,15,Cantal,2017-06-30,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,15,Cantal,2017-12-31,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,15,Cantal,2018-06-30,0.0,habitants
@@ -288,16 +394,20 @@ Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gasp
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,15,Cantal,2020-12-31,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,15,Cantal,2021-06-30,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,15,Cantal,2021-12-31,0.0,habitants
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,15,Cantal,2022-06-30,0.0,habitants
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,15,Cantal,2022-12-31,150000.0,habitants
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,15,Cantal,2017-09-30,25.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,15,Cantal,2018-09-30,26.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,15,Cantal,2019-09-30,24.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,15,Cantal,2020-09-30,26.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,15,Cantal,2021-09-30,26.0,unités
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,15,Cantal,2022-09-30,26.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,15,Cantal,2017-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,15,Cantal,2018-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,15,Cantal,2019-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,15,Cantal,2020-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,15,Cantal,2021-09-30,1.0,classes
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,15,Cantal,2022-09-30,2.0,classes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,15,Cantal,2017-03-31,120.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,15,Cantal,2017-06-30,146.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,15,Cantal,2017-09-30,201.0,jeunes
@@ -319,66 +429,7 @@ Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,15,Cantal,2021-09-30,260.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,15,Cantal,2021-12-31,360.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,15,Cantal,2022-03-31,165.0,jeunes
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-01-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-02-28,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-03-31,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-04-30,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-05-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-06-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-07-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-08-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-09-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-10-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-11-30,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-12-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-01-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-02-28,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-03-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-04-30,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-05-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-06-30,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-07-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-08-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-09-30,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-10-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-11-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-12-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-01-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-02-28,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-03-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-04-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-05-31,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-06-30,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-07-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-08-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-09-30,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-10-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-11-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-12-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-01-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-02-29,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-03-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-04-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-05-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-06-30,8.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-07-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-08-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-09-30,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-10-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-11-30,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-12-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-01-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-02-28,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-03-31,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-04-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-05-31,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-06-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-07-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-08-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-09-30,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-10-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-11-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-12-31,-13.0,atteintes aux biens dans l'année
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,15,Cantal,2022-06-30,182.0,jeunes
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,15,Cantal,2017-01-31,0.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,15,Cantal,2017-02-28,2.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,15,Cantal,2017-03-31,0.0,atteintes aux personnes dans l'année
@@ -439,12 +490,73 @@ Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,15,Cantal,2021-10-31,5.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,15,Cantal,2021-11-30,0.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,15,Cantal,2021-12-31,-20.0,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-01-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-02-28,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-03-31,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-04-30,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-05-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-06-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-07-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-08-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-09-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-10-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-11-30,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2017-12-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-01-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-02-28,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-03-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-04-30,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-05-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-06-30,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-07-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-08-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-09-30,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-10-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-11-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2018-12-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-01-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-02-28,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-03-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-04-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-05-31,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-06-30,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-07-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-08-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-09-30,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-10-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-11-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2019-12-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-01-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-02-29,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-03-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-04-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-05-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-06-30,8.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-07-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-08-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-09-30,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-10-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-11-30,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2020-12-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-01-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-02-28,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-03-31,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-04-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-05-31,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-06-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-07-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-08-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-09-30,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-10-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-11-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,15,Cantal,2021-12-31,-13.0,atteintes aux biens dans l'année
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,2017-12-31,262553.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,2018-12-31,256291.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,2019-12-31,224974.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,2020-12-31,254109.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,2021-12-31,226516.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,2022-01-31,245345.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,15,Cantal,2022-10-31,240543.0,heures de patrouille sur douze mois *
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2018-08-31,228.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2018-09-30,788.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2018-10-31,1028.0,Recrutements depuis le mois d'août précédent
@@ -484,24 +596,35 @@ Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeu
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-08-31,381.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-09-30,1197.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-10-31,1497.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-11-30,1762.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2021-12-31,1959.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-01-31,2205.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-02-28,2392.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-03-31,2594.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-04-30,2795.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-05-31,3075.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-06-30,3349.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-07-31,3694.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-08-31,340.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,15,Cantal,2022-09-30,1258.0,Recrutements depuis le mois d'août précédent
 Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,15,Cantal,2021-03-31,0.0,% des demandes *
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2017-09-30,3.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2017-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2017-12-31,3.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2018-03-31,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2018-06-30,5.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2018-09-30,6.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2018-09-30,11.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2018-12-31,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2019-03-31,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2019-06-30,5.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2019-09-30,4.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2019-12-31,4.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2019-09-30,9.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2019-12-31,13.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2020-03-31,6.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2020-06-30,8.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2020-09-30,7.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2020-12-31,5.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2020-06-30,14.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2020-09-30,21.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2020-12-31,26.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2021-03-31,8.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2021-06-30,0.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2021-09-30,5.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,15,Cantal,2021-09-30,13.0,ordonnances dans l'année
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,15,Cantal,2020-01-31,231.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,15,Cantal,2020-01-31,231.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,15,Cantal,2021-01-31,475.0,logements
@@ -520,6 +643,12 @@ Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un acco
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,15,Cantal,2021-12-31,672.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,15,Cantal,2022-02-28,679.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,15,Cantal,2022-02-28,679.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,15,Cantal,2022-03-31,712.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,15,Cantal,2022-03-31,712.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,15,Cantal,2022-06-30,1080.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,15,Cantal,2022-06-30,1080.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,15,Cantal,2022-09-30,1148.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,15,Cantal,2022-09-30,1148.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,15,Cantal,2020-10-31,8.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,15,Cantal,2020-11-30,20.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,15,Cantal,2020-12-31,61.0,logements rénovés
@@ -537,6 +666,8 @@ Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites v
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,15,Cantal,2021-12-31,321.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,15,Cantal,2022-01-31,321.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,15,Cantal,2022-02-28,346.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,15,Cantal,2022-03-31,386.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,15,Cantal,2022-06-30,454.0,logements rénovés
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2020-01-31,3.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2020-02-29,6.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2020-03-31,6.0,labellisations
@@ -564,6 +695,40 @@ Déployer une offre France services dans tous les territoires ,Nombre de labelli
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-01-31,15.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-02-28,15.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-03-31,15.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-04-30,16.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-05-31,16.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-06-30,16.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-07-31,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-08-31,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-09-30,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-10-31,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-11-30,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,15,Cantal,2022-12-31,18.0,labellisations
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2019-09-30,25.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2019-12-31,29.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-03-31,29.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-06-30,29.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-09-30,45.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-11-30,42.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-12-31,42.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-03-31,61.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-06-30,69.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-07-31,69.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-10-31,74.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-11-30,55.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-12-31,57.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-01-31,61.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-02-28,60.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-03-31,62.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-04-30,72.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-05-31,73.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-06-30,75.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-07-31,78.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-08-31,88.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-09-30,88.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-10-31,93.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-11-30,95.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-12-31,95.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2018-01-31,0.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2018-03-31,80.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2018-06-30,352.0,primes et bonus
@@ -588,20 +753,17 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2021-11-30,3728.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2021-12-31,3787.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-01-31,3818.0,primes et bonus
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2019-09-30,25.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2019-12-31,29.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-03-31,29.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-06-30,29.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-09-30,45.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-11-30,42.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2020-12-31,42.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-03-31,61.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-06-30,69.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-07-31,69.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-10-31,74.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-11-30,55.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2021-12-31,57.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,15,Cantal,2022-01-31,61.0,bornes de recharge
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-02-28,3904.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-03-31,3966.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-04-30,3999.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-05-31,4050.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-06-30,4104.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-07-31,4145.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-08-31,4196.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-09-30,4231.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-10-31,4279.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-11-30,4335.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,15,Cantal,2022-12-31,4428.0,primes et bonus
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2017-12-31,21.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2018-03-31,22.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2018-06-30,25.0,% de déploiement
@@ -618,6 +780,10 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2021-03-31,53.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2021-06-30,57.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2021-09-30,61.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2021-12-31,64.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2022-03-31,68.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2022-06-30,70.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,15,Cantal,2022-09-30,73.0,% de déploiement
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2018-03-31,110.0,pères / conjoints dans l'année
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2018-06-30,109.0,pères / conjoints dans l'année
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2018-09-30,124.0,pères / conjoints dans l'année
@@ -632,8 +798,11 @@ Allonger le congé paternité pour un meilleur développement de l’enfant,Nomb
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2020-12-31,106.0,pères / conjoints dans l'année
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2021-03-31,105.0,pères / conjoints dans l'année
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2021-06-30,112.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2021-09-30,139.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2021-12-31,116.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2021-09-30,140.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2021-12-31,137.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2022-03-31,117.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2022-06-30,129.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,15,Cantal,2022-09-30,123.0,pères / conjoints dans l'année
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2020-12-31,2.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2021-01-31,3.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2021-02-28,5.0,familles
@@ -649,14 +818,109 @@ Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéfic
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2021-12-31,70.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-01-31,82.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-02-28,87.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-03-31,95.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-04-30,95.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-05-31,106.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-07-31,127.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-08-31,115.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-09-30,119.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,15,Cantal,2022-10-31,125.0,familles
 Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,15,Cantal,2017-12-31,7.0,% de réseaux
 Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,15,Cantal,2018-12-31,28.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,15,Cantal,2019-12-31,74.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,15,Cantal,2019-12-31,22.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,15,Cantal,2020-12-31,22.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,15,Cantal,2021-12-31,38.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,15,Cantal,2022-12-31,84.0,% de réseaux
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,15,Cantal,2017-12-31,0.0,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,15,Cantal,2018-12-31,98.6,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,15,Cantal,2019-12-31,99.73,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,15,Cantal,2020-12-31,99.64,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,15,Cantal,2021-12-31,99.84,%
+Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,15,Cantal,2022-12-31,99.86,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-01-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-02-28,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-03-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-04-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-05-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-06-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-07-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-08-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-09-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-10-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-11-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-12-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-01-31,9.8,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-02-29,10.82,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-03-31,12.37,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-04-30,6.71,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-05-31,9.22,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-06-30,8.32,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-07-31,8.96,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-08-31,7.83,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-09-30,10.19,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-10-31,9.88,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-11-30,11.36,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-12-31,9.99,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-01-31,10.82,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-02-28,10.03,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-03-31,9.44,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-04-30,9.51,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-05-31,9.82,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-06-30,10.76,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-07-31,9.89,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-08-31,9.72,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-09-30,10.42,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-10-31,10.68,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-11-30,10.52,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-12-31,10.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2022-01-31,11.98,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2022-02-28,11.89,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2022-03-31,11.47,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2022-04-30,11.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2022-05-31,11.58,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2022-06-30,11.84,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-01-31,22.31,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-02-28,31.75,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-03-31,22.84,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-04-30,25.27,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-05-31,26.32,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-06-30,21.47,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-07-31,22.06,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-08-31,26.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-09-30,27.08,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-10-31,21.83,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-11-30,18.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-12-31,12.18,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-01-31,20.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-02-29,15.14,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-03-31,6.03,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-04-30,20.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-05-31,23.48,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-06-30,18.82,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-07-31,8.05,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-08-31,24.86,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-09-30,24.14,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-10-31,12.65,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-11-30,12.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-12-31,10.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-01-31,33.33,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-02-28,35.75,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-03-31,43.17,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-04-30,46.94,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-05-31,41.7,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-06-30,46.62,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-07-31,42.34,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-08-31,38.56,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-09-30,42.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-10-31,46.44,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-11-30,41.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-12-31,41.29,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2022-01-31,37.84,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2022-02-28,39.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2022-03-31,41.69,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2022-04-30,45.53,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2022-05-31,45.69,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2022-06-30,47.19,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2019-01-31,0.0,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2019-02-28,0.0,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2019-03-31,0.0,%
@@ -690,72 +954,15 @@ Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les dé
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2021-07-31,73.18,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2021-08-31,74.02,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2021-09-30,75.55,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-01-31,22.31,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-02-28,31.75,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-03-31,22.84,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-04-30,25.27,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-05-31,26.32,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-06-30,21.47,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-07-31,22.06,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-08-31,26.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-09-30,27.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-10-31,21.83,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-11-30,18.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2019-12-31,12.18,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-01-31,20.5,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-02-29,15.14,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-03-31,6.03,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-04-30,20.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-05-31,23.48,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-06-30,18.82,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-07-31,8.05,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-08-31,25.14,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-09-30,24.14,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-10-31,12.65,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-11-30,12.38,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2020-12-31,10.5,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-01-31,33.33,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-02-28,35.03,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-03-31,43.32,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-04-30,46.94,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-05-31,41.56,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-06-30,46.93,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-07-31,42.32,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-08-31,39.34,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,15,Cantal,2021-09-30,40.37,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-01-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-02-28,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-03-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-04-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-05-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-06-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-07-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-08-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-09-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-10-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-11-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2019-12-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-01-31,9.81,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-02-29,10.82,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-03-31,12.18,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-04-30,6.71,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-05-31,9.23,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-06-30,8.34,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-07-31,8.94,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-08-31,7.83,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-09-30,10.27,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-10-31,9.91,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-11-30,11.3,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2020-12-31,9.91,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-01-31,10.76,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-02-28,9.84,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-03-31,9.41,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-04-30,9.49,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-05-31,9.74,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-06-30,10.38,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-07-31,10.62,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-08-31,10.49,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,15,Cantal,2021-09-30,10.67,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2021-10-31,73.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2021-11-30,75.48,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2021-12-31,71.56,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2022-01-31,72.64,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2022-02-28,73.44,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2022-03-31,73.27,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2022-04-30,76.45,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2022-05-31,73.93,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,15,Cantal,2022-06-30,72.49,%
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2020-08-31,0.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2020-09-30,16.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2020-10-31,9.0,amendes dressées
@@ -773,6 +980,18 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2021-10-31,5.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2021-11-30,55.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2021-12-31,-44.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-01-31,11.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-02-28,2.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-03-31,3.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-04-30,1.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-05-31,10.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-06-30,6.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-07-31,4.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-08-31,40.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-09-30,8.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-10-31,5.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-11-30,6.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,15,Cantal,2022-12-31,4.0,amendes dressées
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2019-09-30,56.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2019-12-31,100.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2020-03-31,72.0,%
@@ -783,9 +1002,24 @@ Garantir l'égalité professionnelle entre les femmes et les hommes,Part des ent
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2021-06-30,83.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2021-09-30,91.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2021-12-31,91.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2022-03-31,71.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2022-06-30,90.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2022-09-30,91.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,15,Cantal,2022-12-31,91.0,%
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,15,Cantal,2019-09-30,94.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,15,Cantal,2020-09-30,93.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,15,Cantal,2021-09-30,97.0,% des classes
+"Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,15,Cantal,2022-09-30,97.0,% des classes
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-01-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-02-29,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-03-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-04-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-05-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-06-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-07-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-08-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-09-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-10-31,0.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-11-30,1.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2020-12-31,2.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2021-01-31,2.0,entreprises industrielles
@@ -800,73 +1034,98 @@ Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (don
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2021-10-31,24.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2021-11-30,24.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2021-12-31,24.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-01-31,24.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-02-28,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-03-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-04-30,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-05-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-06-30,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-07-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-08-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-09-30,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-10-31,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-11-30,23.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,15,Cantal,2022-12-31,22.0,entreprises industrielles
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,15,Cantal,2018-03-31,26.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,15,Cantal,2019-03-31,31.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,15,Cantal,2019-09-30,32.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,15,Cantal,2020-09-30,32.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,15,Cantal,2021-09-30,32.0,% de collégiens
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-01-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-02-28,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-03-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-04-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-05-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-06-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-07-31,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-08-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-09-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-10-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-11-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-12-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-01-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-02-28,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-03-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-04-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-05-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-06-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-07-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-08-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-09-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-10-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-11-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-12-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-01-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-02-28,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-03-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-04-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-05-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-06-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-07-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-08-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-09-30,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-10-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-11-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-12-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-01-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-02-29,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-03-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-04-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-05-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-06-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-07-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-08-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-09-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-10-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-11-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-12-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-01-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-02-28,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-03-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-04-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-05-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-06-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-07-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-08-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-09-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-10-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-11-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-12-31,1.0,morts
+Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,15,Cantal,2022-09-30,37.0,% de collégiens
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-02-28,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-03-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-05-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-06-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-07-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-09-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-10-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-11-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2017-12-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-02-28,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-03-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-05-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-06-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-07-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-09-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-10-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-11-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2018-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-01-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-02-28,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-03-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-05-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-06-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-07-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-08-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-09-30,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-10-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-11-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2019-12-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-02-29,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-03-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-05-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-06-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-07-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-09-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-10-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-11-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2020-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-02-28,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-03-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-05-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-06-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-07-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-08-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-09-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-10-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-11-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2021-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-01-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-02-28,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-03-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-05-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-06-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-07-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-09-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-10-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,15,Cantal,2022-11-30,1.0,morts dans l'année
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2017-12-31,571.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2018-12-31,614.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2019-12-31,652.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2020-12-31,826.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2021-12-31,1144.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,15,Cantal,2022-10-31,1381.0,contrats

@@ -1,10 +1,23 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2021-03-31,139.0,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2021-09-30,144.0,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2021-11-30,148.0,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2022-01-31,160.0,postes
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,43,Haute-Loire,2021-06-30,7.0,% de détenus
-Lutter contre la récidive par une meilleure insertion professionnelle des condamnés,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,43,Haute-Loire,2021-09-30,7.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,43,Haute-Loire,2021-06-30,7.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,43,Haute-Loire,2021-09-30,7.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,43,Haute-Loire,2021-12-31,8.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,43,Haute-Loire,2022-03-31,6.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,43,Haute-Loire,2022-06-30,8.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Taux de personnes détenues ayant bénéficié d'une formation dans l'année,tx-detenus-formation,43,Haute-Loire,2022-09-30,8.0,% de détenus
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2021-03-31,139.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2021-09-30,144.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2021-11-30,148.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2022-01-31,160.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2022-03-31,154.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2022-06-30,155.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2022-09-30,154.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2022-11-30,155.0,postes
+Lutter contre la récidive par une meilleure insertion professionnelle des personnes placées sous main de justice,Postes de travail d’intérêt général proposés sur l’ensemble du territoire national en tant que peine,nb-postes-tig,43,Haute-Loire,2022-12-31,159.0,postes
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,43,Haute-Loire,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,43,Haute-Loire,2021-10-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,43,Haute-Loire,2021-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,43,Haute-Loire,2022-12-31,20.0,enfants
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2019-03-31,0.0,attestations
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2019-04-30,0.0,attestations
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2020-11-30,0.0,attestations
@@ -15,9 +28,10 @@ Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attest
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2021-06-30,22.0,attestations
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2021-09-30,22.0,attestations
 Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2021-12-31,321.0,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,43,Haute-Loire,2020-12-31,0.0,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,43,Haute-Loire,2021-10-31,0.0,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,43,Haute-Loire,2021-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2022-03-31,327.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2022-06-30,606.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2022-09-30,653.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,43,Haute-Loire,2022-12-31,653.0,attestations
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2019-02-28,0.0,utilisateurs
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2019-03-31,0.0,utilisateurs
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2019-04-30,0.0,utilisateurs
@@ -55,6 +69,16 @@ Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-u
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2021-12-31,2085.0,utilisateurs
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-01-31,2248.0,utilisateurs
 Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-02-28,2357.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-03-31,2562.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-04-30,2704.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-05-31,2861.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-06-30,3003.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-07-31,3153.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-08-31,3353.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-09-30,3561.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-10-31,3725.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-11-30,3848.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,43,Haute-Loire,2022-12-31,4019.0,utilisateurs
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2017-12-31,158.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2018-12-31,147.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2019-12-31,142.0,kilomètres
@@ -64,10 +88,15 @@ Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-ame
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2021-06-30,171.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2021-09-30,172.0,kilomètres
 Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2021-12-31,166.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2022-03-31,166.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2022-06-30,162.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2022-09-30,161.0,kilomètres
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,43,Haute-Loire,2022-12-31,161.0,kilomètres
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,43,Haute-Loire,2018-12-31,21759.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,43,Haute-Loire,2019-12-31,22039.0,bénéficiaires
 Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,43,Haute-Loire,2020-12-31,89823.0,bénéficiaires
-Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,43,Haute-Loire,2021-12-31,89823.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,43,Haute-Loire,2021-12-31,90047.0,bénéficiaires
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,43,Haute-Loire,2022-12-31,90047.0,bénéficiaires
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2020-04-30,1.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2020-05-31,33.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2020-06-30,83.0,dossiers validés
@@ -90,6 +119,15 @@ MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valide
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2021-11-30,5184.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2021-12-31,5691.0,dossiers validés
 MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-01-31,6000.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-02-28,6346.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-03-31,6716.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-04-30,7138.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-05-31,7528.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-06-30,7944.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-07-31,8297.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-08-31,8718.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-09-30,9708.0,dossiers validés
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,43,Haute-Loire,2022-10-31,10745.0,dossiers validés
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2017-12-31,3.6,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2018-12-31,3.7,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2019-12-31,5.0,mois de traitement
@@ -98,6 +136,10 @@ Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de tr
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2021-03-31,2.61,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2021-06-30,2.51,mois de traitement
 Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2021-09-30,3.7,mois de traitement
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2021-12-31,2.9,mois de traitement
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2022-03-31,2.59,mois de traitement
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2022-06-30,2.53,mois de traitement
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,43,Haute-Loire,2022-09-30,3.1,mois de traitement
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2017-01-31,535.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2017-02-28,518.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2017-03-31,535.0,bénéficiaires *
@@ -150,24 +192,23 @@ Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéfi
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-02-28,585.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-03-31,602.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-04-30,601.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-05-31,604.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-05-31,603.0,bénéficiaires *
 Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-06-30,620.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-07-31,626.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-08-31,587.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-09-30,578.0,bénéficiaires *
-Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-10-31,630.0,bénéficiaires *
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-02-28,14.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-03-31,47.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-04-30,65.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-05-31,81.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-06-30,164.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-07-31,240.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-08-31,291.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-09-30,292.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-10-31,292.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-12-31,292.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-01-31,292.0,entreprises
-Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-02-28,294.0,entreprises
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-07-31,624.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-08-31,584.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-09-30,604.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-10-31,598.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-11-30,608.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2021-12-31,605.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-01-31,603.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-02-28,610.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-03-31,631.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-04-30,646.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-05-31,671.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-06-30,679.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-07-31,688.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-08-31,642.0,bénéficiaires *
+Pacte d'ambition pour l'insertion par l'activité économique,Nombre de bénéficiaires en structures d'insertion par l'activité économique,nb-beneficiaires-siae,43,Haute-Loire,2022-09-30,716.0,bénéficiaires *
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2021-01-31,12.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2021-02-28,27.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2021-03-31,36.0,entreprises
@@ -181,6 +222,32 @@ Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant dis
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2021-12-31,120.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-01-31,122.0,entreprises
 Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-02-28,127.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-03-31,134.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-05-31,135.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-06-30,139.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-08-31,140.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-09-30,140.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-10-31,167.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant disposé d'un diagnostic numérique et d'un plan d'action individualisé,nb-diagnostics-individualises,43,Haute-Loire,2022-11-30,167.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-02-28,14.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-03-31,47.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-04-30,65.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-05-31,81.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-06-30,164.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-07-31,240.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-08-31,291.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-09-30,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-10-31,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2021-12-31,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-01-31,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-02-28,294.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-03-31,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-05-31,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-06-30,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-08-31,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-09-30,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-10-31,292.0,entreprises
+Numérisation des petites et moyennes entreprises,Nombre d'entreprises ayant bénéficié d'un chèque numérique de 500€,nb-entreprises-cheaque-numerique,43,Haute-Loire,2022-11-30,292.0,entreprises
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2017-12-31,90.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2018-01-31,0.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2018-02-28,0.0,personnes dans l'année*
@@ -230,7 +297,18 @@ Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes san
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2021-10-31,75.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2021-11-30,86.0,personnes dans l'année*
 Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2021-12-31,112.0,personnes dans l'année*
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2020-12-31,0.0,contrôles
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-01-31,26.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-02-28,40.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-03-31,51.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-04-30,97.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-05-31,123.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-06-30,136.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-07-31,139.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-08-31,145.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-09-30,147.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-10-31,150.0,personnes dans l'année*
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,43,Haute-Loire,2022-11-30,163.0,personnes dans l'année*
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2020-12-31,-18.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2021-01-31,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2021-02-28,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2021-03-31,0.0,contrôles
@@ -244,12 +322,17 @@ Lutter contre les atteintes aux principes républicains,Nombre de contrôles ré
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2021-11-30,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2021-12-31,0.0,contrôles
 Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-01-31,0.0,contrôles
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2017-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2018-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2019-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2020-12-31,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2021-06-30,1.0,centres de santé
-Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2021-12-31,1.0,centres de santé
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-02-28,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-03-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-04-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-05-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-06-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-07-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-08-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-09-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-10-31,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-11-30,0.0,contrôles
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,43,Haute-Loire,2022-12-31,0.0,contrôles
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,43,Haute-Loire,2017-06-30,7.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,43,Haute-Loire,2017-12-31,7.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,43,Haute-Loire,2018-06-30,8.0,maisons de santé
@@ -260,33 +343,56 @@ Doubler le nombre de maisons de santé et de centres de santé dans les territoi
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,43,Haute-Loire,2020-12-31,11.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,43,Haute-Loire,2021-06-30,11.0,maisons de santé
 Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,43,Haute-Loire,2021-12-31,12.0,maisons de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,43,Haute-Loire,2022-06-30,14.0,maisons de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,43,Haute-Loire,2022-12-31,15.0,maisons de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2017-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2018-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2019-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2020-12-31,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2021-06-30,1.0,centres de santé
+Doubler le nombre de maisons de santé et de centres de santé dans les territoires,Nombre de centres de santé,nb-centres-sante,43,Haute-Loire,2021-12-31,1.0,centres de santé
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,43,Haute-Loire,2017-10-31,48.1,% de réussite
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,43,Haute-Loire,2019-10-31,53.1,% de réussite
 Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,43,Haute-Loire,2020-10-31,60.8,% de réussite
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,43,Haute-Loire,2021-10-31,56.7,% de réussite
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2020-09-30,1.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2020-10-31,1.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2020-11-30,1.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2020-12-31,3.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-01-31,7.0,bénéficiaires
 Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-02-28,7.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-03-31,9.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-04-30,12.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-05-31,13.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-06-30,14.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-07-31,14.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-08-31,15.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-09-30,19.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-10-31,22.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-11-30,23.0,bénéficiaires
-Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-12-31,24.0,bénéficiaires
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2017-12-31,436.0,agriculteurs
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2018-12-31,457.0,agriculteurs
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2019-12-31,499.0,agriculteurs
-Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2020-12-31,543.0,agriculteurs
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-03-31,10.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-04-30,13.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-05-31,14.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-06-30,15.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-07-31,15.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-08-31,16.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-09-30,20.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-10-31,23.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-11-30,24.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2021-12-31,25.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-01-31,26.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-02-28,26.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-03-31,28.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-04-30,28.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-05-31,29.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-06-30,31.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-07-31,32.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-08-31,38.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-09-30,45.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-10-31,45.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-11-30,46.0,bénéficiaires
+Accompagner les aidants,Nombre de bénéficiaires d'un congé de proche aidant indemnisé,nb-beneficiaires-ajpa,43,Haute-Loire,2022-12-31,49.0,bénéficiaires
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,43,Haute-Loire,2017-12-31,11.1,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,43,Haute-Loire,2018-12-31,11.7,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,43,Haute-Loire,2019-12-31,12.5,% de surface agricole
 Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,43,Haute-Loire,2020-12-31,13.1,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Surface agricole cultivée en agriculture biologique,surface-agriculture-biologique,43,Haute-Loire,2021-12-31,13.8,% de surface agricole
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2017-12-31,436.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2018-12-31,457.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2019-12-31,499.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2020-12-31,543.0,agriculteurs
+Réduire l'utilisation des produits phytosanitaires et accélérer la transition écologique,Nombre d’agriculteurs engagés dans une démarche certifiée de transition agro-écologique,nb-agriculteurs-agro-eco,43,Haute-Loire,2021-12-31,603.0,agriculteurs
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,43,Haute-Loire,2017-06-30,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,43,Haute-Loire,2017-12-31,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,43,Haute-Loire,2018-06-30,0.0,habitants
@@ -297,16 +403,20 @@ Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gasp
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,43,Haute-Loire,2020-12-31,0.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,43,Haute-Loire,2021-06-30,40000.0,habitants
 Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,43,Haute-Loire,2021-12-31,40000.0,habitants
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,43,Haute-Loire,2022-06-30,40000.0,habitants
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,43,Haute-Loire,2022-12-31,230000.0,habitants
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,43,Haute-Loire,2017-09-30,38.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,43,Haute-Loire,2018-09-30,39.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,43,Haute-Loire,2019-09-30,42.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,43,Haute-Loire,2020-09-30,43.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,43,Haute-Loire,2021-09-30,45.0,unités
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,43,Haute-Loire,2022-09-30,46.0,unités
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,43,Haute-Loire,2017-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,43,Haute-Loire,2018-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,43,Haute-Loire,2019-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,43,Haute-Loire,2020-09-30,1.0,classes
 Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,43,Haute-Loire,2021-09-30,2.0,classes
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,43,Haute-Loire,2022-09-30,2.0,classes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,43,Haute-Loire,2017-03-31,184.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,43,Haute-Loire,2017-06-30,218.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,43,Haute-Loire,2017-09-30,282.0,jeunes
@@ -328,66 +438,7 @@ Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,43,Haute-Loire,2021-09-30,297.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,43,Haute-Loire,2021-12-31,415.0,jeunes
 Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,43,Haute-Loire,2022-03-31,183.0,jeunes
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-01-31,6.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-02-28,6.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-03-31,8.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-04-30,6.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-05-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-06-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-07-31,6.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-08-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-09-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-10-31,6.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-11-30,6.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-12-31,7.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-01-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-02-28,7.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-03-31,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-04-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-05-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-06-30,7.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-07-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-08-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-09-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-10-31,6.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-11-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-12-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-01-31,6.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-02-28,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-03-31,7.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-04-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-05-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-06-30,10.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-07-31,9.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-08-31,7.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-09-30,7.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-10-31,9.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-11-30,12.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-12-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-01-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-02-29,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-03-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-04-30,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-05-31,0.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-06-30,2.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-07-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-08-31,8.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-09-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-10-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-11-30,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-12-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-01-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-02-28,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-03-31,3.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-04-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-05-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-06-30,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-07-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-08-31,8.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-09-30,8.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-10-31,5.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-11-30,7.0,atteintes aux biens dans l'année
-Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-12-31,-7.0,atteintes aux biens dans l'année
+Promouvoir l'engagement chez les jeunes,Nombre de volontaires ayant réalisé au moins un jour de mission de service civique dans l'année,nb-jeunes-engages,43,Haute-Loire,2022-06-30,211.0,jeunes
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,43,Haute-Loire,2017-01-31,0.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,43,Haute-Loire,2017-02-28,2.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,43,Haute-Loire,2017-03-31,0.0,atteintes aux personnes dans l'année
@@ -448,12 +499,73 @@ Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,43,Haute-Loire,2021-10-31,5.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,43,Haute-Loire,2021-11-30,0.0,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,43,Haute-Loire,2021-12-31,-7.0,atteintes aux personnes dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-01-31,6.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-02-28,6.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-03-31,8.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-04-30,6.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-05-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-06-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-07-31,6.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-08-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-09-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-10-31,6.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-11-30,6.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2017-12-31,7.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-01-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-02-28,7.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-03-31,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-04-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-05-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-06-30,7.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-07-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-08-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-09-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-10-31,6.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-11-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2018-12-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-01-31,6.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-02-28,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-03-31,7.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-04-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-05-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-06-30,10.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-07-31,9.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-08-31,7.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-09-30,7.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-10-31,9.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-11-30,12.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2019-12-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-01-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-02-29,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-03-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-04-30,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-05-31,0.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-06-30,2.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-07-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-08-31,8.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-09-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-10-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-11-30,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2020-12-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-01-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-02-28,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-03-31,3.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-04-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-05-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-06-30,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-07-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-08-31,8.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-09-30,8.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-10-31,5.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-11-30,7.0,atteintes aux biens dans l'année
+Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,43,Haute-Loire,2021-12-31,-7.0,atteintes aux biens dans l'année
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,43,Haute-Loire,2017-12-31,276532.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,43,Haute-Loire,2018-12-31,273182.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,43,Haute-Loire,2019-12-31,262666.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,43,Haute-Loire,2020-12-31,283605.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,43,Haute-Loire,2021-12-31,268424.0,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,43,Haute-Loire,2022-01-31,264878.0,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,43,Haute-Loire,2022-10-31,260684.0,heures de patrouille sur douze mois *
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2018-08-31,326.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2018-09-30,1349.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2018-10-31,1780.0,Recrutements depuis le mois d'août précédent
@@ -493,11 +605,23 @@ Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeu
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2021-08-31,458.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2021-09-30,1911.0,Recrutements depuis le mois d'août précédent
 Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2021-10-31,2385.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2021-11-30,2763.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2021-12-31,3017.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-01-31,3371.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-02-28,3646.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-03-31,3970.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-04-30,4351.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-05-31,4706.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-06-30,5050.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-07-31,5511.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-08-31,525.0,Recrutements depuis le mois d'août précédent
+Plan 1 jeune 1 solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,43,Haute-Loire,2022-09-30,2049.0,Recrutements depuis le mois d'août précédent
 Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,43,Haute-Loire,2021-03-31,0.0,% des demandes *
+Simplifier l’accès à l’aide juridictionnelle,Nombre de demandes d'aide juridictionnelle formulées par voie dématérialisée,nb-aide-juridictionnelle-dematerialisee,43,Haute-Loire,2022-11-30,11.1,% des demandes *
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2017-03-31,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2017-06-30,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2017-09-30,3.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2017-12-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2017-12-31,3.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2018-03-31,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2018-06-30,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2018-09-30,0.0,ordonnances dans l'année
@@ -508,9 +632,14 @@ Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protecti
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2019-12-31,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2020-03-31,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2020-06-30,3.0,ordonnances dans l'année
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2020-09-30,3.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2020-09-30,6.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2020-12-31,0.0,ordonnances dans l'année
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2021-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2021-06-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2021-09-30,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2021-12-31,5.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2022-03-31,0.0,ordonnances dans l'année
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,43,Haute-Loire,2022-06-30,6.0,ordonnances dans l'année
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,43,Haute-Loire,2020-01-31,122.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,43,Haute-Loire,2020-01-31,122.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,43,Haute-Loire,2021-01-31,178.0,logements
@@ -529,6 +658,12 @@ Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un acco
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,43,Haute-Loire,2021-12-31,238.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,43,Haute-Loire,2022-02-28,240.0,logements
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,43,Haute-Loire,2022-02-28,240.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,43,Haute-Loire,2022-03-31,261.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,43,Haute-Loire,2022-03-31,261.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,43,Haute-Loire,2022-06-30,485.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,43,Haute-Loire,2022-06-30,485.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements ayant bénéficié d'un accompagnement (réhabilitation ou subvention),nb-logement-accompagnement,43,Haute-Loire,2022-09-30,503.0,logements
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les villes moyennes (+ de 20 000 habitants),nb-logement-accompagnement,43,Haute-Loire,2022-09-30,503.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,43,Haute-Loire,2020-10-31,4.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,43,Haute-Loire,2020-11-30,11.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,43,Haute-Loire,2020-12-31,34.0,logements rénovés
@@ -546,6 +681,8 @@ Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites v
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,43,Haute-Loire,2021-12-31,172.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,43,Haute-Loire,2022-01-31,172.0,logements rénovés
 Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,43,Haute-Loire,2022-02-28,186.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,43,Haute-Loire,2022-03-31,209.0,logements rénovés
+Redynamiser les cœurs de ville,Nombre de logements rénovés dans les petites villes (- de 20 000 habitants),nb-logements-renoves-petites-villes,43,Haute-Loire,2022-06-30,227.0,logements rénovés
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2020-01-31,2.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2020-02-29,3.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2020-03-31,3.0,labellisations
@@ -573,6 +710,40 @@ Déployer une offre France services dans tous les territoires ,Nombre de labelli
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-01-31,17.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-02-28,17.0,labellisations
 Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-03-31,17.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-04-30,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-05-31,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-06-30,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-07-31,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-08-31,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-09-30,18.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-10-31,19.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-11-30,19.0,labellisations
+Déployer une offre France services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,43,Haute-Loire,2022-12-31,19.0,labellisations
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2019-09-30,12.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2019-12-31,12.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-03-31,10.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-06-30,10.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-09-30,10.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-11-30,10.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-12-31,10.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-03-31,81.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-06-30,89.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-07-31,83.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-10-31,92.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-11-30,114.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-12-31,117.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-01-31,120.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-02-28,119.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-03-31,121.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-04-30,128.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-05-31,153.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-06-30,158.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-07-31,158.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-08-31,162.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-09-30,169.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-10-31,166.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-11-30,169.0,bornes de recharge
+Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-12-31,171.0,bornes de recharge
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2018-01-31,0.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2018-03-31,107.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2018-06-30,541.0,primes et bonus
@@ -597,20 +768,17 @@ Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologi
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2021-11-30,6627.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2021-12-31,6713.0,primes et bonus
 Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-01-31,6814.0,primes et bonus
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2019-09-30,12.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2019-12-31,12.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-03-31,10.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-06-30,10.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-09-30,10.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-11-30,10.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2020-12-31,10.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-03-31,81.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-06-30,89.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-07-31,83.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-10-31,92.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-11-30,114.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2021-12-31,117.0,bornes de recharge
-Verdir le parc automobile,Nombre de bornes de recharge pour véhicules électriques déployées,nb-points-recharge,43,Haute-Loire,2022-01-31,120.0,bornes de recharge
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-02-28,6895.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-03-31,7006.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-04-30,7093.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-05-31,7199.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-06-30,7293.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-07-31,7342.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-08-31,7415.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-09-30,7530.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-10-31,7637.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-11-30,7747.0,primes et bonus
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,43,Haute-Loire,2022-12-31,7840.0,primes et bonus
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2017-12-31,28.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2018-03-31,29.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2018-06-30,31.0,% de déploiement
@@ -627,6 +795,10 @@ Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tou
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2021-03-31,57.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2021-06-30,60.0,% de déploiement
 Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2021-09-30,62.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2021-12-31,65.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2022-03-31,68.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2022-06-30,71.0,% de déploiement
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,43,Haute-Loire,2022-09-30,74.0,% de déploiement
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2018-03-31,233.0,pères / conjoints dans l'année
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2018-06-30,259.0,pères / conjoints dans l'année
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2018-09-30,269.0,pères / conjoints dans l'année
@@ -641,8 +813,11 @@ Allonger le congé paternité pour un meilleur développement de l’enfant,Nomb
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2020-12-31,240.0,pères / conjoints dans l'année
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2021-03-31,237.0,pères / conjoints dans l'année
 Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2021-06-30,268.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2021-09-30,340.0,pères / conjoints dans l'année
-Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2021-12-31,196.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2021-09-30,349.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2021-12-31,276.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2022-03-31,260.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2022-06-30,258.0,pères / conjoints dans l'année
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité,nb-peres-conge-paternite,43,Haute-Loire,2022-09-30,212.0,pères / conjoints dans l'année
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2020-12-31,8.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2021-01-31,9.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2021-02-28,16.0,familles
@@ -658,14 +833,109 @@ Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéfic
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2021-12-31,108.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-01-31,114.0,familles
 Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-02-28,128.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-03-31,138.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-04-30,144.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-05-31,150.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-07-31,193.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-08-31,221.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-09-30,222.0,familles
+Lutter contre les impayés de pensions alimentaires,Nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires,nb-familles-aripa,43,Haute-Loire,2022-10-31,229.0,familles
 Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,43,Haute-Loire,2017-12-31,7.0,% de réseaux
 Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,43,Haute-Loire,2018-12-31,30.0,% de réseaux
-Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,43,Haute-Loire,2019-12-31,75.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,43,Haute-Loire,2019-12-31,25.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,43,Haute-Loire,2020-12-31,28.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,43,Haute-Loire,2021-12-31,42.0,% de réseaux
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats (national et local),tx-transparence-resultats,43,Haute-Loire,2022-12-31,90.0,% de réseaux
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,43,Haute-Loire,2017-12-31,0.0,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,43,Haute-Loire,2018-12-31,95.96,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,43,Haute-Loire,2019-12-31,98.99,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,43,Haute-Loire,2020-12-31,99.84,%
 Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,43,Haute-Loire,2021-12-31,99.53,%
+Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les délais prévus,taux-paiement-dpb,43,Haute-Loire,2022-12-31,99.77,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-01-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-02-28,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-03-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-04-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-05-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-06-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-07-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-08-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-09-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-10-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-11-30,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-12-31,0.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-01-31,10.98,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-02-29,11.17,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-03-31,12.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-04-30,10.21,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-05-31,11.14,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-06-30,9.75,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-07-31,9.44,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-08-31,10.49,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-09-30,10.36,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-10-31,9.98,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-11-30,10.72,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-12-31,10.48,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-01-31,12.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-02-28,10.62,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-03-31,11.41,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-04-30,10.05,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-05-31,12.32,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-06-30,12.03,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-07-31,11.37,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-08-31,9.8,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-09-30,12.11,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-10-31,12.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-11-30,11.23,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-12-31,12.69,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2022-01-31,13.25,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2022-02-28,11.34,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2022-03-31,12.35,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2022-04-30,12.78,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2022-05-31,12.65,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2022-06-30,12.24,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-01-31,7.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-02-28,14.92,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-03-31,20.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-04-30,14.79,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-05-31,17.04,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-06-30,8.92,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-07-31,17.09,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-08-31,10.89,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-09-30,4.85,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-10-31,15.85,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-11-30,12.45,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-12-31,14.11,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-01-31,9.69,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-02-29,13.1,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-03-31,16.45,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-04-30,5.26,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-05-31,8.81,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-06-30,14.44,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-07-31,15.07,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-08-31,9.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-09-30,7.03,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-10-31,6.6,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-11-30,4.33,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-12-31,5.7,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-01-31,36.68,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-02-28,26.76,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-03-31,30.33,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-04-30,35.95,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-05-31,33.7,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-06-30,33.89,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-07-31,32.79,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-08-31,29.77,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-09-30,27.29,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-10-31,29.57,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-11-30,34.02,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-12-31,33.01,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2022-01-31,32.75,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2022-02-28,25.0,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2022-03-31,29.92,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2022-04-30,29.87,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2022-05-31,32.63,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2022-06-30,28.18,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2019-01-31,0.0,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2019-02-28,0.0,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2019-03-31,0.0,%
@@ -699,72 +969,15 @@ Sécuriser le paiement des aides PAC,Taux de bénéficiaires payés dans les dé
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2021-07-31,70.31,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2021-08-31,69.8,%
 "Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2021-09-30,69.8,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-01-31,7.5,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-02-28,14.92,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-03-31,20.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-04-30,14.79,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-05-31,17.04,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-06-30,8.92,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-07-31,17.09,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-08-31,10.89,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-09-30,4.85,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-10-31,15.85,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-11-30,12.45,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2019-12-31,14.46,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-01-31,9.69,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-02-29,13.1,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-03-31,16.45,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-04-30,5.26,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-05-31,8.56,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-06-30,14.54,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-07-31,15.15,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-08-31,9.16,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-09-30,7.03,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-10-31,6.6,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-11-30,4.33,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2020-12-31,5.7,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-01-31,36.68,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-02-28,26.76,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-03-31,30.45,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-04-30,35.95,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-05-31,33.7,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-06-30,33.83,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-07-31,32.91,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-08-31,30.14,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins audio,tx-equipements-audio,43,Haute-Loire,2021-09-30,26.87,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-01-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-02-28,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-03-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-04-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-05-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-06-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-07-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-08-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-09-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-10-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-11-30,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2019-12-31,0.0,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-01-31,10.95,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-02-29,11.18,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-03-31,12.02,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-04-30,10.21,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-05-31,11.16,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-06-30,9.73,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-07-31,9.44,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-08-31,10.5,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-09-30,10.37,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-10-31,9.98,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-11-30,10.67,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2020-12-31,10.49,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-01-31,12.1,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-02-28,10.66,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-03-31,11.43,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-04-30,10.08,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-05-31,12.36,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-06-30,12.23,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-07-31,11.69,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-08-31,9.92,%
-"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins optiques,tx-equipements-optique,43,Haute-Loire,2021-09-30,11.77,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2021-10-31,70.13,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2021-11-30,68.65,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2021-12-31,70.21,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2022-01-31,68.5,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2022-02-28,68.61,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2022-03-31,69.94,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2022-04-30,69.16,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2022-05-31,68.31,%
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements vendus sans reste à charge dans le total des soins dentaires,tx-equipements-dentaire,43,Haute-Loire,2022-06-30,67.98,%
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2020-08-31,0.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2020-09-30,19.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2020-10-31,24.0,amendes dressées
@@ -782,6 +995,18 @@ Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dress
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2021-10-31,27.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2021-11-30,21.0,amendes dressées
 Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2021-12-31,11.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-01-31,24.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-02-28,37.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-03-31,21.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-04-30,26.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-05-31,45.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-06-30,31.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-07-31,44.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-08-31,40.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-09-30,31.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-10-31,28.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-11-30,13.0,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,43,Haute-Loire,2022-12-31,12.0,amendes dressées
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2019-09-30,60.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2019-12-31,100.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2020-03-31,56.0,%
@@ -792,13 +1017,28 @@ Garantir l'égalité professionnelle entre les femmes et les hommes,Part des ent
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2021-06-30,72.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2021-09-30,89.0,%
 Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2021-12-31,90.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2022-03-31,79.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2022-06-30,88.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2022-09-30,90.0,%
+Garantir l'égalité professionnelle entre les femmes et les hommes,Part des entreprises respectant leur obligation de publier l’index égalité professionnelle,tx-entreprise-egalite-pro,43,Haute-Loire,2022-12-31,91.0,%
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,43,Haute-Loire,2019-09-30,74.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,43,Haute-Loire,2020-09-30,79.0,% des classes
 "Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,43,Haute-Loire,2021-09-30,86.0,% des classes
+"Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,43,Haute-Loire,2022-09-30,84.0,% des classes
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-01-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-02-29,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-03-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-04-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-05-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-06-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-07-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-08-31,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-09-30,0.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-10-31,0.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-11-30,6.0,entreprises industrielles
-Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-12-31,9.0,entreprises industrielles
-Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-01-31,9.0,entreprises industrielles
-Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-02-28,9.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2020-12-31,10.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-01-31,10.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-02-28,10.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-03-31,21.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-04-30,29.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-05-31,50.0,entreprises industrielles
@@ -809,73 +1049,98 @@ Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (don
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-10-31,102.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-11-30,104.0,entreprises industrielles
 Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2021-12-31,103.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-01-31,105.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-02-28,95.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-03-31,96.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-04-30,98.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-05-31,98.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-06-30,98.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-07-31,98.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-08-31,98.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-09-30,98.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-10-31,98.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-11-30,98.0,entreprises industrielles
+Aide de France Relance aux entreprises,Nombre d’entreprises industrielles (dont PME) bénéficiaires des aides à l'investissement de France Relance,nb-entreprises-industrielles-agricoles,43,Haute-Loire,2022-12-31,99.0,entreprises industrielles
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,43,Haute-Loire,2018-03-31,26.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,43,Haute-Loire,2019-03-31,31.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,43,Haute-Loire,2019-09-30,32.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,43,Haute-Loire,2020-09-30,32.0,% de collégiens
 Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,43,Haute-Loire,2021-09-30,40.0,% de collégiens
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-01-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-02-28,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-03-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-04-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-05-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-06-30,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-07-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-08-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-09-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-10-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-11-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-12-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-01-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-02-28,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-03-31,6.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-04-30,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-05-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-06-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-07-31,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-08-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-09-30,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-10-31,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-11-30,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-12-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-01-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-02-28,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-03-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-04-30,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-05-31,4.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-06-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-07-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-08-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-09-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-10-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-11-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-12-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-01-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-02-29,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-03-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-04-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-05-31,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-06-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-07-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-08-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-09-30,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-10-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-11-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-12-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-01-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-02-28,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-03-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-04-30,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-05-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-06-30,2.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-07-31,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-08-31,0.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-09-30,3.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-10-31,5.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-11-30,1.0,morts
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-12-31,0.0,morts
+Devoirs faits au collège,Part de collégiens bénéficiant du dispositif (en %),taux-collegiens-beneficiaires,43,Haute-Loire,2022-09-30,34.0,% de collégiens
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-01-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-02-28,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-03-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-05-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-06-30,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-07-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-09-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-10-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-11-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2017-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-01-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-02-28,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-03-31,6.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-04-30,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-05-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-06-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-07-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-09-30,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-10-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-11-30,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2018-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-01-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-02-28,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-03-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-04-30,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-05-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-06-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-07-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-08-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-09-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-10-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-11-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2019-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-01-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-02-29,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-03-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-05-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-06-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-07-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-08-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-09-30,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-10-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-11-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2020-12-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-01-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-02-28,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-03-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-04-30,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-05-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-06-30,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-07-31,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-08-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-09-30,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-10-31,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-11-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2021-12-31,0.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-01-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-02-28,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-03-31,3.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-04-30,1.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-05-31,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-06-30,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-07-31,5.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-08-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-09-30,4.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-10-31,2.0,morts dans l'année
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,43,Haute-Loire,2022-11-30,1.0,morts dans l'année
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,43,Haute-Loire,2017-12-31,994.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,43,Haute-Loire,2018-12-31,1222.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,43,Haute-Loire,2019-12-31,1367.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,43,Haute-Loire,2020-12-31,1781.0,contrats
 Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,43,Haute-Loire,2021-12-31,2195.0,contrats
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,43,Haute-Loire,2022-10-31,2467.0,contrats

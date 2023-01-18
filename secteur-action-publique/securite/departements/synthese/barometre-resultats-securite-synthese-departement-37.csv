@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,37,Indre-et-Loire,496823.0,2022-01-31,574436.0,2017-12-31,-77613.0,-14.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,37,Indre-et-Loire,537134.0,2022-10-31,574436.0,2017-12-31,-37302.0,-6.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,37,Indre-et-Loire,141.0,2021-12-31,142.0,2017-12-31,-1.0,-1.0,,,,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,37,Indre-et-Loire,577.0,2021-12-31,586.0,2017-12-31,-9.0,-2.0,,,,atteintes aux biens dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,37,Indre-et-Loire,386.0,2021-12-31,0.0,2020-05-31,386.0,,,,,amendes dressées
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,37,Indre-et-Loire,12.0,2020-12-31,6.0,2017-12-31,6.0,100.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,37,Indre-et-Loire,56.0,2021-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,37,Indre-et-Loire,32.0,2021-12-31,32.0,2017-12-31,0.0,0.0,,,,morts
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,37,Indre-et-Loire,574.0,2022-12-31,0.0,2020-05-31,574.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,37,Indre-et-Loire,21.0,2021-12-31,6.0,2017-12-31,15.0,250.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,37,Indre-et-Loire,41.0,2022-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,37,Indre-et-Loire,33.0,2022-09-30,32.0,2017-12-31,1.0,3.0,,,,morts dans l'année

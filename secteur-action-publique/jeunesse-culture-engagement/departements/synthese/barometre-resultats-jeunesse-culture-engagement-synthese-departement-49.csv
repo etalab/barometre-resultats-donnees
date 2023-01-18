@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,49,Maine-et-Loire,11469,2022-02-28,0,2019-01-31,11469.0,,21676,53.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,49,Maine-et-Loire,487,2021-12-31,0,2019-03-31,487.0,,1140,43.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,49,Maine-et-Loire,700,2021-12-31,0,2019-03-31,700.0,,2579,27.0,2022-12-31,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,49,Maine-et-Loire,19592.0,2022-12-31,0,2019-01-31,19592.0,,21676.0,90.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,49,Maine-et-Loire,487.0,2022-12-31,0,2019-03-31,487.0,,1140.0,43.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,49,Maine-et-Loire,3202.0,2022-12-31,0,2019-03-31,3202.0,,2579.0,100.0,2022-12-31,attestations

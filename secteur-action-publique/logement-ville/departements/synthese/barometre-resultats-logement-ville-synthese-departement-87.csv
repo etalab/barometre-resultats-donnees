@@ -1,3 +1,3 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,87,Haute-Vienne,6520.0,2022-01-31,0.0,2019-12-31,6520.0,,11104.0,59.0,2022-12-31,dossiers validés
-Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,87,Haute-Vienne,328.0,2021-12-31,152.0,2017-12-31,176.0,116.0,264.0,100.0,2022-12-31,personnes dans l'année*
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,87,Haute-Vienne,11614.0,2022-10-31,0.0,2019-12-31,11614.0,,11104.0,100.0,2022-12-31,dossiers validés
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,87,Haute-Vienne,304.0,2022-11-30,152.0,2017-12-31,152.0,100.0,343.0,80.0,2022-12-31,personnes dans l'année*

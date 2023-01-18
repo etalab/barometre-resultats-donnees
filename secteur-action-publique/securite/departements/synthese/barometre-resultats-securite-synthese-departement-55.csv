@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,400338.0,2022-01-31,328336.0,2017-12-31,72002.0,22.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,55,Meuse,416483.0,2022-10-31,328336.0,2017-12-31,88147.0,27.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,55,Meuse,18.0,2021-12-31,17.0,2017-12-31,1.0,6.0,,,,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,55,Meuse,47.0,2021-12-31,42.0,2017-12-31,5.0,12.0,,,,atteintes aux biens dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,58.0,2021-12-31,0.0,2020-05-31,58.0,,,,,amendes dressées
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,3.0,2019-12-31,0.0,2017-09-30,3.0,,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,0.0,2021-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,55,Meuse,10.0,2021-12-31,16.0,2017-12-31,-6.0,-38.0,,,,morts
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,55,Meuse,186.0,2022-12-31,0.0,2020-05-31,186.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,55,Meuse,0.0,2021-03-31,0.0,2017-09-30,0.0,,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,55,Meuse,0.0,2022-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,55,Meuse,10.0,2022-09-30,16.0,2017-12-31,-6.0,-38.0,,,,morts dans l'année

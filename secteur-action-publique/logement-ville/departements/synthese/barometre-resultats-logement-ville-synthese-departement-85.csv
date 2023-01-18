@@ -1,3 +1,3 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,85,Vendée,15491.0,2022-01-31,0.0,2019-12-31,15491.0,,9847.0,100.0,2022-12-31,dossiers validés
-Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,85,Vendée,224.0,2021-12-31,53.0,2017-12-31,171.0,323.0,220.0,100.0,2022-12-31,personnes dans l'année*
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,85,Vendée,23265.0,2022-10-31,0.0,2019-12-31,23265.0,,9847.0,100.0,2022-12-31,dossiers validés
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,85,Vendée,257.0,2022-11-30,53.0,2017-12-31,204.0,385.0,242.0,100.0,2022-12-31,personnes dans l'année*

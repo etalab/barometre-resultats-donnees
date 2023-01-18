@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,77,Seine-et-Marne,1199290.0,2022-01-31,700083.0,2017-12-31,499207.0,71.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,77,Seine-et-Marne,1248021.0,2022-10-31,700083.0,2017-12-31,547938.0,78.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,77,Seine-et-Marne,783.0,2021-12-31,963.0,2017-12-31,-180.0,-19.0,,,,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,77,Seine-et-Marne,2273.0,2021-12-31,2958.0,2017-12-31,-685.0,-23.0,,,,atteintes aux biens dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,77,Seine-et-Marne,3592.0,2021-12-31,0.0,2020-05-31,3592.0,,,,,amendes dressées
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,77,Seine-et-Marne,91.0,2020-12-31,30.0,2017-12-31,61.0,203.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,77,Seine-et-Marne,25.0,2021-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,77,Seine-et-Marne,52.0,2021-12-31,81.0,2017-12-31,-29.0,-36.0,,,,morts
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,77,Seine-et-Marne,4843.0,2022-12-31,0.0,2020-05-31,4843.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,77,Seine-et-Marne,118.0,2021-12-31,30.0,2017-12-31,88.0,293.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,77,Seine-et-Marne,14.0,2022-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,77,Seine-et-Marne,37.0,2022-09-30,81.0,2017-12-31,-44.0,-54.0,,,,morts dans l'année

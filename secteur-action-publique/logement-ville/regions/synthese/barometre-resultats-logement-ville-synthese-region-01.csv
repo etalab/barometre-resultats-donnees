@@ -1,3 +1,3 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,01,Guadeloupe,3634.0,2022-01-31,0,2019-12-31,3634.0,,4536.0,80.0,2022-12-31,dossiers validés
-Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,01,Guadeloupe,95.0,2021-12-31,136,2017-12-31,-41.0,-30.0,165.0,0.0,2022-12-31,personnes dans l'année*
+MaPrimeRénov',Nombre de dossiers MaPrimeRénov' validés,nb-maprimerenov-valides,01,Guadeloupe,4539.0,2022-07-31,0.0,2019-12-31,4539.0,,4536.0,100.0,2022-12-31,dossiers validés
+Faciliter l’accès au logement des personnes sans-abri,Nombre de personnes sans-abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,01,Guadeloupe,57.0,2022-11-30,136.0,2017-12-31,-79.0,-58.0,165.0,0.0,2022-12-31,personnes dans l'année*

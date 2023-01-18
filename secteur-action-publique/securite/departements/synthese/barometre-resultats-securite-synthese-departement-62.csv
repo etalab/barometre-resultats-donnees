@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,62,Pas-de-Calais,1650174.0,2022-01-31,835493.0,2017-12-31,814681.0,98.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,62,Pas-de-Calais,1742470.0,2022-10-31,835493.0,2017-12-31,906977.0,109.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,62,Pas-de-Calais,180.0,2021-12-31,199.0,2017-12-31,-19.0,-10.0,,,,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,62,Pas-de-Calais,368.0,2021-12-31,439.0,2017-12-31,-71.0,-16.0,,,,atteintes aux biens dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,62,Pas-de-Calais,1984.0,2021-12-31,0.0,2020-05-31,1984.0,,,,,amendes dressées
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,62,Pas-de-Calais,32.0,2020-12-31,4.0,2017-12-31,28.0,700.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,62,Pas-de-Calais,1.0,2021-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,62,Pas-de-Calais,47.0,2021-12-31,64.0,2017-12-31,-17.0,-27.0,,,,morts
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,62,Pas-de-Calais,2449.0,2022-12-31,0.0,2020-05-31,2449.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,62,Pas-de-Calais,24.0,2021-09-30,4.0,2017-12-31,20.0,500.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,62,Pas-de-Calais,9.0,2022-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,62,Pas-de-Calais,61.0,2022-09-30,64.0,2017-12-31,-3.0,-5.0,,,,morts dans l'année

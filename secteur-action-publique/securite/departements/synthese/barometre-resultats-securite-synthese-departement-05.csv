@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,05,Hautes-Alpes,331371.0,2022-01-31,290581.0,2017-12-31,40790.0,14.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,05,Hautes-Alpes,371941.0,2022-10-31,290581.0,2017-12-31,81360.0,28.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,05,Hautes-Alpes,19.0,2021-12-31,8.0,2017-12-31,11.0,138.0,,,,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,05,Hautes-Alpes,71.0,2021-12-31,71.0,2017-12-31,0.0,0.0,,,,atteintes aux biens dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,05,Hautes-Alpes,228.0,2021-12-31,0.0,2020-05-31,228.0,,,,,amendes dressées
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,05,Hautes-Alpes,259.0,2022-12-31,0.0,2020-05-31,259.0,,,,,amendes dressées
 Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,05,Hautes-Alpes,12.0,2020-12-31,0.0,2017-03-31,12.0,,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,05,Hautes-Alpes,0.0,2021-12-31,,,,,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,05,Hautes-Alpes,17.0,2021-12-31,12.0,2017-12-31,5.0,42.0,,,,morts
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,05,Hautes-Alpes,2.0,2022-12-31,,,,,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,05,Hautes-Alpes,12.0,2022-09-30,12.0,2017-12-31,0.0,0.0,,,,morts dans l'année

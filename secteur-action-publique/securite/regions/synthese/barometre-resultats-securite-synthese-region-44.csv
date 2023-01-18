@@ -1,8 +1,8 @@
 mesure,indicateur,id_indicateur,code_region,libelle_region,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,44,Grand Est,5578141.0,2022-01-31,5281563.0,2017-12-31,296578.0,6.0,,,,heures de patrouille sur douze mois *
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,44,Grand Est,5823008.0,2022-10-31,5281563.0,2017-12-31,541445.0,10.0,,,,heures de patrouille sur douze mois *
 Renforcer la sécurité du quotidien,Atteintes aux personnes dans les transports en commun,nb-atteintes-personnes,44,Grand Est,1257.0,2021-12-31,1153.0,2017-12-31,104.0,9.0,,,,atteintes aux personnes dans l'année
 Renforcer la sécurité du quotidien,Atteintes aux biens dans les transports en commun,nb-atteintes-biens,44,Grand Est,3176.0,2021-12-31,3596.0,2017-12-31,-420.0,-12.0,,,,atteintes aux biens dans l'année
-Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,44,Grand Est,4151.0,2021-12-31,0.0,2020-05-31,4151.0,,,,,amendes dressées
-Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,44,Grand Est,217.0,2020-12-31,82.0,2017-12-31,135.0,165.0,,,,ordonnances dans l'année
-Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,44,Grand Est,675.0,2021-12-31,138.0,2018-12-31,537.0,389.0,,,,contrôles
-Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,44,Grand Est,241.0,2021-12-31,281.0,2017-12-31,-40.0,-14.0,,,,morts
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,44,Grand Est,5390.0,2022-12-31,0.0,2020-05-31,5390.0,,,,,amendes dressées
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,44,Grand Est,261.0,2021-12-31,82.0,2017-12-31,179.0,218.0,,,,ordonnances dans l'année
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés dans le cadre des CLIR ou des dispositifs existant localement avant la mise en place progressive des CLIR,nb-controles-clir,44,Grand Est,522.0,2022-12-31,138.0,2018-12-31,384.0,278.0,,,,contrôles
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,44,Grand Est,194.0,2022-09-30,281.0,2017-12-31,-87.0,-31.0,,,,morts dans l'année

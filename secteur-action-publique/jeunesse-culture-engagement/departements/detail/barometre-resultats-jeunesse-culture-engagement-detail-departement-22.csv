@@ -1,51 +1,66 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,date,valeur,unite
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2019-03-31,0,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2019-04-30,32,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2020-11-30,78,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2020-12-31,78,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-01-31,78,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-02-28,78,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-03-31,79,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-06-30,371,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-09-30,484,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-12-31,544,attestations
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,22,Côtes-d'Armor,2020-12-31,0,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,22,Côtes-d'Armor,2021-10-31,0,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,22,Côtes-d'Armor,2021-12-31,0,enfants
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-02-28,0,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-03-31,0,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-04-30,0,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-05-31,0,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-06-30,0,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-07-31,523,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-08-31,655,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-09-30,1211,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-10-31,1904,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-11-30,2575,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-12-31,3144,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-01-31,3414,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-02-29,4142,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-03-31,4480,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-04-30,4776,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-05-31,5048,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-06-30,5437,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-07-31,5911,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-08-31,6338,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-09-30,6836,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-10-31,7297,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-11-30,7639,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-12-31,8093,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-01-31,8554,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-02-28,8902,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-03-31,9353,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-04-30,9841,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-05-31,11092,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-06-30,11791,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-07-31,12221,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-08-31,12573,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-09-30,12910,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-10-31,13165,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-11-30,13722,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-12-31,13985,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-01-31,14464,utilisateurs
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-02-28,14978,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,22,Côtes-d'Armor,2020-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,22,Côtes-d'Armor,2021-10-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,22,Côtes-d'Armor,2021-12-31,0.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,22,Côtes-d'Armor,2022-12-31,182.0,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2019-03-31,0.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2019-04-30,32.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2020-11-30,78.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2020-12-31,78.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-01-31,78.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-02-28,78.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-03-31,79.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-06-30,371.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-09-30,484.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2021-12-31,544.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2022-03-31,558.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2022-06-30,1527.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2022-09-30,1670.0,attestations
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,22,Côtes-d'Armor,2022-12-31,1712.0,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-02-28,0.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-03-31,0.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-04-30,0.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-05-31,0.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-06-30,0.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-07-31,523.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-08-31,655.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-09-30,1211.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-10-31,1904.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-11-30,2575.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2019-12-31,3144.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-01-31,3414.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-02-29,4142.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-03-31,4480.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-04-30,4776.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-05-31,5048.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-06-30,5437.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-07-31,5911.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-08-31,6338.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-09-30,6836.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-10-31,7297.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-11-30,7639.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2020-12-31,8093.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-01-31,8554.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-02-28,8902.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-03-31,9353.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-04-30,9841.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-05-31,11092.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-06-30,11791.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-07-31,12221.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-08-31,12573.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-09-30,12910.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-10-31,13165.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-11-30,13722.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2021-12-31,13985.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-01-31,14464.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-02-28,14978.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-03-31,15606.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-04-30,16079.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-05-31,16670.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-06-30,17205.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-07-31,17630.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-08-31,18246.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-09-30,18808.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-10-31,19293.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-11-30,19748.0,utilisateurs
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,22,Côtes-d'Armor,2022-12-31,20374.0,utilisateurs

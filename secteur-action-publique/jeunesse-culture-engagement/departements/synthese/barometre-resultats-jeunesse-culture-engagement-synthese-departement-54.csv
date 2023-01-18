@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,54,Meurthe-et-Moselle,10049,2022-02-28,0,2019-01-31,10049.0,,21241,47.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,54,Meurthe-et-Moselle,41,2021-12-31,0,2019-03-31,41.0,,896,5.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,54,Meurthe-et-Moselle,485,2021-12-31,0,2019-03-31,485.0,,2007,24.0,2022-12-31,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,54,Meurthe-et-Moselle,16711.0,2022-12-31,0,2019-01-31,16711.0,,21241.0,79.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,54,Meurthe-et-Moselle,161.0,2022-12-31,0,2019-03-31,161.0,,896.0,18.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,54,Meurthe-et-Moselle,1401.0,2022-12-31,0,2019-03-31,1401.0,,2007.0,70.0,2022-12-31,attestations

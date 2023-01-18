@@ -1,4 +1,4 @@
 mesure,indicateur,id_indicateur,code_departement,libelle_departement,valeur_actuelle,date_valeur_actuelle,valeur_initiale,date_valeur_initiale,progression,pourcentage_progression,cible,pourcentage_cible,date_cible,unite
-Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,81,Tarn,4193,2022-02-28,0,2019-01-31,4193.0,,7815,54.0,2022-12-31,utilisateurs
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,81,Tarn,102,2021-12-31,0,2019-03-31,102.0,,463,22.0,2022-12-31,enfants
-Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,81,Tarn,287,2021-12-31,0,2019-03-31,287.0,,1086,26.0,2022-12-31,attestations
+Déployer le pass Culture,Nombre d’utilisateurs du pass Culture de 18 ans,nb-utilisateurs-pass-culture,81,Tarn,7212.0,2022-12-31,0,2019-01-31,7212.0,,7815.0,92.0,2022-12-31,utilisateurs
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d'enfants ayant suivi un cycle d’Aisance Aquatique,nb-cycle-aisance-aquatique,81,Tarn,315.0,2022-12-31,0,2019-03-31,315.0,,463.0,68.0,2022-12-31,enfants
+Apprendre à nager et à circuler à vélo en toute sécurité,Nombre d’attestations « savoir rouler à vélo » délivrées,nb-attestations-savoir-rouler-velo,81,Tarn,319.0,2022-12-31,0,2019-03-31,319.0,,1086.0,29.0,2022-12-31,attestations
